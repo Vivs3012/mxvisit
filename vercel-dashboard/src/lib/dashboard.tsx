@@ -55,36 +55,6 @@ type StoreData = {
 
 const MONTHS = ["Mar", "Apr", "May", "Jun", "Jul"];
 
-type StoreData = {
-  id: string;
-  name: string;
-  orders: number;
-  tml10: number;
-  fillRate: number;
-  sla35: number;
-  sla60: number;
-  rating: number;
-  availability: number;
-  perfectOrders: number;
-  stockoutAvg: number;
-  monthly: {
-    orders: number[];
-    fillRate: number[];
-    sla35: number[];
-    tml10: number[];
-    stockout: number[];
-  };
-  junJul: {
-    fillRate: number;
-    sla35: number;
-    tml10: number;
-    availability: number;
-  };
-  stockoutCats: Record<string, number> | null;
-  alerts: string[];
-  positives: string[];
-};
-
 const STORES: StoreData[] = [
   {
     id: "bahia",
@@ -3823,9 +3793,6 @@ export default function Dashboard() {
                       },
                     ]}
                     height={160}
-                    horizontal
-                    valueSuffix="%"
-                    showValues
                   />
                 </Stack>
               )}
@@ -3893,9 +3860,9 @@ export default function Dashboard() {
       </Stack>
       )}
 
-      {activeMainTab === "reuniao-cx" && <CxMeetingView />}
+      {activeMainTab === "reuniao-cx" && <ReuniaoCxView />}
 
-      {activeMainTab === "reuniao-produto" && <ProductMeetingView />}
+      {activeMainTab === "reuniao-produto" && <ReuniaoProductView />}
 
       {activeMainTab === "dinamica-ops" && <DinamicaOpsView />}
 

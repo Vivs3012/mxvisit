@@ -422,10 +422,14 @@ export function Table({
   headers,
   rows,
   columnAlign,
+  striped,
+  rowTone,
 }: {
   headers: string[];
   rows: ReactNode[][];
   columnAlign?: string[];
+  striped?: boolean;
+  rowTone?: (Tone | undefined)[];
 }) {
   return (
     <div style={{ overflowX: "auto" }}>
@@ -452,8 +456,18 @@ export function Table({
           </tr>
         </thead>
         <tbody>
-          {rows.map((row, ri) => (
-            <tr key={ri}>
+          {rows.map((row, ri) => {
+            const tone = rowTone?.[ri];
+            const rowStyle: CSSProperties = {
+              ...(striped && ri % 2 === 1 ? { background: "#f8fafc" } : {}),
+              ...(tone === "danger"
+                ? { background: "#fef2f2" }
+                : tone === "success"
+                  ? { background: "#f0fdf4" }
+                  : {}),
+            };
+            return (
+            <tr key={ri} style={Object.keys(rowStyle).length ? rowStyle : undefined}>
               {row.map((cell, ci) => (
                 <td
                   key={ci}
@@ -468,7 +482,8 @@ export function Table({
                 </td>
               ))}
             </tr>
-          ))}
+            );
+          })}
         </tbody>
       </table>
     </div>
