@@ -1,0 +1,122 @@
+[
+  {
+    "id": "javier-lastarria",
+    "name": "Javier Lastarria",
+    "role": "Country Head",
+    "photo": "/peru/context/team/javier-lastarria.jpeg"
+  },
+  {
+    "id": "adriano-sacri",
+    "name": "Adriano Sacri",
+    "role": "Tech & Sales",
+    "photo": "/peru/context/team/adriano-sacri.jpeg"
+  },
+  {
+    "id": "alexander-de-la-cruz",
+    "name": "Alexander de la Cruz",
+    "role": "Growth & Marketing",
+    "photo": "/peru/context/team/alexander-de-la-cruz.jpeg"
+  },
+  {
+    "id": "eduardo-ramirez",
+    "name": "Eduardo Ramirez",
+    "role": "Operations",
+    "photo": "/peru/context/team/eduardo-ramirez.jpeg"
+  },
+  {
+    "id": "maria-ines-quiroz",
+    "name": "Maria Ines Quiroz",
+    "role": "Finance",
+    "photo": "/peru/context/team/maria-ines-quiroz.jpeg"
+  },
+  {
+    "id": "fernando-lengua",
+    "name": "Fernando Lengua",
+    "role": "Product Manager",
+    "photo": "/peru/context/team/fernando-lengua.png"
+  },
+  {
+    "id": "eloy-gutierrez",
+    "name": "Eloy Gutierrez",
+    "role": "Product Content Lead",
+    "photo": "/peru/context/team/eloy-gutierrez.jpeg"
+  },
+  {
+    "id": "martin-castillo",
+    "name": "Martin Castillo",
+    "role": "Customer Service Analyst",
+    "photo": "/peru/context/team/martin-castillo.jpeg"
+  },
+  {
+    "id": "flavia-ochoa",
+    "name": "Flavia Ochoa",
+    "role": "Price & Portfolio Lead",
+    "photo": "/peru/context/team/flavia-ochoa.jpeg"
+  },
+  {
+    "id": "victor-amasifuen",
+    "name": "Victor Amasifuen",
+    "role": "Demand & Supply Lead",
+    "photo": "/peru/context/team/victor-amasifuen.jpeg"
+  },
+  {
+    "id": "danna-castro",
+    "name": "Danna Castro",
+    "role": "Marketplace Analyst",
+    "photo": "/peru/context/team/danna-castro.jpeg"
+  },
+  {
+    "id": "cesar-pe\u00f1afiel",
+    "name": "Cesar Pe\u00f1afiel",
+    "role": "Retention Lead",
+    "photo": "/peru/context/team/cesar-pe\u00f1afiel.jpeg"
+  },
+  {
+    "id": "miguel-espinoza",
+    "name": "Miguel Espinoza",
+    "role": "Acquisition Lead",
+    "photo": "/peru/context/team/miguel-espinoza.jpeg"
+  },
+  {
+    "id": "sebastian-cavero",
+    "name": "Sebastian Cavero",
+    "role": "Marketing Analyst",
+    "photo": "/peru/context/team/sebastian-cavero.png"
+  },
+  {
+    "id": "reinaldo-hermoza",
+    "name": "Reinaldo Hermoza",
+    "role": "Rewards Specialist",
+    "photo": "/peru/context/team/reinaldo-hermoza.jpeg"
+  },
+  {
+    "id": "ginger-zegarra",
+    "name": "Ginger Zegarra",
+    "role": "Operations Coordinator",
+    "photo": "/peru/context/team/ginger-zegarra.jpeg"
+  },
+  {
+    "id": "diego-godoy",
+    "name": "Diego Godoy",
+    "role": "Operations Coordinator",
+    "photo": "/peru/context/team/diego-godoy.jpeg"
+  },
+  {
+    "id": "ulises-gonzales",
+    "name": "Ulises Gonzales",
+    "role": "Expansion Manager",
+    "photo": "/peru/context/team/ulises-gonzales.jpeg"
+  },
+  {
+    "id": "jose-valle",
+    "name": "Jose Valle",
+    "role": "Operations Supervisor",
+    "photo": "/peru/context/team/jose-valle.jpeg"
+  },
+  {
+    "id": "alejandro-pozo",
+    "name": "Alejandro Pozo",
+    "role": "Operations Supervisor",
+    "photo": "/peru/context/team/alejandro-pozo.jpeg"
+  }
+]

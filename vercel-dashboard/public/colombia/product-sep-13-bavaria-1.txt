@@ -1,0 +1,1157 @@
+La idea de la charla es que ustedes nos digan qué están planeando de las cosas.
+
+Es como una introducción de que vamos a hacer en los próximos días.
+
+Entonces.
+
+Por seguimiento mismo, comercial, operaciones, growth, cosas así.
+
+Listo.
+
+Las charlas que vamos a tener hoy por la tarde y mañana por la mañana nosotros vamos compartir cosas con ustedes también de nuestro lado y ustedes también compartir con nosotros más deep.
+
+De operaciones, nosotros gustaría que Miguel traga las cosas más deep, está paneando de expansión territorial, de nivel de servicio, cosas así de Consumer Rewards, la misma cosa que está planeando más tip.
+
+Bueno, entonces un poquito les voy a contar el panorama de este año qué ha pasado.
+
+Qué bueno.
+
+Buenas.
+
+Buenos días Santiago, ¿Cómo está Giovanna?
+
+Bien, todo bien, ¿Cómo van?
+
+Muy bien, ¿Cómo está?
+
+Bienvenidos.
+
+Entonces bueno, muy rápido, este año nosotros venimos creciendo a un muy buen ritmo contra el año pasado hemos hecho meses del 60-50%.
+
+Principalmente lo que nosotros estábamos esperando era que durante el primer semestre hiciéramos mayor trade de crecimiento que contra los últimos meses.
+
+Porque al final del año pasado nosotros la retención hacia el segundo semestre ya la hemos recuperado.
+
+Entonces digamos que el negocio viene a un muy buen raíz de crecimiento.
+
+Un poco lo que nos planteamos este año de cara a crecer mucho más fue sí, hay que mantener la retención en muy buenos niveles, pero hay que crecer la adquisición.
+
+No sé si han visto, pero la adquisición está hay veces más grande que la misma adquisición de México o sí, Y eso digamos que se da por varios factores.
+
+Entonces uno, digamos que el paquete de marketing lo invertimos, cambiamos la forma de invertirlo, entonces mandamos mucha más plata al principio del año y la idea es al final del año no meter tanto dinero porque al final ya tiene más.
+
+Retención,.
+
+Digamos que ayuda a que el CAC sea más eficiente.
+
+Y adicionalmente lo que hemos hecho es traer adquisición de otras fuentes, no solo depender de MIDI.
+
+Entonces hemos hecho campañas grandes con bancos, con algunos aliados, que eso nos ha traído mucha gente nueva, pero también nos ha golpeado un poco la retención.
+
+¿Por qué?
+
+Porque es gente que entró en el mundial con una promoción muy específica y muy puntual.
+
+También con footyball.
+
+También digamos que con todo el tema de fútbol fue como el boom que vimos como 22 mil, 24 mil, pero ahí la retención un poco más golpeada.
+
+Bueno, esos son como digamos los grandes capítulos desde growth, ahí ya les voy a hacer la palabra a mí y a PAU.
+
+Adicionalmente a eso, digamos que todo el tema de la retención y demás, se han trabajado cosas digamos de entender bien el portafolio, el portafolio no debe ser igual para todos los lugares, el tema del pricing, porque pues al final la cerveza muy bien, tenemos buenos precios, pero el precio de las otras bebidas no es lo mismo pues en las diferentes zonas y adicionalmente pues tener digamos lo que la gente compra, no sé si pasará en otros países que seguramente sí, pero el tipo de bebidas alcohólicas que se compran en ciertas regiones es diferente a lo que se toma Bogotá, entonces es un trabajo que ha hecho el equipo de PAU.
+
+Adicionalmente hay temas que han hecho el equipo de operaciones y comerciales, tema de la disponibilidad y está muy bien que nosotros tengamos el portafolio pero necesitamos asegurar que cuando la gente entre pues lo encuentre porque eso también depende de la.
+
+Retención, Esto es más de marketplace.
+
+De marketplace y de operaciones.
+
+Entonces,.
+
+Pero en disponibilidad desde principalmente era nuestro pe cerveza también porque nosotros tenemos más de 17 marcas y esas 17 marcas tienen la botella, la lata y hay diferentes tamaños, entonces muchas veces antes lo que nos pasaba es que se encontraba la de solo líquido pero no tengo botella, entonces ahí pues el que no tenía los envases y quería comprar por primera vez pues no podía comprar o al revés, solo se encontraba con envase.
+
+Entonces era un problema de los dos, pero más que todo el marketplace porque no era lo que los tenderos tenían en su mente principalmente.
+
+Entonces bueno, ahí digamos que el equipo comercial y operaciones diseñó iniciativa, modelo donde básicamente le mide a las tiendas cuánto tuvieron prendidos los skus y si los tenían disponibles en el inventario.
+
+Recuerden que en Colombia tenemos un pain muy grande que es que BEES y SIESNA no están integrados, entonces al no estar integrados muchas veces podía ser que el producto estuviera apagado en BEES, pero ellos sí lo tenían en el inventario, entonces digamos con esa métrica que se inventaron al final le miden unos puntos de disponibilidad a las tiendas asegurando que si ellos no tenían el producto, si ellos tenían el producto y no lo tenían prendido, los penaliza y pues al final hay un ranking que paga como un incentivo variable en función de ese performance.
+
+Entonces, ¿Eso que nos ayudó?
+
+Pues obviamente que las tiendas estuvieran mucho más pendientes de disponibilizar pues primero lo que nosotros sabemos que se vende y dos, que al final la plataforma cuando los clientes se conecten funciona mejor.
+
+Entonces eso lo vemos en el onboarding rate, en el conversion rate, que creo que también lo han venido viendo que viene mejor, obviamente también por muchas iniciativas de producto, pero pues ese es como uno de los grandes componentes que se ha desarrollado.
+
+Eso digamos que ha impactado positivamente.
+
+¿En qué?
+
+En que al final cuando los usuarios ven más cantidad de productos que nosotros sabemos que vendemos, pues al final que funciona más la adquisición empieza a llegar por Marketplace, aun cuando nosotros pautamos cerveza.
+
+Entonces, por ejemplo, de media del 100% de las piezas o de lo que viene de Midia, el 30% llega compra Market, aunque esté pautado cerveza.
+
+¿No hay cerveza en carrito?
+
+No, solamente market.
+
+Ah, perdón, es un mil, pero más o menos es el 30% que lleva.
+
+Se puede llevar cerveza o Marketplace o solo productos de Marketplace.
+
+Entonces, que al final eso que ha hecho es interesante porque pues al final estamos captando usuarios, nos ha puesto un reto también de cara a la retención, porque los usuarios de Marketplace se comportan muy diferente a los usuarios de cfeso.
+
+Su residencia es diferente, su retención es diferente, su aspect size es diferente, sus horas de compra son diferentes y sus AUV también son diferentes.
+
+Entonces, digamos que nosotros el año pasado hemos desarrollado, yo no sé si se.
+
+Acuerdan, mucho más bajo también en retención,.
+
+Nos juega muy en contra.
+
+No sé si se acuerdan, pero nosotros les habíamos contado este modelo de tibs donde estaba clasificado los usuarios, eso estaba súper bien segmentado.
+
+Pero este año al entrar más grupo de Marketplace a la adquisición, lo que nos dimos cuenta es que estos usuarios primero no les podemos comunicar a las 4 de la tarde como le hacíamos a los de celosa, porque compran hacia la noche.
+
+¿Generalmente son más propensos a comprar Premium?
+
+No, son más propensos a comprar Core, su resencia es como 20 o 30 por ciento más alta.
+
+Entonces una persona que sólo consume cervezas, los compramos cada 12 o 14 días.
+
+Una persona que compra Marketplace compra de 22 a 30 días.
+
+Claro, porque al final si yo me tomo una botella y me pego.
+
+No quiero volver a saber del trago por lo menos en un par de días.
+
+Si tomo un six pack de cerveza, pues puede ser más factible.
+
+Entonces, digamos que uno de los grandes desafíos que hemos tenido este año es cómo empezamos a entender mejor esa gente, como, digamos, la categoría de ceros para esos usuarios empieza a formar algo relevante.
+
+El tema de ceros está muy.
+
+Y ustedes crearon entonces un nuevo clúster para Marketplace.
+
+Y ese clúster de Marketplace básicamente lo que dice es que cuando los usuarios que menos retienen son los que tienen dos comportamientos su AUV está por debajo de 50.000 o su AUV está por encima de 120.000.
+
+Cuando los usuarios llegan a esas franjas no retienen.
+
+Y no tiene nada que ver con el descuento, porque en Marketplace los descuentos.
+
+Son relativamente bajos, pero los productos cambian en esta.
+
+En este medio, En ese medio, no.
+
+Digamos que al final lo que nosotros vendemos mucho es aguardiente ro.
+
+Hay un vodka que se llama tamarindo, que acá está muy en furor.
+
+Pero lo que vemos es que cuando el usuario lleva mucha cantidad, ahí lo que tenemos son dos teorías.
+
+Cuando lleva muchas cantidades, de pronto un tendero que quiere aprovechar que tenemos el producto y lo compra y no vuelve.
+
+Y cuando lleva muy poco, es como que al final es le solucionamos algo, pero no ve un valor en nuestra propuesta de valor y por eso no vuelve.
+
+Una duda, entonces estás hablando básicamente de growth.
+
+Entonces, se pudiera elegir tres cosas que se quedaron muy bien en la estrategia de este año.
+
+¿Cuáles son las tres cosas principales?
+
+Yo creo que partnerships.
+
+Es un partnership.
+
+Sí, o sea, es un quick win porque más o menos estamos trayendo entre el 10 o el 15% de usuarios a un CAC de 2 o 3 dólares.
+
+El blended CAC el mes pasado estuvo en 5 dólares, 6 dólares, o sea, está súper barato.
+
+Entonces eso nos ha dado, digamos, mucha fuerza.
+
+Pero la retención no es tan buena.
+
+¿No?
+
+De esos es que hubo dos meses que trajimos muchos usuarios por una promoción con el banco más grande en Colombia y estamos dando 50%.
+
+Después se acabó el mundial, apagamos esa promoción y fuera de eso tembló.
+
+Entonces nos tocó apagar prácticamente la pauta, no podíamos comunicar nada.
+
+¿Entonces, pues esos usuarios, pues, y ahora?
+
+Pues si ahora no encuentro promoción, no recibo nada.
+
+Entonces, pues creo que eso no nos ayudó.
+
+Pero para responder la pregunta partnerships desde growth.
+
+Yo creo que el tema de marketplace está bien, pero todavía tiene muchos puestos Marx de cara cómo se comportan.
+
+Y yo creo que el tema del producto, el manejo del producto, porque la aplicación se sigue optimizando, nosotros seguimos digamos, quitando productos que no funcionan, moviendo las categorías, utilizando las herramientas que ustedes nos dan, como el sampling, o sea, este tipo de cosas, Flash Prom, o sea, ese tipo de cosas nos han servido mucho.
+
+Creo que es un acierto el manejo de esas tres cosas.
+
+¿Y hablando de growth, hay un podemos hacer así growth que se quedó bien?
+
+¿Que están haciendo y que están planeando para adelante?
+
+Cerramos Grove.
+
+Miguel nos habla que está haciendo bien este año, las tres principales cosas que se quedara bien y habla más que van a ser las ideas del próximo año.
+
+Habla comercial, la misma cosa.
+
+Listo, entonces próximo año.
+
+Bueno, el próximo año un poco el enfoque es, la idea es seguir adquiriendo, o sea, digamos que el source of acquisition no puede bajar.
+
+Lucho tiene una obsesión y es que nosotros no podemos bajar de 20.000 usuarios todos los meses, está challenging, pero pues ya lo hemos hecho en algunos meses, entonces está bien.
+
+Dos, el tema de la retención si está golpeando, o sea, la retención si tú la comparas por lo menos en el M con el año pasado, si está más baja, obviamente porque también estamos gastando no toda la plata en retener el mes uno, sino en varios meses.
+
+Tiene esa flota.
+
+Todos los meses.
+
+Entonces en un próximo año como a.
+
+Tener 240.000, esto está hoy ya 20.000.
+
+Claro, pero no todos los meses, o sea, este año hemos hecho, empezamos como en 12 mil, 14 mil, pero pues los últimos meses hicimos el mes de agosto que tuvimos cero inversión en media por lo del tema del temblor, hicimos 16.000, 18.000, cero midi, o sea no orgánico, más parches porque como tembló nos hicieron apagar todo mid.
+
+Claro, hay un tema que viene de atrás y pues siguen entrando usuarios.
+
+Tenemos un tema también de awareness que le veníamos teniendo desde mundial, eso también nos ha colocado palanca orgánico, entonces ahí tuvimos apoyo.
+
+Lucho tiene la obsesión de eso y aparte que partnership sea más grande que media, funcionan de dos, uno por cupones, entonces yo te doy a ti un cupón y ese cupón te da un beneficio y pues yo sé que tú eres digamos cliente del banco, pero al banco lo que en realidad le importa es la utilización de sus productos financieros dentro de TADA.
+
+Entonces lo que ellos nos dijeron es, venga, yo necesito que usted me pase los códigos de sus datáfonos de las terminales donde la gente paga y adicionalmente los reportes de mercado pago donde están los bines, que son los números de las tarjetas, y con eso yo puedo medir cuánto van creciendo los usuarios de mi banco dentro de su plataforma.
+
+No me importa sus cupones, o sea, el cupón está bien, pero eso para mí es indiferente.
+
+Entonces lo que hacemos todos los meses es con los bancos, nosotros medimos cuánta gente va comprando con esos bienes y ahí digamos, vamos midiendo si la base va creciendo o no.
+
+Entonces, por ejemplo, el banco que más nos trae adquisición este año ya dobló la cantidad de usuarios que transaccionan año contra año.
+
+Pero como un beneficio del banco, ellos comunican.
+
+Exacto, comprando con tu tarjeta Banco Falabella tienes un six pack gratis, ellos son los que comunican.
+
+Pero como ha venido creciendo puntualmente, tenemos un banco con el que nos va muy bien porque ellos le meten mucha plata a la comunicación, porque han crecido.
+
+Esta parcería de toda con bancos, hay.
+
+De varios tipos, bancos loyalty programs, como alianzas corporativas, como los que le dan beneficios a los empleados, ¿Qué más hay por ahí?
+
+Y hay otras, hay por ejemplo unas cajas, no sé si las van a ver, pero unas cajas donde uno mete, están los centros comerciales donde tú metes botellas de plástico y cuando metes la botella de plástico eso te saca cupones de promociones, como por reciclar.
+
+Entonces ahí tenemos también por ejemplo, son varias, pero las grandes, grandes, grandes son los bancos.
+
+Pero hoy no comunicamos nada de esto en la manera de utilizar cómo se conectan los bancos, al menos en comunicar como una.
+
+Porque ellos están hablando de lawyers, nosotros no estamos hablando de lo.
+
+Un canal de compra, eso claro, en este momento está muy enfocado en adquisición, qué nos pidió Lucho también es dejen de verlo solo como adquisición, sino como retención, o sea, porque el banco también puede hacer que la gente que aunque ya nos compró, pues vuelva y nos compre.
+
+Entonces eso es como uno de los segundos planes para el otro año, o sea, trabajar más adquisición pero de cara a la retención desde par, porque podría.
+
+Ganar más puntos porque por ejemplo puntos dobles, triples, como estamos haciendo en México también.
+
+Tal cual.
+
+Bueno, eso y el tema de ceros el otro año es súper foco.
+
+Desde Grow estamos tratando de entender un poco qué hace que la gente compre ceros.
+
+Ayer yo vi una Flash promo solamente con ceros.
+
+De mediodía.
+
+De mediodía.
+
+Pero ayer estaba feriado acá.
+
+No solamente mediodía, sino que como compañía los Growth Corridors están las ceros y las flavor beers que es como Red Cola porque son las que están trayendo nuevas audiencias.
+
+Entonces si viene un poco de cero cero, es como todas esas nuevas cervezas que venden poquito pero al final son los que nos ayudan a traer el reclutamiento de audiencias jóvenes o mujeres.
+
+Entonces esa flash promo que viste es el de mediodía, pero realmente Flash promo la estamos utilizando todos los días.
+
+Todos los días.
+
+Todos los días.
+
+No ton flash así no, no se cambia.
+
+De 12 a 3 hay uno, de 3 a 6 hay otro, de 6 a 9 hay otro y va dependiendo de la noche.
+
+Entonces por ejemplo en la noche hay mucha concentración de marketplace porque pues.
+
+Pero pues flash por no con nosotros ha sido fabuloso.
+
+Quiero saber todo cuando va a hablar de comercial entonces quemaste entonces.
+
+No, yo creo que ya lo he.
+
+Son las tres cosas.
+
+Eso es.
+
+Bueno.
+
+Explico bien cómo está desarrollada la parte de adquisición, la parte de atención, cuáles son las palabras que te he utilizado.
+
+Bueno, entonces básicamente son dos Clubta que clubtada hemos tenido varios problemas este año porque la persona que lo manejaba se fue de un día para otro, entonces estuvimos como un mes largo sin la persona.
+
+Entró una nueva persona y tuvo un accidente, entonces va a estar como cuatro meses incapacitada.
+
+Entonces estábamos Lua y me ayuda y por los lados estamos tratando de manejar el tema, pero no ha sido fácil.
+
+Entonces digamos que Klubta ha sido.
+
+Ha sido un reto, aunque pues digamos una herramienta de retención.
+
+Yo creo que el performance de Clubta este año se ha desmejorado un poco por dos razones que ya seguramente Miguel lo va a hablar.
+
+Hemos sido como más consistentes en bajar el BB, no sé si lo han visto, pero la cantidad de lovers ha disminuido consistentemente por eso la frecuencia también está nosotros más o menos.
+
+Entonces claro, eso impacta en Club Ta porque eran usuarios que acumulaban, pero adicionalmente también con algunos ajustes que se han hecho desde la parte comercial con descuentos, eso ha desincentivado que el BB nos compre.
+
+Entonces eso digamos que lo que nos dábamos cuenta es que hay mucha gente que era BB y acumulaba puntos de contada.
+
+Al nosotros dejar de ser atractivos por el tema de precio, descuento, lo que sea, pues obviamente hemos perdido un poco de performance porque pues esa gente ya no nos está utilizando.
+
+Ahí sí tenemos una serie de asks de cara a producto que no vamos a ver en estos días para controlar un poco eso porque creo que en algún momento se nos fue de las manos de que la gente acumulaba puntos y recibía descuentos y demás y pues eso hizo que el programa tuviera un boom y después claro, tuve resultados y ha ido decayendo, pero al final es un poco más por eso que por la misma utilización de los usuarios.
+
+Porque teníamos el plan de lanzar misiones,.
+
+Pero está digamos pospuesto porque la persona no está.
+
+Ah sí, porque esto es una de las cosas que acreditamos que ayuda a hacer la retención de usuarios porque incluye nuevas dinámicas.
+
+Igual nosotros las misiones ya las implementábamos, digamos porque las personas ya era manualmente.
+
+Lo que pasa es que digamos el feature lo que va a hacer es que sea mano automatizado.
+
+Perfecto.
+
+Una palanca de retención.
+
+Pues básicamente es el modelo de tiers.
+
+Entonces nosotros lo que hacemos es que segmentamos los usuarios y en función de lo que compraron, por ejemplo, si entran por Marketplace, pues el foco es completamente diferente.
+
+Les entregamos beneficios en Marketplace.
+
+Si compraron cerveza, pues dependiendo si es retornable o no retornable.
+
+Entonces, ¿Como clusterizamos tipo de usuario para crear beneficios?
+
+Sería por cupones.
+
+Por cupones y son escalonados en función de que el usuario tenga mayor propensión a chornearse, pues le entregamos mayor plata.
+
+Si tú tienes menor propensión de acuerdo al modelo, pues.
+
+Usuarios saben que está más propenso.
+
+Porque nosotros tenemos un query que creamos con unas tipificaciones donde por ejemplo dicen, ah bueno, si tú llegaste por media, entonces eso te da un puntaje.
+
+Ah, pero si fuera esto, no llegaste por media pero compraste por cupón, eso te da otro puntaje.
+
+Sí, es como un score.
+
+Pensemos, ¿Y algo de esto está automatizado con AI o no?
+
+Porque en Brasil una de las últimas cosas estamos.
+
+Porque estoy con Charles de eso podemos discutir para juntos crearon este tipo de Discord, pero la creación y la vinculación.
+
+La base de personas con creación cupón está toda con agentes, todo en como analizo a la persona y creo un cupón para ella o para el grupo, todo automatizado.
+
+Ah pues si nos pueden hacer eso.
+
+Nos puede ayudar porque en realidad es muy manual, es una carga de cupones.
+
+A base desde 90.000 utilizan el big Mac desde delivery con una duda sobre esto,.
+
+Este score es personal por país por ejemplo Air Score que se delivery está haciendo No es lo mismo, no es una cosa que podemos poner en todos los países por ejemplo, o sea.
+
+Lo que pasa es la plata de cupones es específica para.
+
+Pero más que el budget es específico, yo creo que la tipificación es por ejemplo nosotros lo que hemos visto es que cupones que son la mayoría de alianzas, ha tenido meses de first man retention mejor incluso que la gente que no tenía cupones, que antes no pasaba, se suponía que el cupón era lo más poco sano para la adquisición, pero lo que estamos viendo es por ejemplo que a medida que adquirimos más Marketplace, esos usuarios retienen menos eso digamos que cuando tú le haces zoom a Marketplace depende de qué tipo de gente adquiriste, si adquiriste gente con mucha cantidad de AOB bajo pues eso te va por una presión en la retención.
+
+¿Entonces hemos hecho cosas como será que subimos el mínimo order value para que la gente esté obligada a llevar más productos y eso?
+
+Entonces por el otro lado eso le pega, o sea eso es lo que estamos tratando de entender.
+
+El modelo creo que este año no lo hemos podido terminar de trabajar porque todos los meses han sido muy diferentes, entonces empezamos los primeros meses digamos con unos comportamientos, a mitad de año con el mundial tuvimos otro boom diferente y ahorita estamos teniendo, después tuvimos el terremoto, entonces otro comportamiento.
+
+Eso creo que ha sido muy dispar, no pasa como todos los años que el share de adquisición era muy lineal, 30% RGB, 30% RGB y el resto digamos non RGB como que se distribuía, pero este año ha cambiado mucho entre meses, entonces hay un mes que adquirimos mucha lata, al siguiente mes adquirimos menos lata, o sea por eso es difícil.
+
+Entendido una cosa, nos gustaríamos avanzar hasta el fin de año.
+
+Cupones de frente gratis.
+
+Esto ya es una palanca que utiliza.
+
+Pensé que la versión de cupones va a rodar alguno de estos grupos, piensa que es una manera de atraerlos.
+
+Con el delivery fee tenemos un problema grande y es bueno, digamos que se utilizaba como palanca comercial cuando nosotros lo liberábamos a partir de cierto monto, ese digamos era el que más o por días.
+
+Pero digamos con los nuevos updates de producto ahora sólo se puede segmentar para nuevos o repitentes.
+
+Entonces digamos que ese feature o para mayor valor se perdió.
+
+Y el de días también y el de ciudades.
+
+Pero ahora va a ser cupones para crear para qué grupos quiera porque la feature es en admin, es difícil como crear clústeres, pero ahora vamos a lanzar cupones.
+
+Puedo crear para.
+
+Exactamente, para la persona que gusta más,.
+
+Cupones cargados a la billetera igual que los que manejamos de descuento.
+
+Disculpa, no cupones cargados al wallet.
+
+Sí, pero para llegar.
+
+Es que son diferentes.
+
+Exactamente, porque la funcionalidad hoy es como descuento directamente en carito.
+
+Esto va a ser una aplicación de cupones, pero puede crear directamente en un wallet de algún.
+
+Pero se van a tener las dos disponibles o uno o dos.
+
+Pero no, o sea yo puedo decir este cupón solo aplica por más de 90.000.
+
+Sí.
+
+Ah, pero tendría que ser cupón cargado a la billetera.
+
+Sí, sí, sí.
+
+Todo tiene que ser por.
+
+Hay gente que incluso todavía no encuentra cómo consigue sus cupones cargados a la billetera.
+
+Entonces pues cuando se seteaba antes igual te parecía domicilio gratis.
+
+No, era automatizado.
+
+Era automatizado y no, tú tienes que ir a mis cupones, cargarlo, que por más de que ahí diga mis cupones, no todo el mundo hace clic ahí versus simplemente que ya está precargado y ahí te dice hoy todos mis pies, gracias.
+
+Pero hoy no utilizan maes de precargado.
+
+No, lo que pasa es que también hay un tema y nos desde zona pusieron un challenge y es básicamente que tenemos que cobrar el 50% del total.
+
+Voy a poner un ejemplo, si el domicilio de atada en un mes le cuesta 100 mil dólares como mínimo nosotros tenemos que recaudar 50 mil dólares como domicilio.
+
+El costo del domicilio, si el costo de entrega total en un mes son 100 mil dólares, nosotros como mínimo tenemos que recaudar el 50%.
+
+Con estas iniciativas que estábamos haciendo del delivery fee gratis por más de X o delivery fee gratis para nuevos, estábamos dando como el 30 o 40% de las órdenes sin cobro domicilio.
+
+Entonces digamos que al final eso está bien, digamos lo que dice Paula, pero al final creo que para el otro año no vamos a tener la disponibilidad de poner un día gratis.
+
+Entonces al final creo que si la customización por usuarios nos va a tocar,.
+
+Pero pues un día no nos va a meter el pionel o también está por ciudades, hay algunas ciudades específicas donde quitar el domicilio incentiva realmente a más compras por DCC que también se podía hacer.
+
+Necesitaba escoger un tipo de categorización de.
+
+Automático serie por ciudad necesitamos tenerlo como lo teníamos antes.
+
+Si, por ciudad en el admin antes.
+
+Podías tener con la carga del CSV quitarlo por ciudades por monto después de que cierto monto comprara y ahora solamente.
+
+Por nuevo, por repite o por día, pero el monto.
+
+Pero nosotros por día lo fuimos tranquilo a pagar.
+
+Hay ticket de todos los países.
+
+Eso lo hemos hablado y lo hemos.
+
+Escalado, o sea solo pagaron de un momento a otro y no nos avisaron y yo hablé con alguien y nos dijeron no, eso nosotros lo preguntamos y eso fue un día para otro.
+
+No, no funciona.
+
+En Brasil.
+
+Con las marcas de la compañía entonces se tiene broma en su carrito.
+
+Todo con cupones.
+
+No es como una.
+
+No, yo creo que.
+
+Pero hay una relación.
+
+Si tiene la marca en carrito, tiene el cupones de domicilio gratis, entonces la marca hace el pago y hace la comunicación.
+
+Entonces esto que Vicky está diciendo de la funcionalidad se queda muy Bento en.
+
+Partnerships, o sea eso lo podemos hacer al final con cupón tenemos más el control de cuánto podemos dar, pero pues si un día queremos, no sé, apagarlo en una ciudad por X o Y motivo, pues si no tenemos esa flexibilidad porque o se lo apagamos a todo el mundo o se lo prendemos a todo el mundo, o sea esa tipificación por usuario si nos limita muchísimo.
+
+Perfecto, vamos a abrir una investigación para ser posible.
+
+Hizo hace tiempo, no hace.
+
+Después de mundial.
+
+Eso quedó después de mundial lo escalamos con Luis y Luis nos dijo que.
+
+Iba a revisar internamente.
+
+¿Bueno y tú Pau cuéntanos desde el área comercial qué está haciendo estos últimos.
+
+12 De contexto de cómo es el área?
+
+Entonces dentro del área comercial está la parte, está dividido entre todo lo que productos de Bavaria y todo lo que son productos de Marketplace.
+
+Listo, entonces hay dos personas haciendo como los.
+
+Exacto, las dos personas masivas.
+
+Una maneja cervezas y la otra maneja todo lo que tenga que ver con Marketplace.
+
+Entonces todo lo que sea marketplace es todo lo que no son productos de baba.
+
+Listo.
+
+Dentro de lo que es cervezas entonces nosotros manejamos todo lo que es el plan de descuentos.
+
+De plan de descuentos y también manejamos una parte que se llama lo que antes se llamaba como Brand Integration que eso lo cambiamos a Commercial Growth que es todo el relacionamiento que tenemos con las marcas de Bavaria para hacer iniciativas comerciales de marca, etc.
+
+Me gustaría mucho reconocer que hicieron realmente porque este año cambió mucho.
+
+Es visible en la canción que las marcas están haciendo que TADA está en todo ahora acá en Colombia está buenísimo.
+
+Cambiar el relacionamiento en vez de estar pidiendo favores, es más cómo los dos ganamos.
+
+Entonces cuéntame cuál es tu campaña y yo cómo te puedo ayudar a que tu campaña sea más grande.
+
+Eso es lo que hemos cambiado.
+
+Una pregunta, una pregunta solamente cambió todo.
+
+Sí, sí, sí, exacto.
+
+Es listo, cuéntame cómo va a ser tu compañía Y es como lo mismo como lo manejamos en Marketplace.
+
+Entonces, OK, tú como whiskies, ¿En qué territorio quieres hablar?
+
+Ah bueno, yo cómo te puedo también que hablemos de eso desde TADA al final fue, si bien estamos dentro del marketing, somos un canal que le permite a las marcas hacer cosas que con otros mercados no, con otros canales me pueden hacer.
+
+Entonces abrimos también un poco esa flexibilidad de listo, en vez de también decir no, eso no se puede, no, eso no se puede, no, eso no se puede, eso listo, venga, qué sí podemos hacer para que los dos podamos hacer cosas más grandes.
+
+Perfecto.
+
+Entonces esta persona, entonces aquí cerveza, todo.
+
+El de la compañía Cerveza, Hay otra persona que maneja Commercial Integration, que con ella se tiene tráfico semanales con cada una de las marcas, con Corona, con Club Colombia, con Poker, cada una para saber listo, qué se viene y nos vamos preparando con tiempo.
+
+Y esa persona también toma el brief de las marcas y lo trabaja tanto con marca Tada como con el área comercial.
+
+¿Obviamente para definir esta persona en estas charlas que tiene semanalmente lleva algún análisis para la marca desde TADA?
+
+Mira, tu marca desde la última charla se quedó así en TADA no lo.
+
+Hacemos semanalmente porque obviamente pues no es que vaya a cambiar mucho, pero sí cuando hay una campaña y hacemos algo grande.
+
+Hacemos como ese debrief de listo, ¿Cómo le fue la campaña?
+
+¿Cuántos hectolitros vendimos?
+
+¿Cuántos new users hicimos?
+
+¿Cuál fue el AOB?
+
+Bla, bla, bla.
+
+Y ya luego ahí vamos viendo igual performance en algunas de las reuniones.
+
+Listo, pero eso.
+
+Listo.
+
+Pero entonces dentro del área de cerveza también se está manejando todo lo que tiene que ver con super apps.
+
+Entonces ¿Qué queremos ser los dueños de e commerce de cerveza, básicamente super apps?
+
+Entonces ya te voy a contar.
+
+En Colombia no solamente tenemos Rappi, pero también tenemos Mercado Libre que acaba de entrar dentro de Consumer a vender consumer goods.
+
+Y está Didi, que Didi aquí tiene más usuarios que Rappi porque Didi arrancó con rights, entonces tiene mucha gente que utiliza la moto, el taxi, el carro.
+
+En Brasil lo mismo.
+
+Y luego de ahí diversifica su portafolio a supermercados y entonces nosotros también ya empezamos a comercializar en esas aplicaciones.
+
+Nosotros tenemos un store de TADA dentro de esas aplicaciones y desde nuestras tiendas.
+
+También.
+
+En Brasil se llama 99.
+
+Es DIT también.
+
+Pero hay un icono en DIT de Brasil, sede libre.
+
+Así es cómo desde los Community POC.
+
+Sí, sí, liga directamente.
+
+Hay una integración.
+
+Entonces liga directamente Community parks.
+
+Acá estamos solamente con nuestras tiendas propias.
+
+Porque si está se queda bien la parcería, podemos pensar cómo va a ser más.
+
+Lo ideal es escalar eso y que.
+
+Porque esa venta hoy en día no entra a courier, es decir, a la aplicación no entra.
+
+Entra esa venta de las tiendas propias y está bien.
+
+Y niega un courier de Didi para.
+
+Llega un courier de Didi.
+
+Entonces son diferentes.
+
+Share permissions.
+
+Nosotros hacemos el picking.
+
+Didi es el que hace la última milla.
+
+En Mercado Libre nosotros hacemos todo, porque en Mercado Libre tú puedes entregar hasta.
+
+El siguiente día para nuestra Maku espectacular, porque no tenemos.
+
+Entonces para.
+
+Quizás es mejor que se quede así.
+
+Entonces no está tan subsidiada como.
+
+En Mercado Libre.
+
+Tenemos share, como estamos con volumen de pedidos que puede entregar en un próximo.
+
+Porque es una cosa que deberíamos pensar en hacer.
+
+Nuestra aplicación se tiene.
+
+Son súper diferentes.
+
+Entonces Didi por ejemplo, es un consumidor mucho más joven.
+
+Incluso el share de marketplace es más alto que de cerveza.
+
+En cambio.
+
+En cambio en Mercado Libre te pueden pedir cuatro cases de corona de una vez, porque pues te va a llevar una bancita y te lleva que nuestros motorizados lo podemos hacer, pero me lleva a pensar si la gente compra eso por Mercado Libre y espera sabiendo que hay apps que te pueden llevar eso, pues puedes llegar a hacer algo.
+
+Precio se quiere más bajo, pero están ellos pagando los descuentos, estamos pagando tanto nosotros, o sea no es más bajo que te da y no te dan retornado, quedan solo one way.
+
+Entonces si hay una diferencia de portafolio ahí también que nos ayuda, pero por lo menos para las prioridades de la compañía que es balance choice y toda esa vaina, son canales complementarios que nos ayudan a estar en otros sin que tengamos que entarnos a tratar de atraer consumidores que de repente no les ofrece una solución completa.
+
+Es mucho más rápido para nosotros.
+
+Con Irascali es la idea exactamente que ya está listo todo.
+
+Entonces y se está ampliando eso porque incluso aquí hay una licorera que es muy grande que se llama La Fábrica de Antioquia que es la que vende a Bordingtonio, que seguro tomar fin de semana mientras estaban turisteando y ellos querían también vender por Mercado Libre y no tenían cómo vender porque los distribuidores no les da por el size de los pedidos.
+
+Entonces nosotros vamos a hacer la tienda oficial de la FL en Mercado Libre y ellos van a pagar en comunicación para decirle la FLA llegó a Mercado Libre, compra portada.
+
+Entonces pues eso también les va dando más awareness.
+
+Nosotros como compañía somos mucho más grandes que esta marca, se queda mucho más fácil la partnership.
+
+¿Y que no han hecho ellos?
+
+No han desarrollado su BTC, entonces pues sus canales e commerce tradicionalmente aquí como que Rapi ahorcaba mucho por la participación que tenían.
+
+Todo esto con lo que ha hecho Paula con su equipo nos han visto como un partner más estratégico, entonces pues nosotros estamos monetizando parte también de todo lo que hacemos con ellos.
+
+Hay muy buena relación con los partners, invierten más en nosotros que en Rafi, siendo Rapi todavía líder en aguardientes, líder en cervezas no, pero en los Spirits sí, Rapi todavía más grande que nosotros, pero los partners no están felices trabajando con ellos.
+
+Entonces es algo que podemos trabajar nosotros y que adicionalmente pues como hicimos el fundation de marketplace fue que desde la transacción fuera profit o voto, o sea que no perdamos plata de la transacción y compensamos con que monetizamos los banners, empezamos desde la transacción incluido Lastmin que fuera rentable, así sea un margen chico, una marca pequeña, pero no perdemos plata cada vez que crecemos con partners.
+
+Esto es la dificultad de México hoy, porque arrancaron los partnerships exactamente como que dices ahora no con padres, ahora quieren cambiar la relación comercial.
+
+Los partners dicen, ¿Por qué siempre hicimos así?
+
+No se cambiaron, me voy.
+
+Entonces genial que arrancara así desde.
+
+Pues la historia es un poco.
+
+Nosotros también tuvimos un dark story con los partners, fue volver a ganar credibilidad y cuando ya gané, pero quieres ya tener cuenta de marketing.
+
+Entonces para cerrar la parte de cervezas, manejamos descuentos comerciales de cervezas, la parte de Comercial Integration y ahora la parte de super apps.
+
+Listo, como expansión, por decirlo así, de cómo buscamos más volumen de cerveza con las otras apps.
+
+Y ahora entramos en la parte de Marketplace.
+
+Entonces dentro de la parte de Marketplace también hay una persona que maneja todo relacionamiento con todos los diferentes distribuidores.
+
+Son como más de.
+
+Son doce, catorce más o menos.
+
+Porque es que adicionalmente supongamos la FLA es el productor, pero luego en cada ciudad tenemos diferentes distribuidores.
+
+Entonces eso hace que sea más.
+
+No es como, ah bueno, te hablas con una vez con Diayo, no a.
+
+Mí con la pla, su licor repula superviente, racionalizar partners.
+
+Nosotros quitamos condones, quitamos aspirinas, quitamos cosas que compraba, se vendía y dejamos el cor de la ocasión.
+
+Entonces, pues porque tampoco hay 100 personas manejando marketplace, hay una sola.
+
+Entonces racionalicemos a decoro a lo que se vende.
+
+Entonces, ¿Qué hicimos ese Marketplace?
+
+Lo primero fue la definición del portafolio.
+
+Nosotros tenemos una metodología que define el portafolio, como les explicaba Juan, es un portafolio regionalizado.
+
+Tenemos cinco portafolios, uno para Bogotá, otro para Medellín, otro para la costa, etc.
+
+Y la base para definir qué producto entra al portafolio es Don Combinado, qué es Don Humvee es el éxito, que es la cadena de supermercados aquí más grande después de D, y es cuando la gente va a ese supermercado y compra un six pack de Águila y se lleva otra cosa.
+
+Esa otra cosa la tenemos nosotros en portafolio.
+
+Entonces nuestra base de definir el portafolio.
+
+Fue el crossbacket con las.
+
+Cuando tú ya vas al éxito, tú vas y compras un six para que ya se traemos en el portafolio, ¿Listo?
+
+No es porque el partner Bregue nos dice no, mire, estamos teniendo una muy buena distribución numérica y está rotando muy bien y es no, la base tiene que ser Crossbasket, ¿Listo?
+
+Entonces con eso sacamos muchos productos.
+
+Al principio fue una conversación difícil con los porrees, como pasamos de comprar 10 productos a sólo 3 y solamente vamos a vender.
+
+Entonces ellos pues claro, ahí fue como miércoles, pero vieron que con esos tres estamos vendiendo tres veces más que teniendo siete productos.
+
+Entonces ahí empezaron como a ganar otra vez credibilidad de OK, ya sabe hacia dónde quiere ir.
+
+Después de ahí pasamos a hacer los precios regionalizados.
+
+Entonces también hay listas de precios diferentes por ciudad, que esto lo maneja desde el área del PPM, teniendo en cuenta cómo se negocia el PTR y ahí define cuál va a ser el PTC.
+
+Regionalizado diferente a cerveza.
+
+Cerveza es el mismo precio para todas las ciudades.
+
+¿Marketplace regionalizado, listo?
+
+Y dentro del marketplace lo que queremos empezar a trabajar de cara al próximo año con mucho foco es desarrollar ocasiones.
+
+¿Qué significa desarrollar ocasioneS?
+
+Hoy en día más del 83% de las órdenes llevan solo una categoría que queremos ampliar.
+
+Una categoría puede ser un aguardiente, OK, pero para ese aguardiente también necesitas papitas, puede que necesites una Ságila cero para ser pasante.
+
+Entonces queremos complementar la ocasión y que nos vean como en serio tenemos todo lo que necesitamos.
+
+Hoy en día nosotros incluso tenemos que en Brasil es súper grande para hacerlo el asador, el carbón, pero encontrar un carbón en Tada es súper difícil, a no ser de que tú lo estés buscando carbón, pero no es como que de pronto lo que tengas en el top of mind de que puedes llegar a encontrar eso.
+
+Entonces, por ejemplo, si nosotros hicimos cosas en la aplicación que ayude este mil.
+
+Con tu estrategia comercial, el ejemplo más claro es Last Cravings, Nuestro Last Cravings ya sabes cuando hacer el checkout y vas a pagar.
+
+Y como no se te olvide eso último entonces es poderlo personalizar de acuerdo al día, de acuerdo a la hora, porque si tú estás entrando a comprar de pronto entre semana y me vas a comprar un six pack de cola y Pola, pues yo te puedo decir, oye, ¿Por qué no te compras unos Doritos?
+
+Pero si me llegas y me estás comprando en la noche y me estás llevando el aguardiente, porque no te llegas a un six pack de hacer usted.
+
+No, Sam, solo se puede marcar como ese producto para todos los usuarios.
+
+Pero pues.
+
+Pero un crosstel personalizado.
+
+Mucho más personalizado.
+
+Si es un domingo y estás comprando mediodía, de una vez, oye, tengo además el carbón, ¿Me entiendes?
+
+Creo que podemos ampliar mucho más el basket size si tenemos ese tipo de funcionalidades.
+
+Pero eso es lo que vamos a trabajar de cara a Marketplace el próximo año.
+
+Incluso vamos a salir a comercializar ese tipo de.
+
+Cómo con un partner podemos hablar, tomarnos de la ocasión, la final de la Champions, los domingos de asados, los miércoles de relajación y que sea completo todo lo que tú necesitas para esa ocasión de cara como en prioridades de lo que tú decías que necesitarías.
+
+Sí, exacto.
+
+Y el Marketplace, Paula, le pones a.
+
+Pedir,.
+
+Pero en Workshop ponga todas.
+
+No voy a estar en el Workshop, es el jueves.
+
+¿Cierto?
+
+Yo voy a estar viajando.
+
+Pero una persona de tu equipo.
+
+Sí, van a estar los dos.
+
+Van a ser de cerveza y de Marketplace.
+
+Perfecto, listo.
+
+Pero pues ya tienen como toda esta introducción así de.
+
+Y dentro de Marketplace también está el tema de combos.
+
+Entonces hoy en día combos nos pesa el 2% del GMB, pero en Bogotá que nos pesa el 47% de la venta, ya nos está pesando el 5%.
+
+Es una categoría que cada vez viene creciendo más y va a seguir creciendo más porque realmente incluso los partners ya nos están pagando por esos descuentos.
+
+Entonces combo llega a ser algo que a nosotros nos sirve para que la gente también vea que no solamente somos una app de cerveza, sino que ya está el combo armado.
+
+Pero combos, por ejemplo, no tienen la funcionalidad del antes y el después.
+
+Solo te sale el precio final.
+
+Ese es uno de los problemas issues que tenemos.
+
+Tenemos buenas noticias fabulosas.
+
+Y la otra es que tenemos que tener un SKU específico por cada combo.
+
+Entiendo que antes funcionaba que si estaba.
+
+Hay a Fitri llamada Free Goods que tiene ah, mira, si yo tengo esta cosa en mi carrito y poner esta otra ahí tengo un descuento.
+
+Que es lo que estaba diciendo ahora, ¿No?
+
+Claro, lo que pasa Paula ya vende.
+
+El combo hecho y solo te sale el precio final.
+
+Pero el consumo.
+
+US es un problema de UX.
+
+Cuando tú pones el precio del combo, la persona no percibe cuánto ahorrando porque no se puede desglosar.
+
+La cerveza valía 10 dólares y el aguardiente valía a full price 15 dólares.
+
+Pero en vez de pagar 15 dólares usted está pagando 10 dólares.
+
+El usuario no percibe que está teniendo un ahorro, por ejemplo en este caso de 5 dólares porque solamente podemos poner el precio consolidado.
+
+Eso tiene digamos un tema ilegal de tránsito.
+
+Cuando tú haces una oferta en Colombia, seguramente en otros países es parecido, tú tienes que mostrar cuánto es el precio por mililitro que está pagando el usuario con el descuento.
+
+Como ahora tienes dos líquidos diferentes, pues al final estás mostrando solo el precio de uno.
+
+Entonces eso digamos que es un tema ilegal que está como pendiente.
+
+Al final podemos vender los cubos, pero sí es bueno que el usuario tenga la claridad de la información, es cuánto está pagando por esos productos versus lo que pagaría full price agregado.
+
+Y ese SKU es el que se le muestra como la categoría de compras.
+
+Pero además dependemos del prendido de cada tienda, de cada aliado, versus que solamente ya se vea como funcionaba antes, que era como decía, listo, mis prioridades.
+
+Entonces de cara marketplace, que es algo que viene creciendo por encima de total negocio claramente siguiendo una palanca el próximo año muy fuerte.
+
+Entonces ese cross sell para aumentar el basket size y que la ocasión sea completa, pues es una cosa que me interesaría.
+
+Y no sé si esa la puedo meter con combos también, que creo que eso ya lo vienen trabajando.
+
+Con Commercial Integration, que es lo de las marcas que estábamos hablando.
+
+Hay un tema que estamos trabajando mucho que se llaman preventas.
+
+Preventas.
+
+Entonces el producto no llegó, no llega en ese momento.
+
+Nosotros por propuesta de valor siempre entregamos algo en esa orden.
+
+Supongamos un six pack, ya te entrego, pero no sé, la pañoleta, el botilito decorado o algo así, vas y lo vas a coger en un evento o te llega después a tu casa.
+
+¿Cierto?
+
+Hoy en día el SK de preventa lo vemos como acomodado, pero no es tan claro todavía para el consumidor que sigue siendo una preventa.
+
+Entonces a veces tenemos las quejas Ay, pero yo pensé que ya me iba a llegar el botilito.
+
+Ay, pero ya pensé que me iba a llegar.
+
+Sí, porque la experiencia no está clara para esto, no fue creada para.
+
+Tenemos un tag en que simplemente títulos, descripción, géneros legales.
+
+Nosotros es el libro con el que veníamos trabajando contigo el año pasado, hicimos algunos ajustes para que el libro dijera preventa o reclamas en el evento, pero.
+
+No es lo mismo.
+
+No es lo mismo.
+
+Claro.
+
+Entonces es diferente cuando te preventa, ah, confírmame la dirección a donde quieres que te envíe lo que estás comprando.
+
+Claro.
+
+Y eso también lo podemos monetizar incluso con los otros partners, porque tú sabes hacer merch, no siempre te va a llegar en una.
+
+Podemos hacer un montón de cosas con.
+
+Preventas, pero tiene ya resultados de cosas que hicieron mismo con la experiencia mala.
+
+Claro, nosotros hemos hecho más de mil preventas.
+
+Una preventa.
+
+Más de mil preventas que eran por ejemplo, en ferias y fiestas.
+
+Acá hay muchas ferias, entonces la feria de Cali, entonces tú compras el six pack y reclamas en la feria de Cali, el vaso de la feria de Cal.
+
+Eso van más de mil preventas en ventas.
+
+Pero y hemos hecho de esas unas, no sé, 15 preventas.
+
+Claro.
+
+Y nadie más se puede hacer este tipo de cosas.
+
+Ningún otro canal te hace preventas de ese tipo de cosas.
+
+Entonces realmente para comercial, integración me parece ahí una súper interesante.
+
+El tema de super apps obviamente hoy en día está pequeño, pero esto va a crecer y la manualidad que hay detrás de super apps es bien importante.
+
+¿Entonces cómo podemos llegar a integrar?
+
+Yo sé que eso depende de integraciones y demás, pero dentro de mis prioridades es adentro.
+
+Y Hay un bonus, 3 más un bonus, la última, là on.
+
+Se manifeste que es un tema de frecuencia, estamos incentivando como el consumidor llega y compra más de una vez en un mes, pero de nuevo, eso sigue siendo muy manual.
+
+Entonces cómo podemos llegar a hacer cosas de que si tú compraste más de dos veces, desbloqueaste esto o haz tres compras.
+
+¿Cómo puedo hacer un tracking de cuántas compras puedo hacer lo mismo?
+
+Incluso por marketplace también lo puedo monetizar.
+
+Tú haces dos órdenes de aguardiente y te doy un sixpack gratis.
+
+Entonces, pero ahorita todo eso es manual y como decía Luis, no tenemos el equipo pues para que una persona esté monitoreando cuántas órdenes están haciendo diarias cada consumidor.
+
+Entonces ese sería mi bonus.
+
+Y tu equipo está totalmente alineado con esas cosas.
+
+Jueves ellos, bueno, Melanie nos pidió a nosotros hacer una charla a las 10 con ella, urgente.
+
+Entonces si no cerramos hasta las 10, solamente 30 minutos la charla y tenemos hasta las 11 podemos regresar los 30 minutos finales.
+
+Entonces porfa.
+
+Arranca.
+
+Hablar de operaciones, pues le hemos dado.
+
+Foco a la expansión de Community POC este año en julio teníamos 120, ahorita estamos operando con unos 105 más o menos.
+
+Entonces a nivel de cantidad de puntos de venta, por ejemplo un Bogotá hoy tiene la misma cantidad de puntos de venta que teníamos a nivel nacional a principios del año pasado.
+
+Entonces el año pasado teníamos 80 puntos de venta, ya tenemos 170.
+
+El año que viene un poco el foco va a seguir seguir creciendo con aliados, nosotros le llamamos aliados a los Community POC, son los terceros que operan con la plataforma.
+
+Seguimos haciendo expansión muy estratégica, donde de repente estamos sufriendo con el SLA y un poco lo que sí nos ha costado quizás es darle la cantidad de órdenes necesarias al aliado.
+
+Entonces tenemos que darle prácticamente cobertura única para darle órdenes al aliado, que no sé si en algún momento vendrá algún algoritmo o algo para dar cantidad de órdenes, que creo que así funciona en CD, que le da más órdenes a un darkstor o a una tienda, dependiendo de lo que.
+
+100% Priorizados.
+
+Creo que ayuda a la expansión si uno pudiera decir vamos a darle una cantidad de órdenes a la tienda.
+
+¿Por qué?
+
+Porque estamos ahorita sacrificando quizás un poco de portafolio al darle cobertura única a los aliados para poder hacerlos crecer.
+
+Entonces la forma de hacerlos crecer es, sabemos que hay órdenes, pero si está con overlapping con nuestra tienda, no le garantizamos las órdenes al aliado.
+
+Entonces tenemos que recoger nuestra tienda, que también lo hacemos para mejorar el SLA.
+
+Entonces tenemos mucho juego de coberturas, eso sí es un poquito como complejo, porque los fines de semana, que es cuando más órdenes hay, reducimos cobertura, hacemos coberturas dinámicas.
+
+Entonces quizás un poquito lo que más ha complejizado la operación, pero los aliados vienen ayudando mucho a mejorar la propuesta valor.
+
+Ahí hicimos un análisis la otra vez también en la zona donde tenemos Community Fox el negocio creció un 20 más que en la zona donde no hay Community Fox, Entonces también nos han ayudado a crecer el negocio un poco.
+
+El trabajo también se ha hecho a nivel de portafolio, entonces se está trabajando.
+
+Ya prácticamente no vemos mucho el stockout, porque el stockout es como por categorías, entonces lo vemos para que no suba el 1%, 2%, pero estamos trabajando más con portafolio completo, pero con una herramienta que diseñó el equipo comercial en Power BI y que ahí vemos la disponibilidad del 100% de los SKUs, que ahí creo que había un tema que se iba a trabajar de no solo ver portafolio mínimo, sino también ver portafolio un poco más extenso.
+
+Eso creo que ayudaría sobre todo a los aliados, los aliados y los Community POC tienen un portafolio mucho más reducido que el que tenemos nosotros, entonces lo estamos viendo con esa herramienta, porque el portafolio mínimo es como el básico, entonces estamos trabajando en eso con una herramienta externa, entonces le pasamos la información a ellos de cómo pueden mejorar su portafolio.
+
+Esta herramienta es como que cuál un.
+
+Power BI, entonces ve productos prendidos tanto de aliados como de tiendas propias y mide todos los días prendido de productos.
+
+Es como un complemento de la herramienta del stockout del mínimo portafolio, lo vemos por tienda, por región, entonces lo estamos llevando como para hacer una medición un poquito más difícil que el stockout, entonces el stockout nos dice si el aliado le podemos le podemos dar órdenes o no, o sea, si él no está por arriba del 90% lo presionamos para que esté ahí, pero con esta herramienta medimos más SKUs y los que queremos que efectivamente tengan la liga, no sólo por categorías.
+
+Ay perdón, yo meto la cucharada.
+
+Creo que es algo que le funcionaría a todos los países, porque como está ahorita, como está ahorita el tema de justamente el portafolio mínimo, con qué metas, si tienes cinco productos y cumples con uno, ya es una categoría y es bullet, o sea al final tú necesitas son los cinco productos prendidos.
+
+Entonces ese fue, desde ahí fue donde arrancamos quitándonos ese dolor de cabeza del prendido.
+
+Entonces no sé si desde la plataforma, desde lo que se hace en BEES o qué, que se vea es por SKU y no por categoría, no sé.
+
+Inclusive si el mismo portafolio que está el portafolio mínimo, que es donde vemos la rayita del porcentaje, si podemos poner ese mismo porcentaje en el portafolio global, creo que también ayudaría.
+
+Tenemos todos los SKUs y ahí que tiene gestión el 70% y ahí están el 100% de los SKUs.
+
+Yo creo que eso también ayudaría.
+
+Si se puede tener la medición del stockout que te da una rayita de un porcentaje mínimo al 90, si la podemos tener en todos los SKUs, también ayudaría.
+
+Había una cosa que hacía México que lo perdimos, nosotros lo queríamos hacer acá, que monitoreaban de cerca con los eventos del seller que estaba pasando con las tiendas.
+
+Entonces Jonathan en su momento tenía una alerta por Telegram cuando la tienda prendía y apagaba la tienda o por ejemplo a través de un API, o por ejemplo también tenía una que cuando la tienda caía en el portafolio mínimo le avisaba de una por telegram a él.
+
+¿Eso se perdió por dos razones, una porque hashearon los datos de las tiendas, entonces ahora yo no sé por qué quitaron el nombre de las tablas y ahora cómo se llama el que estábamos viendo la semana pasada?
+
+Creo que se llama POC ID entonces pues es un código larguísimo y no es tan fácil saber el tema, pero yo creo que sí es una forma pues como nosotros registramos todos los eventos de cara a lo que pasa en el seller, pues eso lo puede tener la operación en vivo.
+
+¿Qué es lo que pasa?
+
+Nosotros tenemos, o bueno, el equipo de Migue tiene un grupo muy grande de gente que se llama la torre de control, no sé si usted siga, que básicamente está revisando que las tiendas operen bien, pero esa torre de control se podría y es mucha gente entrando al mismo seller.
+
+Entonces ¿Qué es lo que pasa?
+
+Un seller tiene cuatro o cinco personas adentro mirándolo, mirando la tienda.
+
+Entonces los dos computadores de la tienda que están recién las órdenes y fuera de eso puede tener una o dos personas más revisando el portafolio.
+
+Eso muchas veces cuando hay demasiado tráfico colapsa.
+
+Por eso yo también creo que en el mundial colapsábamos el seller porque aparte de que teníamos mucho tráfico de gente entrando, también teníamos muchas personas revisando los sellers.
+
+Creo que si nosotros optimizamos este tipo de reportes y los centralizamos de cara a que haya como un tablero donde se pueda ver cuándo se prendió, cuando se apagó y los datos están en amplitud en realmente es como un poco cómo construirlo y tener el detalle de cara a poder optimizar la operación.
+
+Entonces si alguien puede entrar y ver desde un solo panel que está prendido, que está apagado, pues nos facilita muchísimo.
+
+Más, Puede estar afectando.
+
+Y ahora esto es de cara de Sel, pero yo lo quiero llevar un poquito a consumidor.
+
+Y hay algo dentro de este capítulo y es también por ejemplo, cuando tenemos agotados, entonces hay productos que vendemos, el consumidor lo busca y simplemente simplemente dice no found.
+
+Sí, porque no hay una visualización.
+
+Mira, no tenemos.
+
+Pero exacto.
+
+Entonces agregarle esa visibilización.
+
+Listo, ahorita ya tenemos controlado que tienes prendido y que no y de acuerdo a eso te estamos mandando órdenes de cara.
+
+Consumidor también está bueno es si nosotros lo vendemos pero no está en este momento y podemos crear eventos que le digan al consumidor buenis pack y a nosotros si hay un producto que está presentando mucho ese evento.
+
+Cuéntame con lo legal.
+
+Claro.
+
+Entonces hay complemento.
+
+Sí, pero también el management de folio se queda mucho más difícil también porque también necesitamos de una estrategia para productos que no estaban ahí.
+
+Pero ahí yo solamente lo diría si está dentro del portafolio.
+
+Mínimo you show me el SKU y me dice está agotado.
+
+Si no realmente está dentro del portafolio va a decir como dice, sería solamente eso porque no me interesa, yo no voy a llegar a vender, yo no va a ser un marketplace.
+
+Y entonces lo que no sea el portafolio le va.
+
+No soy aquí porque si no la chance de ver cosas mucho más cosas que no está disponible.
+
+Entonces creo que se queda más fácil hacer la charla de Service Electro también por expansión.
+
+Expansión sigue.
+
+Entonces pareces dos temas.
+
+¿Yo ya sé algunas respuestas, pero para qué piensas para el próximo año para esos dos temas.
+
+A nivel de producto o a nivel de estrategia?
+
+Prácticamente yo creo que duplicar los community Pops.
+
+Entonces vamos a seguir creciendo con community Pops y duplicarlos y más control con el detalle de los SKUs.
+
+¿Que necesitamos hacer con los aliados?
+
+Los aliados hoy están como 20 puntos por debajo de portafolio versus lo que tienen nuestras tiendas prote.
+
+Entonces desarrollar el portafolio de los aliados es un poquito el trabajo que tenemos que hacer.
+
+Entonces seguir abriendo más aliados pero mejorarles el portafolio.
+
+Tenemos un reto ahí también con temas de horarios de los aliados.
+
+A veces no apagan y no nos avisan, entonces lo estamos viendo un poquito post mortem, lo vemos al día siguiente porque cuando no nos avisan lo tenemos que ver por availability rate y por eso creamos también ese tema de torre de control.
+
+Entonces somos gente viendo la operación en vivo y los mapas para ver quién apaga y quién no.
+
+Una curiosidad para ti Z.
+
+Libri hoy tiene como 54.56 dark stores solamente desde 6 tiene positiv operación de plata, todas otras B por n motivos, principal territorial, cuando abrieran las tiendas no, no hicieron.
+
+Entonces hoy es muy difícil tener pedidos para órdenes para mantener la tienda.
+
+Entonces la idea es cerrar el próximo año, van a trabajar mucho para cerrar estas tiendas y después van a ver qué va a hacer.
+
+Nosotros hicimos cierre de algunas tiendas, las que no eran rentables.
+
+Hoy en día la gran mayoría son rentables, pero siguen siendo un soporte muy importante para la experiencia al consumidor, porque los aliados tienen un portafolio muy diferente, les cuesta mucho llegar al portafolio, capacidad de frío, los aliados también no es la más adecuada, son pequeños y los horarios, los aliados a veces no, mañana vamos a trabajar, entonces cubren nuestras tiendas.
+
+Entonces el soporte inicial hasta que los desarrollemos, ya cuando somos reelegantes para ellos y así podemos, eso lo estamos haciendo ahorita, desarrollarlos para poder confiar en ellos un poco más, con horarios, con portafolio y con capacidad.
+
+Entonces esa es, tenemos el reto de la integración, que la vamos a hablar en algún momento, que ese sí es importante, porque a pesar de que tenemos menos tiendas, están facturando mucho más que antes y el negocio está mucho más complejo.
+
+Entonces hoy tenemos descuentos nominales, descuentos de plutadá, la facturación es mucho más compleja de lo que era antes y tenemos encima de eso el requerimiento de la DIAN, que es facturación electrónica al 100%.
+
+Entonces eso para nosotros es prioridad también, que lo conversamos con Luis.
+
+Pero básicamente eso, vamos a seguir expandiendo, no vamos a abrir más tiendas propias, probablemente cerremos una que otra que haga sentido una vez que desarrollemos a los aliados, pero ya el año que viene, este año ya no quedamos, tenemos 69 tiendas y unos 110 aliados que están operando.
+
+Nos sugerencia, entonces nosotros necesitamos yo y Vicky hablar con Melanie por 30 minutos, después regresamos a Chava, pero gustaría que todos tuviésemos acá para.
+
+Entonces paramos en expansión, futuro de expansión, después volvemos para hablar de futuro de portafolio.

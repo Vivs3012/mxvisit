@@ -1,0 +1,179 @@
+{
+  "roadmap": [
+    {
+      "section": "Seller · Roadmap · now",
+      "priority": "High",
+      "type": "UX / Product backlog",
+      "title": "Visual priority on operations map",
+      "stores": "Field-validated",
+      "detail": "Differentiate orders by urgency, prep time, and first-order badge. Today everything looks red — sellers can't decide what to attack first.",
+      "impact": "Horizon: now",
+      "quotes": [
+        "Bahia: 'Then since everyone is red… some differentiation to know which ones are left'",
+        "Puebla: first-order badge actively used and valued across POCs"
+      ],
+      "id": "map-visual-priority"
+    },
+    {
+      "section": "Seller · Roadmap · now",
+      "priority": "High",
+      "type": "UX / Product backlog",
+      "title": "Metrics: date range selector",
+      "stores": "Field-validated",
+      "detail": "Replace fixed 7-day window with day, week, and month selectors. Sellers need yesterday's numbers to manage today's team.",
+      "impact": "Horizon: now",
+      "quotes": [
+        "CDMX 4/4: want daily filter like previous app",
+        "Churubusco: 'I miss that part because this one goes away for the last 7 days'",
+        "Zavaleta: wants orders-per-hour view (today via Ale's Excel)",
+        "Peru 3/3: KPI screen locked to rolling 7 days; ranking peer set opaque; SLA 35 hidden"
+      ],
+      "id": "metrics-date-filter"
+    },
+    {
+      "section": "Seller · Roadmap · now",
+      "priority": "High",
+      "type": "UX / Product backlog",
+      "title": "Reimbursement: detailed breakdown of what they receive",
+      "stores": "Field-validated",
+      "detail": "Weekly reimbursement report with line-by-line degloss: commercial difference, coupons, last mile, refunds, and final payout. Sellers today reconcile in Excel/notebook because they don't trust or understand the platform number.",
+      "impact": "Each payment line explained in plain language · Weekly PDF export per store (concept validated in visit) · Drill-down from total → concept → order list · Seller can spot-check a random order against payout",
+      "quotes": [
+        "Interview script: 'Do you understand each line? What's left to trust in the final number?' — Figma concept tested",
+        "Bahia: 30 min/week manual reconciliation in Ricardo's Excel; does not use app financial report",
+        "Los Alpes: notebook + daily Excel; wants to degloss for random spot-check",
+        "Churubusco: trusts payment but cannot audit order by order in platform"
+      ],
+      "id": "reimbursement-breakdown"
+    },
+    {
+      "section": "Seller · Roadmap · now",
+      "priority": "Medium",
+      "type": "UX / Product backlog",
+      "title": "Metrics: AI copilot (MVP)",
+      "stores": "Backlog",
+      "detail": "Pre-defined explanations per metric ('what this means' + 'what to do if red'). Weekly plain-language summary — not open-ended chat.",
+      "impact": "Horizon: now",
+      "quotes": [
+        "CDMX: sellers don't understand ranking, fulfillment score, or what impacts it",
+        "Talabera: limited KPI use — checks delivery time visually only"
+      ],
+      "id": "metrics-ai-mvp"
+    },
+    {
+      "section": "Seller · Roadmap · next",
+      "priority": "High",
+      "type": "UX / Product backlog",
+      "title": "Map + kanban on one screen",
+      "stores": "Field-validated",
+      "detail": "Combine real-time map (couriers + order pins) with stage columns (waiting / preparing / ready). Drag ready orders to assign on map without leaving the view.",
+      "impact": "Horizon: next",
+      "quotes": [
+        "CDMX 4/4: operations map is most-used screen at peak; requested map + kanban together",
+        "Interview script: Figma concept tested in every CDMX visit"
+      ],
+      "id": "map-kanban-unified"
+    },
+    {
+      "section": "Seller · Roadmap · next",
+      "priority": "High",
+      "type": "UX / Product backlog",
+      "title": "Multi-assign orders to courier already en route",
+      "stores": "Field-validated",
+      "detail": "After courier accepts order A, seller can bundle compatible orders B and C going the same direction. Courier confirms or rejects the batch.",
+      "impact": "Horizon: next",
+      "quotes": [
+        "Zavaleta: 'Cannot assign second order to courier on route'",
+        "Churubusco: still uses Telegram to route multiple orders",
+        "Peru La Marina: #3 ask — assign second order to courier already en route"
+      ],
+      "id": "multi-assign-seller"
+    },
+    {
+      "section": "Seller · Roadmap · next",
+      "priority": "High",
+      "type": "UX / Product backlog",
+      "title": "Metrics: hourly operational view",
+      "stores": "Field-validated",
+      "detail": "Orders per hour vs couriers per hour. Compare today vs yesterday vs same day last week.",
+      "impact": "Horizon: next",
+      "quotes": [
+        "Zavaleta: wants orders-per-hour + couriers-per-hour in platform",
+        "CDMX: forecast shows 30 expected, 7 arrived — can't staff by eye",
+        "Peru La Marina + Merino: WebPO demand-by-hour praised; want same in seller KPIs"
+      ],
+      "id": "metrics-hourly"
+    },
+    {
+      "section": "Seller · Roadmap · next",
+      "priority": "Medium",
+      "type": "UX / Product backlog",
+      "title": "Reassign order after courier starts",
+      "stores": "Field-validated",
+      "detail": "When courier is sent to load but can't complete, seller reassigns without canceling — similar to Tucan flow Churubusco referenced.",
+      "impact": "Horizon: next",
+      "quotes": [
+        "Churubusco: 'Prefer to reassign as in Tucan'"
+      ],
+      "id": "reassign-order"
+    },
+    {
+      "section": "Seller · Roadmap · next",
+      "priority": "Medium",
+      "type": "UX / Product backlog",
+      "title": "Financial report: export to Excel",
+      "stores": "Field-validated",
+      "detail": "Export reimbursement and sales breakdown for taxes, courier payments, and accountant. Parallel spreadsheets today because export is insufficient.",
+      "impact": "Horizon: next",
+      "quotes": [
+        "Churubusco: export financial report to Excel requested",
+        "CDMX cross-store: payments, taxes and refunds in parallel spreadsheets"
+      ],
+      "id": "financial-export-excel"
+    },
+    {
+      "section": "Seller · Roadmap · later",
+      "priority": "Medium",
+      "type": "UX / Product backlog",
+      "title": "Reliable daily order forecast on home",
+      "stores": "Field-validated",
+      "detail": "Fix inflated or missing forecast so sellers can staff couriers with confidence. Show range, not false precision.",
+      "impact": "Horizon: later",
+      "quotes": [
+        "Bahia: marked 30, 7 arrived",
+        "Los Alpes: ignores forecast, staffs by eye"
+      ],
+      "id": "forecast-trust"
+    },
+    {
+      "section": "Seller · Roadmap · later",
+      "priority": "Medium",
+      "type": "UX / Product backlog",
+      "title": "Unified portfolio: minimum + full catalog",
+      "stores": "Field-validated",
+      "detail": "Single navigation for minimum portfolio and full catalog.",
+      "impact": "Horizon: later",
+      "quotes": [
+        "Mixcoac: two confusing screens with different product sets",
+        "Los Alpes: 183+ SKUs reviewed manually"
+      ],
+      "id": "portfolio-unified"
+    },
+    {
+      "section": "Courier · Roadmap · next",
+      "priority": "High",
+      "type": "UX / Product backlog",
+      "title": "Courier Financial Report (Jumbo): earnings statement",
+      "stores": "Field-validated",
+      "detail": "Weekly payment communication directly on courier app — summary by concept, line by line. V1 without order-level detail; dream: on-demand statement.",
+      "impact": "Horizon: next",
+      "quotes": [
+        "Product meeting: launch Courier Financial Report this week",
+        "Widely used on Sundays for payment closure",
+        "Dream: statement on request + direct bank transfer (complex: customer bank account)"
+      ],
+      "id": "courier-financial-statement"
+    }
+  ],
+  "cross": []
+}

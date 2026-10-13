@@ -6,10 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export:readable": "tsx scripts/export-dashboard-readable.ts",
+    "export:pdf": "tsx scripts/export-dashboard-pdf.ts"
   },
   "dependencies": {
+    "@upstash/redis": "^1.38.3",
+    "jose": "^6.2.10",
     "next": "^15.4.3",
+    "pptxgenjs": "^3.12.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "recharts": "^2.15.4"

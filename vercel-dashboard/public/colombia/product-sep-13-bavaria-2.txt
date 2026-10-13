@@ -1,0 +1,705 @@
+La otra.
+
+Entonces hacemos el problema peor o no tiene la cantidad de couriers para cubrir toda esa zona.
+
+Entonces hemos llegado con un punto medio en donde le hacemos una dinámica.
+
+En tal caso si falla esta tienda llegas hasta la mitad porque no puedes cubrir toda la zona.
+
+Entonces no puede ser tan automático como que cubre toda la zona que apagó El Community pop tiene que ser muy pensado para no afectar la zona completa.
+
+Pero igual en la medida que vamos creciendo cada vez hay más community Pockets, entonces cada tenemos hasta tres y cuatro tiendas por consumidor en algunas zonas, lo cual es bueno porque se apaga una, el otro está cubriendo.
+
+Yo creo que lo que tenemos que buscar es más overlapping y pues obviamente desarrollarlo para que no estén apagando tanto.
+
+¿Pero continuando hacemos una comunicación para botín, esa señora está cerrada, piensas que hubo mejor?
+
+Ideal para nosotros si nos llega alguna alarma de tiendas que han apagado, que no dependamos de una persona viendo el mapa.
+
+Eso sería clave porque al final nosotros nos ayuda.
+
+A veces la persona no lo vio en el momento, entonces un aviso sí ayuda porque en ese momento accionamos.
+
+Entonces ¿Qué pasó aquí?
+
+¿Por qué apagó tal?
+
+Hoy en día lo vemos quizá un poquito.
+
+¿Quién es tiempo hacer eso en fin de semana?
+
+Sí pusimos uno.
+
+¿Es que pusimos un equipo que se llama Torre de Control Y están viendo en vivo el mar?
+
+No exclusivamente el tiende.
+
+No lo vemos durante.
+
+¿Cuántas personas son?
+
+No, son dos personas, una vez ciudades y una vez Bogotá.
+
+Y lo que hace es ver el mapa y comunica por el grupo.
+
+Entonces dice la tienda sobre todo avisa cuando hay una tienda que tiene zona única.
+
+¿Que tiene zona única?
+
+Si no tiene zona única la avisa como que en amarillo, pero si tiene zona única lo avisa en rojo y pone porque estamos perdiendo ahí el dimo en cobre.
+
+¿Ah sí?
+
+¿Y cómo hace un grupo?
+
+Por WhatsApp, entonces avisa y ahí están los líderes, avisan qué pasó y normalmente en unos quince, veinte minutos se resuelve.
+
+¿Pero lo hacemos exclusivamente el fin de semana?
+
+No, no llegué ahí a quizás no.
+
+Va a quedar, pero vamos a hablar de Cercil, está bien porque hay una crisis ahí tenemos que resolver.
+
+Bueno, paramos en Stock Out, Expansión.
+
+¿Ya hablamos entonces Stock Out cuáles son las cosas que está planeando para el next year?
+
+No, nosotros ya nosotros tenemos desarrollado la visual con Power BI que nos dice que el stockout pero de todos los productos, solo de las categorías.
+
+Ideal sería que lo pudiéramos ver por el cel para ver también como cumplimiento del 100% de los SK, pero vamos a mantenerlo así porque nos ha funcionado.
+
+Ahorita estamos, hicimos como mientras hicimos la expansión no éramos tan exigentes con el stockout del aliado porque no tenían órdenes, entonces no podíamos exigir.
+
+Estamos en ese proceso que ya los que tienen órdenes le estamos exigiendo, ahora sí tienen que tener 100% de las EKUs, ya los que tienen órdenes estamos diciendo ahora tienes que tener más horario, tienes que abrir estos días.
+
+Entonces es un proceso gradual que yo creo que se va a mantener así el año que viene.
+
+El año que viene probablemente duplicar los community posts porque si ayudan y nos ayudan a mejorar propuestas de valor.
+
+Y como ahorita estamos reduciendo las coberturas de nuestras tiendas en hora pico, eso es lo que nos está permitiendo por ejemplo el mundial tuvimos que hacer eso, los Community POC le dejamos coberturas únicas y nuestras tiendas se redujeron en distancia para poder cumplir.
+
+Paul estaba diciendo un poco de la estrategia comercial, pasa mucho por el car business.
+
+Entonces por ejemplo, cuando hablamos de stock, nosotros siempre gustamos de pensar la estrategia de ABC, las curvas curva A, con eso 80% de las vendas son de estos 20 productos.
+
+Hay una estrategia así también porque él estaba platicando sobre comercial, una idea que se queda cerca de esto, cómo que.
+
+Platicas más por tema de disponibilidad y análisis de inventario.
+
+Hemos tenido por ejemplo este año estamos trabajando en tener el mismo volumen de inventario que el año pasado, pero con mucha más venta.
+
+Entonces tenemos que mucho más acertados con el port y con la cantidad de productos que tenemos y los días de inventario, etc.
+
+Ahí es donde tenemos el ABC de los productos, pero es más como para garantizar la disponibilidad, sobre todo esos productos Pareto y a esos productos le damos un DOI diferente para garantizar.
+
+Pero es más un análisis de portafolio.
+
+Y de ahora que estamos haciendo esta migración para Community POC, yo me recuerdo que Colombia tenía el mejor stock out porque las tiendas de la compañía entonces es más fácil hacer el control y ahora está haciendo esta migración entonces más difícil.
+
+¿Entonces todas las tiendas tienen siesta por ejemplo o solamente las propias?
+
+Solo las propias.
+
+Las tiendas terceras facturan con su propio.
+
+ERP, tienen distintos todos tienen diferentes, muy pocos tienen CIESA, porque CIESA es un producto costoso, es como para mediana empresa, no es para negocios pequeños.
+
+Pero el problema de CS es para todos los poks.
+
+Solo para los tiendas terceras es el.
+
+80% Del negocio todavía, a pesar de que tenemos más Community POC, ellos son solo el 20 de la facturación todavía.
+
+Porque lo estamos.
+
+Ah, yo creo que ese contexto es bueno.
+
+Yo creo que hay que dar ese contexto porque no lo explicamos el tamaño, aunque ¿Cuál es la proporción de órdenes que hacen los aliados versus las tiendas propias?
+
+Tú mostraste la vez pasada en primaria.
+
+Son el 20%, o sea todavía tienda propia del 80% de las órdenes, a pesar de que son 69 tiendas propias y 120 aliados, de las 170 solo 69 son propias.
+
+Y la idea para el próximo Evo es cerrar algunas propias probablemente, pero muy.
+
+Puntuales por estrategia territorial.
+
+Y como ya estamos desarrollando los aliados, ya de repente no nos hace sentido tener una tienda propia aquí.
+
+Entonces quizá el próximo año se queda 50-50.
+
+Entonces las órdenes yo no creo que.
+
+Estamos proyectando entre 30 y 35 por ciento todavía, pero con negocio que está creciendo, entonces que lo que crezca sea con los aliados.
+
+¿Porque es importante Miguel?
+
+Porque los Pay Points se cambian, los paypoints de las propias no son los mismos de las Community POC.
+
+Y te digo, por cuenta de Cd Libri es mucho más fácil hacer el control, el management de las propias, porque si la persona no está bien, cambia.
+
+La persona, pero al final es como una tienda, entonces puede decidir a mí.
+
+Que yo prenda, pero Community Park no, ¿Por qué no puede cambiar el owner de la Community Park que no está bien, entonces cambia la comunidad?
+
+Entonces los Pain Points no son los mismos justamente porque no tiene acceso a informaciones que nosotros que estamos en la compañía tenemos.
+
+Entonces la equipo de Tales en Brasil tiene acceso a todas las bases, todo Power BI, Clústeres comerciales, todo, todo lo que quieren tiene las Community Product, no tiene el equipo de Luana Camareno hace la puente de las informaciones y ponga la presión necesaria en cada uno de los pockets que no está bien.
+
+Entonces esta es una diferencia muy importante por cuenta de esto que nosotros hicimos, Topitiendas por ejemplo, porque Topitiendas ayuda mucho las Community POC que no tiene acceso a las bases que nosotros tenemos como compañía en las propias.
+
+Entonces es importante porque los Free Pointers cambia mucho.
+
+Igual el año que viene por ahí el 60-70% del volumen va a seguir también.
+
+Lo que pasa es que no, pero.
+
+Con un negocio que ingrese igual no van a ser 20 mil órdenes de comité con 50 mil, 60 mil.
+
+Pero hoy la estrategia, nosotros podemos tomar la decisión, vamos todos por Community POC para tener expansión y no tiendas propias.
+
+Es que los Community POC acá lo que están dando es capilaridad, pero no es como que.
+
+Pero no se están abriendo Community POC como en Whitespaces.
+
+Lo que hacemos es que eso nos da como la posibilidad de ser mucho más eficiente.
+
+De hecho lo que hemos probado es que cuando abrimos Community POC en zonas donde nosotros no operamos, generar órdenes es muy difícil, o sea, no sé, abrimos uno en Chía que es acá cerca y pues no nos ha ido bien, o sea, conseguir esas órdenes no está bien.
+
+Entonces lo que vemos es que para que el negocio traccione y tome órdenes tiene mucho tiempo.
+
+Entonces al final lo que estamos haciendo es que le vamos entregando de las tiendas propias órdenes a estos aliados.
+
+Por por ejemplo, ¿Por qué estoy trayendo esto?
+
+Porque por ejemplo, la integración de CIESA perfecto, necesitamos hacer.
+
+¿Pero esto no va a ayudar la Community POK a tener las informaciones de stockout, por ejemplo?
+
+No, con CIESA específicamente no, Pero la disponibilidad que tú te puedas pasar a tu ERP sí le va a ayudar a un Community POC.
+
+Por ejemplo, hoy tenemos Community POC que hacen 2000 órdenes al mes, ese se pudiera integrar si tuviera la opción,.
+
+Pero.
+
+No,.
+
+A diferencia de Brasil, aquí sí el tema de facturación electrónica es obligatorio.
+
+Entonces allá tú puedes entregar con el.
+
+Cupón de este producto.
+
+Ahí me corrí errado.
+
+Nuestra estrategia es poner mucho más fuerza en, por ejemplo, en cosas de stockout en nuestro producto.
+
+Entonces por ejemplo, hay una discusión siempre de poner ah mira la cantidad exacta de que la persona tiene en su stock uno a uno en los productos tenemos esa discusión porque con esto podemos tener información más precisa, correcta para traer.
+
+Mira, estos productos están cuasi al final necesita ser un.
+
+Entonces hoy no tenemos hook para hacer esto.
+
+¿Para el contenido serviría descargable en CSV o no en s para que puedan hacer facturación masiva?
+
+Porque todos tienen RP diferentes, por eso.
+
+Algo que sea estándar, que tengan los datos, los campos que necesita.
+
+Es que el problema que nosotros tenemos es que cuando la tienda acepta la orden digamos que la información del usuario se pierde.
+
+Yo sé que hay una.
+
+Entonces al final es claro como ellos tienen la fan de aceptar la orden para gestionarla, entonces no alcanzan a facturarla.
+
+Así sea el community poco, sea la tienda propia.
+
+Entonces lo que hace muchas veces que anotan, pero pues cuando están.
+
+Pero lo que dice Lucha, si hubiera un descargable donde ellos pudieran ver como el 1 a 1.
+
+Lo que pasa es que compliance.
+
+No, no.
+
+Creo que necesitamos más profesionales en eso también.
+
+Entonces estoy trayendo esto porque creo que es importante.
+
+Porque acá para ustedes es distinto de los otros países porque tiene muchas propias también.
+
+Somos el país que más tiendas propias.
+
+Tiene de manera que está haciendo ahora.
+
+Porque México tiene modelo, pero la relación no es la misma que tiene porque es como una sociedad.
+
+Las tiendas no son de grupo modelo, entonces no tenemos la relación en la misma.
+
+Entonces.
+
+Tiene que hacer caso contra tiendas mías.
+
+Entonces, por ejemplo, Perú tiene tiendas propias también, pero Ecuador, todas nuestras Perú son 12, entonces es muy pequeño.
+
+Ustedes son quien más tiene tiendas propias.
+
+Es más fácil la relación con ustedes.
+
+Mucho.
+
+Hay una maturidad más grande con tiendas propias porque realmente son propios.
+
+Claro.
+
+Prioriza.
+
+Pero ese tema de la posible integración, ¿Cómo la ven?
+
+De la posible un API o algo donde nos podamos.
+
+El problema es que no hay una patronización.
+
+Entonces para ustedes sí está.
+
+Pero las comunidades, digo por cuenta de Z Delivery por ejemplo, hay como 30, 40 EGPs.
+
+Z Delivery tiene integración para todos los 40.
+
+Tiene.
+
+No tiene.
+
+Imposible porque es para DES.
+
+Los DES principales.
+
+Pero es que el problema no es tanto la integración como tal.
+
+Porque la integración igual hay que hacerla localmente.
+
+Con el ERP no tenemos a qué pegar.
+
+A qué pegarnos.
+
+Sí, sí, sí.
+
+Pero tenemos que hacer todo desde nuestro lado.
+
+Pero es algo posible para todo.
+
+Todo es posible.
+
+Todo es posible.
+
+Absolutamente todo.
+
+Aquí les traíamos también el tema de eso específicamente, que si quieren lo podemos ver de una vez o más tarde, pero más tarde.
+
+El tema de integración para nosotros no sólo es un tema de que ya el negocio está facturando mucho más, sino que tenemos toda esa cantidad de descuentos que ahora son tan manuales y que son tan específicos.
+
+Es una llave abierta para facturaciones que no son adecuadas.
+
+Más los controles internos que ya control interno tiene encima de que no estamos cumpliendo.
+
+Entonces para nosotros si es una prioridad.
+
+Pero Miguel, un ejemplo de esa delibre también la misma cosa que está pasando con nosotros producto no tenía espacio para hacer el desarrollo de cosas que el equipo de Luisa Camarón gustaría, Entonces fueron a partnerships.
+
+Entonces mira este, este.
+
+Entonces hicieron muchas integraciones, muchas.
+
+¿Y qué pasó?
+
+El producto de la tienda se quedó, el producto de sel se quedó en segundo plan.
+
+Entonces todos los hooks que nosotros gustaríamos hacer de features nuevas, yo no sé, campañas no llegaba a como 60% de las tiendas de delivery, no llegaba porque las tiendas no utilizaban más la plataforma de Zdelivi, son solamente sus FPS.
+
+Entonces esa es una cosa importante también.
+
+¿Que necesitamos hacer un trade off o qué vamos a poner en APIs para hacer?
+
+Costaremos de todo, exclusivamente facturación.
+
+¿Facturación, porque ahora que Zdeliv está haciendo?
+
+Haciendo las features del hat en producto.
+
+¿Por qué?
+
+¿Por qué?
+
+Porque llegar a la conclusión que necesitamos tener más control de la comunicación, porque el EGP no va a hacer las cosas que nuestro business necesita, no va a hacer, Va a ser desde quien es importante para su producto, no para nosotros.
+
+El PNL de ellos no es lo mismo.
+
+Entonces esto es una cosa importante.
+
+¿Cuáles son las cosas?
+
+Entonces facturación.
+
+Si tengamos facturación para todos, está bien.
+
+Se quedaría bien, por ejemplo, porque quizás con ellos la discusión no es sobre siesta, es hacer un API para todos.
+
+Si es un API, es como si tú te quieres conectar, mira documentación,.
+
+Eso es lo que necesitamos.
+
+Por ejemplo, está diciendo de stock, por.
+
+Ejemplo, pero eso es stock dentro del seller en el select.
+
+Ah, en select no hay siesta más fija.
+
+Mejorar el stockado para hacer disponibilidad.
+
+Si, dentro de esos APIs podemos agarrar e integrar que se abre con el inventario check.
+
+Pero Eso es prioridad 2.
+
+3, O sea la 1 es facturación.
+
+Es que lo complicado es una hora.
+
+Pico, te llegan 50 órdenes, ya vimos las dos veces.
+
+Y tú piensas que la sustitución de stock es importante para tu control.
+
+Hoy con el on off lo podemos controlar, Si no es algo que.
+
+Pero la cuantía esta tienda tiene, si.
+
+Es manual no nos serviría.
+
+A la operación propia no le serviría porque tenemos venta de retail y tenemos venta de curry.
+
+Entonces si yo pongo aquí hay 100 y se venden 50 por retail, la plataforma no va a ver que se vendieron 50.
+
+¿Entonces para nosotros la única forma sería que haya una integración con sistema y diga y conecte con lo que hay, pero manualmente poner aquí hay 100 para lo único que nos servía antes era para por ejemplo licores, que por ejemplo nos quedan dos botellas de aguardiente, entonces dos para que?
+
+Si, o dos botellas de vino, pones dos pero para no vas a poner.
+
+Ni siquiera porque hay stock de la tienda física también, entonces no hace sentido, no hay más distribución, miro el 100 de mis tokens para tardar mining, no.
+
+Es muy difícil en realidad nuestro pain grande es poder facturar porque eso nos pega en los tiempos del SLI.
+
+Para las tiendas propias, los terceros no se han quejado del tema de facturación,.
+
+Pero de nuevo para propias no hace sentido para las tiendas communitybox así, pero.
+
+Hoy ellos dos tiendas de productos les puede pasar lo mismo que a nosotros porque varios de ellos tienen venta física también, no son dark store, son pocos dark stores, la mayoría son tiendas de.
+
+Barrio, Si cargan el inventario ahí, pues al final, o sea si venden por fuera ellos no van a ir a registrar en Taiwán.
+
+Sirve para los productos que nuevamente, por ejemplo tengo un dos botellas de vino, es bueno tenerlo porque si un cliente pide tres, pues no va a poder, o si, como para evitar el sistema del stock, pero de resto para los de volumen on off es mejor que poner hay 565 botellas.
+
+¿Pero y cómo hace los controles de stock?
+
+Porque tiene los control físico para hacer la Viena para talá,.
+
+O sea el control del inventario se hace a partir de Cieza, porque pues de ahí se ingresan todo lo que ingresa a la tienda y como ellos facturan o por la venta física o por la aplicación, pues eso se va restando automáticamente.
+
+¿Qué es lo que pasa?
+
+El ERP acá funciona como con dos listas de precios, entonces ellos ingresan y en la venta sale de la tienda, entonces simplemente van y si es presencial lo facturan por la tienda y si es por el otro lado a veces qué pasa, se equivocan y marchan algo de la aplicación por la lista de precios, o sea hay mucha susceptibilidad a errores manuales, pero al final el inventario se descuenta porque salieron dos, tres, sixpacks, lo que sea, ahí no hay ningún tipo de problema, Facturan con su propio,.
+
+Tienen otro sistema de facturación, pero todos tienen.
+
+¿Sabes qué es lo que pasa?
+
+Que el volumen de órdenes que recibe un Community Pog a hoy no es tan alto para quejarse como lo que pasa con las tiendas, entonces no sé, por ejemplo una tienda puede recibir en hora pico noventa, ciento veinte órdenes en esa hora, probablemente el Community Pop no recibe esa cantidad de órdenes, entonces tiene más espacio.
+
+Eso es hoy.
+
+¿Qué es lo que pasa?
+
+Que si el negocio crece otra vez el otro año 50 los community pops me llaman a decir oiga yo ya estoy recibiendo tantas órdenes que no puedo.
+
+Entonces eso puede ser un problema al que nos enfrentemos en ocho meses.
+
+¿Claro que, pero como está hoy el negocio es que nuestras tiendas ya ni siquiera tienen la capacidad de facturar todo el tiempo, entonces con una dispersión donde el 80% de las órdenes entran por la tienda y el 20% al otro lado, pues tenemos que solucionar por ahora ese 80%, disponibilizar las APIs y es como tú que tienes?
+
+¿Sigo?
+
+Ah bueno acá está la documentación, conéctate a mi API.
+
+Bueno, entonces platicamos de Territorial expansión stock y ahora creo que se quedaría bien hablando un poco de flota motorizados, cómo está hoy qué estamos haciendo los challenges, las cosas.
+
+Hemos preguntado también y por ejemplo el tema de ubicación ha mejorado bastante, era una de las cosas que.
+
+Ahora tenemos un nuevo float it is intrigued.
+
+Se queja menos de temas de dirección,.
+
+Por qué trabajamos mucho en esto, creo que hay mucho más oportunidad, pero qué bueno que está mejor, Tengo un par.
+
+De casitos aquí por revisar que cliente pone su dirección y lo manda como lejos de la dirección, pero son casos muy puntuales.
+
+Nos ayuda mucho la expansión con comunidad de Pons porque les estamos poniendo 1 o 1.5 que también nos ayudaron a hacer el 0.5, entonces el polígono es más chiquito y con eso logramos normalmente nuestros puntos propios no pueden hacer sla más de 1.8 o 2 órdenes por domiciliario, con las nuevas coberturas pueden hacer hasta tres órdenes con SLA perfecto, entonces cada domiciliario es más productivo y ahí.
+
+Que se queda bien tener más tiendas, más estructura, más y con coordinación, entonces.
+
+Nos está ayudando a que ya no necesitamos tantos domiciliarios como antes para cubrir la misma cantidad de órdenes.
+
+Está mejorando la productividad, pero en líneas generales seguimos manejando pagos por órdenes a los domiciliarios, le damos incentivos, se maneja.
+
+Igual a como ustedes hacen planeamiento por hora, cada uno de los tiendas envío,.
+
+Tenemos una también en Power BI tenemos una información que estamos construyendo como con el LE que nos hace Dani PPM pone las órdenes que vamos a tener el fin de semana y con eso hacemos la planeación, pero la mayoría de las tiendas hace su planeación de domiciliarios, nosotros solo les cobramos cuando no están cumpliendo con los KPI y ahí sí le decimos es que para este fin de semana tienes que tener tanto, de resto ellos lo hacen.
+
+Por ejemplo si nosotros podemos poner la query que el PPM está haciendo, hacer la previsión en top tiendas por ejemplo ayudaría.
+
+Hay dos puntos ahí que voy a tocar, primero, si los pronósticos que hace la plataforma son súper desacertados, no dan datos reales entonces las tiendas o como yo ni miro eso porque no me van a traer esa cantidad de órdenes para provisionar.
+
+Y dos, hay un tema con los domiciliarios que eso lo levanté hace como tres semanas pero no he podido avanzar que es el cobro del service fee o como una propina.
+
+Nosotros necesitamos con esto que les contaba del delivery fee y demás cobrar, poner un service fee porque eso lo hace Rapi, lo hace Didi, donde incluyamos un cobro de Mifking o bueno algo que sea customizable dentro de cada orden.
+
+Si me hago entender cómo.
+
+Hoy vamos a platicar más tip las cosas ahí.
+
+Pero usted veció una propina.
+
+Sí pero no es un tip sino puede ser los dos, puede ser service fee y propina que es un valor que se suma al final del valor a pagar y que sea customizable, o sea lo que yo hablé es que eso lo hablé creo que con, no me acuerdo con quién, con Vic, pero ya lo que me decía es que no es tan difícil porque es una línea adicional como la del delivery fee donde simplemente es una suma más, no sé eso que impacte pero al final sí es algo que requerimos con urgencia.
+
+¿Pero piensas que?
+
+¿Más importante es el service fee o propina?
+
+No, service fee, service fee porque es.
+
+Un cobro pequeño que el consumidor probablemente no le pegue tan mejor a Mako como.
+
+Tienes propina.
+
+Lo que pasa es que tiene que ser customizable, o sea porque no puede ser fijo, si lo dejo fijo entonces puedo subir.
+
+Exacto, como Uber por ejemplo,.
+
+Pero se arranca la funcionalidad y después ponemos el.
+
+Customizable, sale ahí no gracias y ahí tiene.
+
+Y esa tampoco,.
+
+Esto es lo que nosotros estamos cobrando hoy en domicilio en términos, ahorita estamos en 6000 que estamos como un rango medio.
+
+Si comparamos por ejemplo con un RAPI, ¿Que es lo que le está cobrando el consumidor?
+
+Y esto todas las plataformas, RAPI tiene tarifa de servicio y propina, tiene las dos opciones, Didi también, CD lo tiene.
+
+Ya la parte de.
+
+Entonces nosotros hoy lo que el ejercicio hicimos fue, si nosotros metemos tarifa de servicio, hoy cobramos seis mil por domicilio, pero solo meter mil, mil quinientos pesos en TAR servicio probablemente no le pega al consumidor, nos mejora siete dólares por hectolitro en MAZ hacer ese cambio y es incluir la línea de tarifa de servicio.
+
+Y si metemos propina, ayudaría es a fidelizar flota domiciliario, porque si le damos el 100% de la propina al domiciliario, pues ayuda a fidelizarnos, pero sería prioridad número uno, tarifa de servicio.
+
+Y si se ve el domicilio, Pues obviamente.
+
+Miguel, 100% de la tarifa de servicio.
+
+Es para nosotros.
+
+Sí, o sea, es para por ejemplo el FIDE.
+
+Pero es una buena pregunta, cuando yo cobre el FIDE servicio y atienda un aliado, ¿Quién se queda.
+
+100% Para una taja de la plataforma?
+
+Exacto, eso tiene que quedar pues claro para todo el.
+
+¿Pero no hay alguna cosa específica de planeamiento para la flota desde tu lado manual operacional?
+
+Se hace manualmente, por ejemplo, hoy tenemos operadores logísticos que son por ahí el 30% de las órdenes.
+
+Esos operadores logísticos son.
+
+Nosotros le pasamos la cantidad de domiciliarios que necesitamos el viernes, el sábado y domingo, en bloques horarios, necesitó tantos domiciliarios de 10 a tal, tantos de tal a tal, pero cada vez hacemos menos eso porque los comisionistas que son socios operadores de nuestra tienda, los comisionistas ahorita lo estamos obligando a descentralizarse, llamamos que usted se encarga de la última milla, tanto de la planeación como de contratación, todo.
+
+Entonces cada vez tenemos menos esa responsabilidad de pasar la planeación.
+
+¿Cuando vemos la planeación?
+
+Cuando no cumple con los KPI y ahí sí le decimos, usted no está cumpliendo porque ha debido tener 10 domiciliarios, tuviste 8, entonces le pasamos la planeación, pero no lo hacemos con el 100% ni con los aliados.
+
+Los aliados les recomendamos cuando no están cumpliendo, de resto ellos hacen su planeación.
+
+No es proactivo, es una reacción de.
+
+Algo que se Pero funciona porque ellos se ocupan de tener la cantidad de domiciliarios que necesita.
+
+Si le enseñamos a cómo calcular su cantidad de domiciliarios.
+
+Y ahí la única complejidad que tendría.
+
+El tema es que depende de la cobertura.
+
+Si tú haces un feature que te diga debes tener tantos domiciliarios, requiere forecast.
+
+De ventas y cobertura, pero no tienes nada como por ejemplo Journey domiciliarios.
+
+Hoy estamos en X, el próximo año usaremos de test puntos porcentuales menos de Churning de domiciliarios, por ejemplo.
+
+No tiene ese control, pero de domiciliarios que se queden en la plataforma con nosotros, Churning es interesantísimo.
+
+Que no opera más con.
+
+Sí, sí, sí, justo para que se queda más con nosotros.
+
+Se van a otras.
+
+No, no lo medimos.
+
+Hoy sí es alto el porcentaje de rotación.
+
+Sí, por ahí 40% de los domiciliarios por fin de semana son nuevos.
+
+Son nuevos todas las semanas.
+
+Y cómo hacen adquisición los operadores logísticos.
+
+Hacen campañas y el resto es voz a voz.
+
+Y necesito domiciliario.
+
+Algunas tiendas ponen necesito domiciliario.
+
+¿Por qué?
+
+Por ejemplo, Miguel, nosotros hacemos campañas para hablar con personas child en consumer para traer de vuelta a la compra.
+
+Quizás podría ser alguna cosa así para los repartidores, porque en general tenemos los datos de los repartidores y podríamos hacer alguna cosa ahí.
+
+¿Hoy es un problema o no?
+
+Pero para ser delivery hoy es un problema porque OK, hoy se cambia la base con la frecuencia, pero va a llegar un momento que no tiene más repartidor, tiene que hablar con quien ya estaba trabajando.
+
+Hoy con los operadores logísticos, si no podemos acceder a la data de los domiciliarios por un tema de que no quieren que migren a otra plataforma con mismo TADA, porque puede ser que el domiciliario de Cabify migra quick pero sigue trabajando con TADA, entonces no comparten esa data.
+
+Pero con los propios sí tenemos la Sí, pero no hay unos actos.
+
+Por ejemplo para México hoy es un problema domiciliario porque muchas de las tiendas que cierran la operación cuando debería estar abierta, cierran por cuenta que no tiene domiciliario o SLE liga una hora porque hay solamente un domiciliario en la tienda.
+
+En pique hour tiene como que hacer porque no tiene la base para atraer a las personas.
+
+Entonces creo que es un problema que va a llegar para ustedes.
+
+Deberían empezar algo chico, pero poner un esfuerzo estratégico ahí porque va a llegar un momento que las personas miran no tenemos más repartidores, el nuevo Challenge Groove por ejemplo.
+
+Pero tenemos que entender los problemas de Sharing Today también porque hoy tenemos como 40% de churn.
+
+¿Por qué?
+
+Básicamente Miguel lo explicaba en la presentación, pero cuando comparas las ganancias de una persona entre TADA y otras aplicaciones, la propina se hace una diferencia.
+
+Entonces nosotros no cobramos propina hoy.
+
+Hay algunos features también que manejan la mayoría de las plataformas que nosotros si no tenemos, por ejemplo un rapi, si está lloviendo le da un incentivo al domiciliario y le sale en la plataforma y te dice recibe este incentivo.
+
+También por lluvia hay un incentivo en horas pico pagan más por la orden.
+
+Pero ahí te trago una sugerencia porque The Delivery no tiene feature para hacer esto y lo hacen por comunicación en aplicación domiciliario y con la tienda también.
+
+Y hoy tenemos los dos de comunicación.
+
+Entonces es posible hoy enviar mensaje para el domiciliario en su.
+
+Es posible ahora en Seller enviar un mensaje por Braze para Seller también.
+
+Yo por ejemplo no uso nada de eso.
+
+Yo no sé si si aprovechamos también esos features nuevos que a veces también, a veces no se lo bajamos de la manera correcta nosotros a la operación porque no les explicamos como según.
+
+Lo tenemos nosotros.
+
+Pero al final le podemos mandar comunicaciones a la tienda que al final lo que hablamos es que yo podría bajar el plan comercial a las tiendas por ahí.
+
+¿Qué haces?
+
+Ah mira, Día de los Padres para ser libres siempre es muchas órdenes.
+
+Entonces lunes envían la estrategia de la semana para las tiendas.
+
+Entonces mira, vamos a tener extra fee para ustedes y para los expartidores también.
+
+Entonces hacen la comunicación para la tienda y para los repartidores.
+
+Entonces desde la mañana hasta 5 de la tarde vamos a tener un extra de un dólar para todas las órdenes que ustedes ceden.
+
+Y hay una regla, las órdenes tienen que estar arriba de Xsla X Perfect Orders.
+
+Si no está arriba no gana.
+
+Eso ayuda porque por ejemplo cuando nosotros hacemos incentivo ahorita en Mundial hicimos varios incentivos diferentes, pero muchas veces el incentivo no le llega al domiciliario ni siquiera porque no se lo comunican porque no se lo dice la tienda.
+
+¿La tienda se queda con toda la plataforma, pero haciendo una comunicación para mira tienda, ahora vamos a hacer una comunicación para los motorizados, entonces cómo podemos hacer?
+
+Entonces hay una oportunidad ahí también y tiene algún tema que hay una estrategia para el próximo año que no platicamos aquí no, en la parte de la tarde gustaríamos presentación, se podría hacer toda para nosotros una visión más deep de las cosas, ahí ponemos, tenemos un material también para mostrar a ti de cosas que tenemos, por ejemplo la comunicación, una feature nova que tenemos y otras cosas más que estamos planeando.
+
+Entonces la idea cómo estamos haciendo,.
+
+Tenemos una charla con Perú, una charla con.
+
+Ecuador, ustedes ahora charlas con México también, estamos poniendo todo en repositorio, las informaciones en general 80 de las cosas son en común, pero qué pasaba antes es que hablamos solamente con México, entonces ahí como cuando vamos a hacer la cosa, mira si tuviésemos hablando con Miguel una cosita aquí ayudaría a Colombia también en esto, entonces ahí estamos trabajando mirando el paso, hacer un discover más cross entre todos, conociendo las intenciones para el próximo año.
+
+Entonces si vamos por ejemplo Perú y México gustaría mucho detener la feature de control unitario en stock por Unity, pero para ustedes no hace sentido como estamos platicando con ellos, pero si podemos poner alguna cosa ahí que se queda bien para ustedes también.
+
+Si eso sale nosotros lo aprovechamos para los licores, estamos hablando pero.
+
+Pero no nos sirve tanto.
+
+El otro on off no sirve más para cerveza y para el resto de los productos, pero no es un feature que Colombia priorizaría.
+
+Sin embargo sirve, o sea no es algo que uno dice esto no me sirve para nada.
+
+Tendríamos que tener las dos opciones no On off, que así era Vitexante, era infinito o ponías la cantidad, podías tener las dos opciones.
+
+Sí, porque nuestra estrategia con esto de tener hookings para esto, porque hoy no tenemos nada de información en base de datos que nos deje hacer un mensaje, mira estos productos no están bien, tu stock necesita ahora mira el consumidor, tuve un cancelamiento grande por cuenta de estos productos.
+
+Hay un tema y es, no lo Miguel, pero yo sí creo que es importante y es cuando la orden tiene cambios, mismo se actualiza, ejemplo el usuario pide tres casas, entonces la tienda lo llama y le dice oiga yo no tengo tres casas, pues claro porque nada.
+
+Reinborsements, perdemos mucha carga si es pago,.
+
+En Libia les toca cancelar la orden, porque, porque pues ya le cobran no sé 200 dólares y no hay ninguna forma como de actualizar y pues de cara eso ahorita pasa, pero no pasa tanto, pero a medida que tengamos muchos aliados donde no haya stocks tan grandes, pues seguramente eso sí va a empezar a dolernos más.
+
+Entonces, no sé, yo creo que el tema de updates dentro de la orden sí está importante y hay un tema que yo no hablé ni mi parte.
+
+No, no, no.
+
+El tema de los descuentos por B, o sea por bines.
+
+Todos los bancos lo que nos dicen es, OK, yo voy a hacer un partnership contigo, pero yo quiero que ese descuento no funcione con un cupón, sino cuando la persona ingrese mi tarjeta de crédito.
+
+Entonces eso lo hablamos creo que contigo, pero pues es un requirement que siempre nos tiene todos los bancos y creo que sí está importante hacerlo porque pues básicamente lo tiene todo el mundo, o sea, sé que hemos pedido muchas cosas,.
+
+Pero es un límite por banco, si.
+
+Se pone tu tarjeta del banco ganas 10% automáticamente.
+
+Pero necesitamos hacer una.
+
+Ah, sí, o Payments.
+
+Total, esa beca quiere carta.
+
+Claro, es jalar el BIN, pero la información está ya no es Juno.
+
+Se me olvidó el nombre del nuevo.
+
+Bueno, hay un integrador entre mercado PAC que tiene la información, o sea, simplemente pues yo sé que no es tan fácil, pero es como tomar esa información.
+
+Sí, porque este es uno de los puntos que no depende de nosotros desde equipo de BEES y sé que está más enredada la conversación, entonces ellos pero vamos a poder ahí la idea también al final el resultado es una charla buena con Mel y Lucas de Cora.
+
+Este es común entre todos los países, entonces este es también fácil.
+
+Estás más claro aquí.
+
+Este Colombia quiere muy específico.
+
+Este es que Perú, pero como estaba platicando contigo, o Colombia y Perú están más grandes en general que México los dos juntos, entonces ahí hay un espacio también de hay momento para Colombia ahora y para Perú creo que es importante también de nuestro compromiso de entonces vamos a sonar, vamos, nosotros necesitamos de más personas también, entonces eso es importante para.
+
+Mira, no es que no tenemos.

@@ -44,7 +44,19 @@ vercel --prod
 4. Framework preset: **Next.js** (auto-detected).
 5. Click **Deploy**.
 
-No environment variables are required.
+### Access control (@ab-inbev.com only)
+
+Sign in with a corporate `@ab-inbev.com` email (domain check only; no verification code for now).
+
+| Variable | Required | Description |
+|----------|----------|-------------|
+| `AUTH_SECRET` | Yes | Random secret for session tokens (`openssl rand -base64 32`) |
+
+Local development without login:
+
+```bash
+AUTH_SECRET=dev-secret-change-me AUTH_SKIP=true npm run dev
+```
 
 ## Build
 

@@ -1,0 +1,765 @@
+Igual que la tardanza de su pedido es más mayor a 60 minutos, pero a mí casi no me han salido.
+
+Como otros casos diferentes, es más por demora y que el repartidor fue muy grosero.
+
+Yo me llamo Leslie y pues creo que igual he notado mucho más como con demora los que yo he estado gestionando, me ha tocado también mucho que hay falta de stock y no les avisan, les llegan ya con un pedido cambiado, no todos les están avisando que ya no hay productos, simplemente le llega.
+
+El repartidor con cualquier producto.
+
+Qué tal, buenos días, bienvenida, mi nombre es Eduardo o Lalo como me quieran llamar.
+
+¿Está bien, en mi caso me han tocado un poco igual de ambas, pero últimamente en esta semana lo poquito que me ha tocado más han sido de pedidos cancelados, en este caso por serler, ya sea porque no tienen stock o que a veces les cancelan pero también el consumidor se queda con la incógnita de OK si me cancelaste pero por qué me cancelaste, o sea no me avisaste ni con tiempo no me hiciste Don qué pasó?
+
+Ahí se queda con esa incógnita y esa insatisfacción.
+
+También algo que también ha pasado es que no es que se tar.
+
+No he escuchado yo en caso de que sus molestias han sido mucho por el término de que sea el atraso, aunque nuestro reporte nos arroja que ese retraso no se enfatizan, no se molestan tanto por el retraso, a excepción de otras casas que ya han sido asa es que ya se pasó más de los 60, si ahí sí lanzan su molestia, pero generalmente son muy raros.
+
+En mi caso los que me han tocado en ese lapso no han sido por cancelación o por lo que comento igual de que no tienen stock prácticamente.
+
+¿Y cuando los usuarios están molestos por atraso por demora, cuánto tiempo más o menos demoramos en entregar?
+
+En mi caso han sido los que yo he notado, el dato que nosotros tenemos son 40, sí sí ese es.
+
+Nuestro SLA, pero cuánto tiempo llega más.
+
+O menos lo que vaya a partir porque son 40, aparte tenemos unos 10 minutos adicionales de aquí a 49 que son los que nosotros damos, no los decimos como tal, pero dentro de nosotros es como que el estipulado.
+
+A partir de esos me han tocado como unos alrededor como unos 6 digamos de unos 20 o 30 que gestiono que gestionado no son tantos los que.
+
+Arrebasan de ese lapso 60 minutos más.
+
+O menos 50 pasando de 50.
+
+Pero imagínate que prometemos al usuario de 20 a 40 minutos, puede que lleguen 20, puede que llegUen 40 y puede que lleguEn 10 minutos también.
+
+Entonces si nos tardamos 60 minutos ya fallamos mucho con el usuario y lo que vimos también en el estudio es después de 25 minutos ya perdimos el usuario mismo que nuestra promesa sea vamos a entregar en hasta 40 minutos, el usuario no quiere esperar todo ese tiempo porque quiere su cerveza para el momento y si ya nos tardamos ya pasó la ocasión así que no sirve.
+
+También algo que me pasó también mucho que es algo que si llegan a presionar o bueno se han llegado mucho a notar es también el producto fuera de temperatura que llega caliente.
+
+Sí efectivamente sí, es algo que ha pasado muy continuamente, Creo que entre todos los que he tenido aparte de retraso ha sido también una constante producto fuera de temperatura es algo que se ha pasado mucho y muy pocas veces.
+
+¿Lo de producto equivocado o erróneo un poquito, pero más creo que la más constante han sido esa retraso y producto.
+
+Fuera de temperatura Y ese ves algún patrón de POC, o sea sabes si tiene alguna tienda que tenemos más de esos casos?
+
+Eso sí no me he percatado, eso sí no lo he piloteado yo más, pero pues igual tendré más noción para.
+
+Saber que porque podemos revisar porque puede que el POC sí el POC puede no tener la máquina de hielo por ejemplo, o no tener espacio o no sé, llegaron muchos productos, no tiene espacio para poner para llevar y por eso llega caliente el usuario, pero no podemos entregar porque no hace sentido, nuestra promesa es frías y rápidas en tu casa, así que no hace sentido.
+
+Y de todo que ves de más cosas que tenemos,.
+
+Siento que algo que he visto mucho bueno es que con los que yo resulto es más equivocado.
+
+De hecho ayer estaba gestionando varios, todos me estaban comentando porque decía creo que en la base que se había dado era por retraso, pero yo ya al preguntarles la cuestión lo que me decían no pues es que yo no sé, como 45 minutos, no tengo tema con eso, pero me llevaron Corona en vez de Victoria y no me avisaron.
+
+Y ayer me tocaron creo que como cinco o seis casos seguidos donde esa fue la cuestión, les llevaron Corona en vez de Victoria y no les están avisando la molestia y varios y me dijeron no, pues está bien, los dos productos me gustan pero pues no me avisaron.
+
+Sí, pero escogiste uno.
+
+Como su molestia.
+
+Yo creo que lo que estaría bueno para todos los casos que vemos como repeticiones de fallas, que sepamos cuáles son los pugs porque ahí podemos hablar con el equipo de Ops, mira, tenemos un puck, no sé, Animas por ejemplo, que era un puck muy problemático que teníamos.
+
+Animas está entre.
+
+Sí, Animas ya lo sacamos.
+
+Pero animo, se está entregando de 10 tickets que tenemos, 5 son por producto incorrecto.
+
+¿Y qué está pasando?
+
+Porque ahí la supervisora puede visitar el POC y comprender, OK, ¿Dónde estamos fallando?
+
+No tenemos el producto, Si no tenemos o cancelamos la orden o llevamos al usuario porque no podemos llevar una cosa cualquiera.
+
+Y de tu lado.
+
+Más de que el reparto.
+
+Si es muy grosero a la hora de hacer el cobro, muchos piden como terminar o el cambio de cuánta cantidad del billete y pues a veces es como de que les dicen muchas groserías, este no les quieren entregar el producto porque al principio fue como que con terminal y no llevó como que cobrarlo o así, o del cambio uno le pasó de que estaba esperando el cambio, nunca regresó al repartidor.
+
+¿Y qué hacemos en esos casos?
+
+Pues igual es como, bueno, yo les digo que está en la aplicación como la opción de poder decir cuál es el billete con el cual se va a pagar o la opción de pagar todo dinero con efectivo.
+
+Igual en ese cierto caso igual es como levantar un reporte o tranquilizar al cliente de que pues escuchamos su opinión y vuelve a reportarlo con la tienda y comentarles que sus repartidores han sido groseros para no volver a la segunda situación.
+
+Sí, pero si el repartidor no volvió con el cambio del usuario, ¿Qué hacemos?
+
+Bueno, yo fui como, pero no sé,.
+
+No le contestó después de eso.
+
+No, fue como de que, o sea, traté como de calmarlo como de que creo que fue un cambio de 27 pesos entonces fue como de ofrecerle un cupón por la diferencia de que se le había robado el repartidor para poder.
+
+Como y comunicamos al POC, al seller.
+
+No, solamente me quedé con crear la ICÚPO.
+
+¿Ah sí, estaría bueno comunicar el saler también qué está pasando?
+
+Porque ahí podemos ver si este repartidor tiene otros casos así puede ser que no, pero eso no puede pasar porque es el dinero del consumidor.
+
+¿Y de stock, qué pasa con stock?
+
+Porque vimos que tenemos un buen nivel de stock en Puebla, o sea me suena raro que tengamos problemas con órdenes canceladas por no tener el producto,.
+
+Es.
+
+Más en algún festivo, en fines de.
+
+Semana ya te juego más con demora.
+
+A mí lo que yo he visto es que es más como a lo mejor en media semana, martes o miércoles es cuando más caen que está fuera que no tienen, esto.
+
+Puede ser porque.
+
+No recibieron de la compañía porque no llegó el producto desde BEES y por eso no tienen.
+
+Porque si llega casi siempre, lo he notado mucho que llega casi siempre martes o miércoles cuando más hay.
+
+¿La cuestión es que no todos los usuarios saben, nada más saben que descanselaron, ya uno checando en el reporte pues ya está viendo que y comunicamos al usuario ahí no?
+
+Las indicaciones que yo tengo hasta el momento es si el usuario no sabe un poquito de la situación pues no le podemos dar nosotros mucha información tampoco de lo que tenemos en la base, entonces estamos preguntando un poquito genérico de la situación, de cómo se le resolvió, pero pues si ellos nos están contestando el no, no sé cuál situación o no, no tuve ninguna situación pues a las indicaciones que tenemos es nada más como preguntarle ah OK entonces tienes alguna sugerencia o algo ya para no darle tanto detalle.
+
+¿Bueno yo por mi parte siento que si nosotros personalmente los estamos contactando para resolver este tipo de situaciones, yo siento que no estaría mal como en poderle decir mira como parte de mi servicio especial que estoy tratando de resolver problemas contigo, te estoy comunicando porque detecte esto, entonces yo te quiero dar como ese place en el servicio y por eso estoy preguntándote qué necesito, que pasó?
+
+Pero sí siento yo que sería bueno poder darles un poquito más de información porque hay muchos que sí se quedan como sacados de onda esperando explicación de oye pues qué problema, incluso a mí un usuario, bueno ya van dos usuarios como que se espantan de oye me reportaron o porque sienten como usamos la palabra situación, sienten creo que es más como decir que los hayan reportado a ellos, no tanto como que estamos por un reporte a lo mejor del servicio, oye me reportó la tienda, Sí podemos.
+
+Cambiar el approach con los usuarios, queremos escucharte cómo fue tu última experiencia para.
+
+Que nos sientan que sí que los.
+
+Estemos acusando de una casa.
+
+Muy como que muy golpeado como que lo vamos a cuestionar de algo que hizo porque sí también me ha tocado lo mismo de que varios tienen esa incertidumbre qué pasó pues qué hice no o también la misma del caso yo por ejemplo yo sí les comento sabes que respeto a tu situación y si le pongo un poquito detallado no tan específico pero sí sabes qué si mi reporte dice OK fue por pedo cansada fue respeto tu último pivot cancelado ya si él sé un poco porque muchas veces te preguntas y estás con lo mismo se queda intuición de es que he pedido de qué me hablas si necesitan un poquito de información yo en este caso si les doy y así veo que no recuerdan pues no hago mucho énfasis en recordarles sabes qué tal fecha ahí sí yo pregunto un poquito más abierta has tenido algún problema con la aplicación en el manejo de la aplicación o has tenido algún problema ya sea con el pedido en general ya se le entrega el producto o X ya para escalar por ejemplo yo si le pongo mi reporte de sabes que fue por el pedido tal ah OK no me reportó esto pero si me reportó que anteriormente ha tenido problemas con tales pedidos o que los han cancelado consecutivamente aportar y eso es lo que yo he checado y en caso que me reporte que a ti pedidos cancelado si lo escalado con ACE para saber qué está pasando ahí si es cosa del usuario o es cosa ahora prácticamente del seller algo por ahí debe estar fallando o.
+
+Algo y tenemos usuarios comentando acerca de las promociones que tienen que comprar un monto extra ahora o no hasta ahorita.
+
+De mi caso no han salido ninguna.
+
+Duda respecto sobre promociones y ningún usuario que esté molesto porque tiene que comprar X cantidad de productos y que antes no necesitaba es porque cambiamos nuestra estrategia comercial ahora tenemos el Progressive Discount que incentivamos los usuarios a comprar mucha cantidad de producto y lo que estamos viendo en los datos es que los usuarios están dejando de comprar con nosotros entonces si no salió nada bueno y de promociones cupones tampoco de cupones más bien.
+
+Ha pasado de lo mismo de p cancelado, sabes que me cancelaron mi pedido y tengo un cupón.
+
+Exactamente.
+
+Y esos usuarios no reciben el cupón automático porque hay una comunicación.
+
+En ese caso nosotros los indicamos que se puede escalar el caso, levantar un ticket, porque muchas veces si les indicamos eso porque ellos piensan, o sea, está bien eso, a lo mejor ellos piensan que nosotros nos contratamos para resolverles todos sus casos, todos sus.
+
+Y es lo malo porque muchas veces te siguen, te tratan de contactar por.
+
+Cualquier cosita, no son todos, después ellos les escriben.
+
+Sí, o cualquier tema, es que ya me volvieron.
+
+También es que levanta un soporte, o.
+
+Sea nosotros nos estamos contando y ustedes les avisan como ay, tiene que levantar un ticket en soporte.
+
+Sí, eso es lo que sí está pasando, no digo que todos, pero si hay algunos que todavía pasa.
+
+Pero eso es bueno, yo veo como positivo porque es como un canal de confianza que los usuarios tienen con nosotros.
+
+Sí, porque Pablo se está contactando es porque le resolvimos y prácticamente les preguntamos sus molestias, por algo se acercaron y volvieron a tratar de hablar con nosotros.
+
+Pero sí es algo que sí está llegando, pasa de que tratan de volver a contactarnos para tratar de resolver todos los problemas que ya vayan teniendo.
+
+Está bien, es un buen canal.
+
+Es que no somos un concierge para ellos.
+
+Eso es lo malo, es que yo tengo el sistema, no lo puedo ver de aquí, no te lo puedo gestionar, todo eso se analiza, pero contestamos a.
+
+Los usuarios, a todos.
+
+¿Por ejemplo a mí me tuvieron un usuario, me habló y me volvió a preguntar oye pues muchas gracias por el servicio, me puedes indicar, no sé, los festivos pasados, me puedes indicar si va a haber un cambio de horario en el festivo?
+
+Ya pues ya lo tratamos de orientar o lo traté de orientar ya más que nada de mira pues puedes revisar en la misma aplicación, puedes hacer esto o verificar, pero si ya siento que ya lo toman varios ya como de es mi canal directo para no dar toda la vuelta.
+
+Sí, pero eso está bueno porque si tuviéramos un agente por ejemplo para eso, o sea el usuario nos escribe por WhatsApp que sea y tenemos un agente para sacar dudas como un concierge y.
+
+No toma tanto tiempo tampoco.
+
+Si, a ellos se les está facilitando un poquito más así también.
+
+¿Y de promociones, qué más temas tenemos, o sea de cupones básicamente cuando cancelamos las órdenes no hay dudas, o sea no entendí ese cupón, no sé cómo?
+
+¿Con cupones de club es porque me cancelaron mi orden, perdí mis puntos y mi cupón básicamente eso.
+
+Normal pero así sobre aplicaciones o promociones hasta ahorita ha sido muy orgánico mi me no han.
+
+Salido ninguna duda y cuándo es un nuevo usuario tiene más dudas qué usuarios que ya compraban antes o no?
+
+¿Pues no, bueno yo los pequeños que esté contestado de nuevos usuarios de hecho son hasta ahorita los que siempre te dicen los más accesibles porque son el primer problema que tienen y creo que ellos de hecho son personas muy amables porque porque luego luego dices que la primera falla, luego luego me dieron por luego luego me atendieron mi queja, ah pues que chido se van con un buen sabor de boca realmente con ellos creo que son los que menos hemos tenido problemas por ese índole y ellos.
+
+Contestan, contestan más que los otros usuarios porque yo veo que hay muchas conversaciones que enviamos un mensaje y el usuario no nos contesta,.
+
+Pero sí creo que los que más contestan son son los nuevos usuarios y son los que más, al menos en lo que yo he visto son los que más dicen no todo bien, entiendo que se puede demorar poquito pero todavía no hay problema, son los que más tienen empatía, comprensión con la situación de ay se demoró cinco minutos pero yo entiendo era fin de semana o algo así, son los que más comprenden como los que más la.
+
+Dinámica o los posibles problemas.
+
+Y ahora hicimos un cambio en la base para que se actualice cada tres horas tenemos algún cambio, o sea los usuarios están contestando más o no?
+
+No hemos hecho el ejercicio de tres horas porque sucedió lo de WhatsApp.
+
+Ah OK, quieren hablar algo de WhatsApp, este es un buen espacio como para poder también detectar esos problemas que tenemos.
+
+Ayer, bueno hablen tranquilos ustedes es para.
+
+Traer los problemas porque necesitamos tener las soluciones entonces no se preocupen en ese.
+
+Caso es que WhatsApp te lo teta como spam, está leyendo un poquito las políticas, te la cescan, nosotros mandamos muchos mensajes rápidos y son mensajes repetitivos, no es como en Facebook cuando tú compartes una publicación constantemente de la majan como spam porque la misma publicidad si a lo mejor con las mismas letras con mis palabras y no le cambias nada pues te lo marcan como spam para botarse o para tratar de sacar, digamos, brincarse ese lineamiento.
+
+No sé.
+
+Yo en otro trabajo donde estaba, yo lo que hacía, como tocaba compartir algunas publicaciones, yo lo que hacía es que era el mismo mensaje, pero a lo mejor yo lo que decía es que a lo mejor trataba de cambiar algunas letras, alguna información para que el spam no me lo votara, no me lo detectaron y me deja publicar un poquito más.
+
+Y eso también el tiempo de los mensajes, porque por ejemplo, no puedes mandar tantos mensajes, digamos, en tantas horas, en tres horas del mismo número, porque te lo marca como span el algoritmo.
+
+¿Tienes que decir, sabes que?
+
+Te mando unos 30 ahorita.
+
+Yo creo que si era 30 y te puedes unas dos, tres horas, te mando otros 30 y así.
+
+Y no te los.
+
+No es tan pobre que te los marque como span.
+
+Puede llegar a pasar de todos modos, pero ya no es tan probable porque ya modificaste un poco el mensaje.
+
+Ya hice ciertos tiempos de descanso.
+
+No, Pero ayer yo mandé repartidos en toda la jornada y hoy mandé uno y me lo bloqueó.
+
+Siento que es por la cantidad entonces.
+
+Porque ayer lo que hicimos Lalo y yo fue irlos contando y Cuando llegamos a 50 dijimos ya no vamos a mandar, ya nada más es si nos contestan, porque no queremos que se bloquee otra vez.
+
+Entonces siento yo que poner como ese margen de 50 diarios y contaditos para que no vuelva a pasar.
+
+Porque si no son 24 horas.
+
+Por ejemplo, Edith, que se lo bloquearon ahorita en la mañana, ella ya no va a poder hasta mañana otra vez.
+
+Se bloquea por 24 horas.
+
+Sí, a partir de últimamente es un día completo perdido.
+
+Pero tú podrías usar el otro teléfono de la persona que no está.
+
+Lo tiene Diana.
+
+Ella lo tiene.
+
+Pero le digo que me lo regrese.
+
+Sí, porque si por acaso alguien de ustedes se quede bloqueado, hay un extra para esos casos.
+
+¿Pero ayer cuántos mandaron?
+
+Yo mandé 52.50.
+
+¿Pero en qué lapso?
+
+¿Cómo fue?
+
+¿Yo lo que hice, sabes que?
+
+Mandé primero unos 20, me paré una hora y media y mando otros 20 y así me los fui llevando.
+
+Los últimos 10 son nuevos, ya no son seguimientos como en otras que nos quedamos.
+
+Si, eran nuevos.
+
+Si, fueron unos 11.
+
+50.
+
+50 De a pedacitos.
+
+15 En una hora, 15 en otra.
+
+Y la última hora mandé 20 y como ya habían pasado 3 horas, ya en la siguiente ya di el seguimiento 50.
+
+Es que el sábado fueron 50 de jalón, entonces a mediodía por eso ya.
+
+Nos bloquearon, como eran muchos intentamos como jalar todo.
+
+¿Y usted cuántos hizo ayer?
+
+Yo hacía de como cinco nuevos y cinco tocados de los que no me habían respondido.
+
+¿Y cuántos en total?
+
+Yo hice en total como 45 entonces.
+
+Entonces si hacen como ese pedacito les funcionó ayer ya pedacitos estamos hackeando el sistema.
+
+Sí, porque el sábado hicieron de un jalón, entraron a las 11 y a las 2 de la tarde ya les bloquearon.
+
+Pero claro, hicieron como 50 y pico de un jalón que yo hice eso.
+
+Pero yo antes leí las políticas, porque las políticas de WhatsApp no te dice que sabes que a tantos mensajes.
+
+Yo llegué a ese número porque yo dije yo mandé 50 mensajes porque eso fue lo que mandé, ya lo cheque y lo colaboré con lo que mismo fue mi compañera y por eso llegamos al estatus, sabes que 54.55 es el límite y yo ayer ya no me quise arriesgar porque me arriesgo, o sea, puedo seguir trabajando pero me arriesgo y se me bloquea y más porque ya era la noche dije sabes que no me voy a arriesgar mejor porque si no hasta las 8 de la noche ya no voy a tener para cambiar riesgo.
+
+Si tuviera otro teléfono igual hacemos la prueba porque ya se bloquea ese teléfono y no hay problema, podemos seguir trabajando con nosotros y con uno vamos validando.
+
+Sabes que me dejó compartir tantos mensajes con este, con este tipo de mensajes y con este me dejó tantos, o sea, varialo un poquito para ver si así el algoritmo no te lo bloquea.
+
+Cambiaron las palabras.
+
+Exactamente.
+
+Sí, porque a veces así si te lo deja, porque yo antes lo he hecho así y si me ha dejado antes que te lo bote, si te lo voy a botar tarde o temprano, pero si te deja mandar un poquito.
+
+Más de mensajes y ven que estamos teniendo menos fricciones o no, que tenemos la misma cantidad de casos que teníamos antes cuando iniciamos.
+
+Casi siempre hemos dio la misma cantidad, la verdad.
+
+A lo mejor esto ya se acumuló un poquito porque tuvimos un problema con los usuarios ahí y se nos juntaron, pero creo que siempre hemos sido casi la misma cantidad.
+
+Excelente.
+
+¿Obviamente cuando son días festivos y fines.
+
+De semana, pero por Fiestas Patrias también, no?
+
+Pero antes de Fiestas Patrias era la misma cantidad.
+
+No cambió, No cambió mucho realmente.
+
+Es porque bajamos, les pregunto por qué bajamos un montón, salimos de un 24% de usuarios con fricciones para un 12%.
+
+Los primeros días nos estaban tocando a lo mejor unos quince, diez tickets y ya los últimos días fueron de dos, tres cada quien, o sea, pagó demasiado por día los tickets que nosotros teníamos que estar resolviendo porque sí, porque la.
+
+Operación está mejorando, o sea, buenas noticias.
+
+¿Bueno, qué más tienen comentarios qué les ha funcionado, qué no funciona, qué creen que podemos mejorar?
+
+Tienen todo que necesitan para trabajar.
+
+Sí, además de eso,.
+
+Creo que hasta.
+
+Lo de seguimientos, de que nosotros mandamos mensaje y se le vuelve a dar como la segunda vuelta, pero ya después de ahí cuántos héroes como tres horas tenemos para.
+
+Pero ellos como, bueno, a mí me ha pasado mucho de que me contestan ya al día siguiente, entonces ya para pues seguimiento yo ya no puedo porque pues en sí pues tengo que cerrar al día los que en sí toqué, entonces no sé, como un plazo más largo no se podría.
+
+Pero no contestamos esos usuarios, ya después.
+
+De que le di el primer saludo, el segundo no me contestaron hasta el siguiente día por la tarde, es como de que ya no lo tengo bien, si en mi listado, porque.
+
+Podemos contestar, pero pues ya no está en nuestra base, como ya se gestionó como cerrado, sin respuesta, a nosotros ya no nos aparece.
+
+Yo en mi caso sí lo sigo gestionando porque ya me respondió, a lo mejor tarde, pero me gestionó a lo que nos referimos.
+
+Ahí voy, yo lo que hago es que preguntó a Marce, me pasó una vez y yo le pregunto a Marce oye, sabes que ya me respondió, este si, ahí yo tengo toda la información, pero que sabes que el caso y ya le mandé la información o todavía la tengo.
+
+Si no le pregunta a Marce y le sigo dando la información.
+
+¿Hasta ahorita solamente me ha pasado una vez y yo sí lo he seguido trabajando, porque a lo mejor si se pasó el lazo de las 3 horas, no vaya, a lo mejor ya me respondió hasta un día después, hasta dos días me ha llegado a pasar y me vuelven a dejar sin hablar, pero le sigo dando servicio, porque a fin de cuentas me contestó, yo le digo es a Marce, sabes que?
+
+Me contactó esta persona y le paso el número y el nombre y a Marce la que me ayuda a llenar, ya me ayuda a actualizar la base en esa parte, yo así le echo, fue solamente hasta ahorita una vez que me ha pasado eso y yo así le hice.
+
+¿Y sienten que está funcionando para los usuarios, sienten que hace diferencia para el usuario cómo tener ese contacto proactivo o no?
+
+Yo también, sí, bueno a mí me.
+
+Ha tocado de que clientes que me dicen son puras mentiras, mal servicio y así, ya cuando les ofrecemos como por recompensa los 250 puntos para que sigas comprando, es como son mentirosos y déjame escalar tu caso de que te solicito los puntos una o dos horas y ya lo pongo listo, ya quedaron tus puntos en tu aplicación.
+
+Ellos me dicen, ah, muchos gracias Y ya después de el seguimiento que le dimos para visualizar si había seguido comprando con nosotros, si se veían más compras.
+
+Si hay mucha diferencia, más que nada por el tiempo de espera, porque a mí me, o sea, de las veces que nos ha tocado gestionar a lo mejor Tickets Directo del Tadá, no de lo de Puebla, pues es que es un procedimiento un poquito diferente y es un poquito más tardado el escalar para que le recuperen sus puntos y ya cuando está acá, a mí me ha tocado días un poquito leves donde el promedio le digo no, o sea se puede tardar hasta veinticuatro horas en verse reflejado y yo en diez, quince minutos.
+
+A mí ya me dijeron, ya se ve reflejado.
+
+¿Diles entonces que ellos vean eso de te impro promedio 24, pero en menos de 15 minutos yo ya te dije, ya están reflejados tus puntos, hace una diferencia muy, muy grande, porque si ya se quedan como con esa satisfacción de ah OK, si me están resolviendo, ni siquiera me tengo que tardar tanto y les da más confianza, que son los que yo he notado que más regresan a preguntar aunque sea el Horario del Servicio, son los que más me han contestado a mí ya, o me han preguntado ya después por cositas así un poquito más simples de oye qué promociones van a tener?
+
+Y ya pues ya los guíos no, OK, mira, puedes entrar en la aplicación.
+
+La aplicación pues te va a estar dando las nuevas ofertas, las nuevas promociones, pero son los que ya por cualquier cosita están como de OK, yo sé que tú me resolviste, entonces voy a volver a contactarte si tengo una duda, por más mínimo que sea.
+
+¿Y qué más de comentarios que tenemos de los consumidores?
+
+Alguna duda con la aplicación, cómo usar.
+
+Muchos que son nuevos y preguntan como que estada y si les damos como la explicación de cuánto vale, equivalen los puntos para que activen lo que es.
+
+La aplicación, pero es más para club, para nuevos usuarios, si es que no.
+
+Les quieres gestionar los puntos.
+
+Lescano Ahí empieza su desconocimiento.
+
+Es que no sé si los tengo activo.
+
+Nosotros tenemos una macro en que sabes qué te voy a orientar para que cheques dónde lo puedes validar.
+
+Igualmente en ese mismo comentario les comentamos los beneficios que tiene afiliarse con no los obligamos, le comentamos el beneficio y.
+
+Ahora sí prácticamente hay gente que ha dicho que no, ¿Verdad?
+
+Es raro la verdad.
+
+Pero si algo pasa, gente que sabes que no o sabes que no lo tengo y ya les activo.
+
+Ah no, sabes qué es muy raro.
+
+Realmente no sé.
+
+Yo en todos los casos que he tenido hasta el momento, solamente me ha pasado que es muy rarísimo.
+
+Ya les ofrecen el cupón, siempre vamos.
+
+Con los puntos, ni necesitamos el cupón.
+
+¿Yo cupón se lo ha dado una vez, una vez desde que inició esto, porque la mayoría aunque no lo tenga activado, si es como que les estamos explicando, les explico y ya les pregunto que si lo quieren activar y pues ya la mayoría me dice sí, sí, ahorita en un momento te digo cuando esté activado y ya regresan conmigo, me dicen sabes que?
+
+Ya está activado, me mandan captura y es cuando ya, OK, mira, te voy entonces pues ya a gestionar los puntos, pero sólo una vez una persona me dijo no, la verdad no me interesa y ya se le dio el cupón.
+
+Pero pues es muy, muy raro que no quieran activarlos.
+
+Sabes que he visto últimamente en un par de plataformas que hay un onboarding al consumidor, pica aquí, vas a ver esto, pica aquí y o sea el fondo se pone un poco sombreado, no está en tal.
+
+No, no tenemos.
+
+Pero podríamos tener.
+
+Sí, justo sí podríamos tener porque si los usuarios, porque es una aplicación nueva para el usuario, o sea, él no sabe dónde están las cosas, dónde tiene que hacer clic, entonces estaría bueno, podemos pensar.
+
+¿Y otra pregunta, lanzamos Turbo en Puebla, tuvimos casos de Turbo que se demoró, que canceló?
+
+Ningún caso.
+
+Y en Sex no tuvimos tampoco nosotros.
+
+No, pues los chicos no me han comentado.
+
+¿Te acuerdas que tú apenas me pasaste la base, no logré hacer el cruce, por eso no se presentó con algo?
+
+Ah, OK.
+
+Sí, no, sí podemos hacer, si quieres comparte y podemos hacer porque lanzamos ahora Entrega Turbo que son hasta 15 minutos y cobramos creo que 6 pesos más para la entrega y estamos entregando en un promedio de 9 minutos al usuario.
+
+Sí, rápido.
+
+Sí, sí, súper rápido.
+
+Entonces es una nueva forma también de entregar.
+
+Si el usuario tiene, como no tiene mucho tiempo para esperar, podemos también sugerir, mira, tenemos Entrega Turbo en tu región, tenemos que chequear si tenemos, pero ustedes tienen acceso al Seller Management.
+
+Para ver el polígono de tu.
+
+Podemos ver, o sea, se demoró mucho, podemos también comunicar al usuario, ahora en tu casa te entregamos en hasta 15 minutos,.
+
+Eso es bueno.
+
+¿Tuvieron acceso a un mapa, una liga de maps que les envié con donde están las tiendas de Turbo?
+
+¿Y algún otro comentario?
+
+No sé, de mi parte, creo que hasta ahorita lo que.
+
+¿Y tienen alguna pregunta, alguna duda?
+
+Bueno, yo de mi parte no, yo.
+
+Sí en cuestión de la base he notado, digo no nos afecta tanto, pero yo sí soy un poquito más curiosa en datos de ver cómo estamos gestionando todo, cómo van los resultados y lo que he notado es que respecto a la base, solo en esta parte, en esta parte sólo se está reflejando cuando hay CUP, los puntos TADA no nos da resultados, siempre aparecen ceros y cuando damos el cupón recovery y dice lleva uno o lleva, no sé, Diana lleva uno, Edith lleva dos recovery, pero en los puntos nunca aparece, siempre aparece en.
+
+Cero, como si no lo hubieras dado,.
+
+Como si no hubiéramos registrado.
+
+Y en el día pues llevamos casi siempre bastantes y siempre aparecen cerca.
+
+Ya, ese es un tema de una fórmula nada más, ahorita lo corregimos, en la fórmula marca como 200, que era lo que habíamos dicho inicialmente, después 250 solo es cambiar, 250 se actualiza, listo.
+
+Bueno, de mi lado yo creo que no tengo más preguntas, no sé si ustedes tienen algún otro comentario.
+
+¿Creen que la comunicación con el consumidor ha sido sencilla, es compleja?
+
+Yo tenía una cuestión, pues a nosotros lo que nos habían comentado era la macro, pues nos ¿Se puede modificar?
+
+¿Se va a estar mandando así?
+
+Pero pues yo en lo personal sí siento que son casos muy diferentes.
+
+Entonces creo que el poder a lo mejor personalizarle un poquito ahí con el usuario dependiendo del caso y dependiendo también de cómo nos contesten, ayudaría mucho como a desescalar situaciones, a que también sean un poquito más abiertos a.
+
+Se les comentó que no podían modificar.
+
+Sí, de hecho Chava nos compartió como un exilito de macros donde estaba como una opción mejorada, pero o sea, literalmente nos comentaron eso y lo ponemos y ya.
+
+Y de hecho por eso en WhatsApp nosotros pusimos como mensajes predeterminados para no tener que modificarla, pero que sí siento que sí ayudaría bastante a lo mejor poder personalizarlo un poquito.
+
+¿Digo, al fin y al cabo tenemos Copilot que nos ayuda a que no se pierda el tono de Tada para que también nos ayude en eso, pero pues si personalizamos un poquito, no?
+
+Personalicemos el mensaje de las macros es una referencia, recordemos que ustedes están por WhatsApp y el tema de sendes, pues digamos que es una predeterminada que ya te la da.
+
+Acá si usted creen necesario, personalicen.
+
+La intención es diferenciar del servicio actual contra este, por ende tenemos que tener mayor personalización.
+
+Yo me llevo el punto para hablar con Training referente a ese tema, pero personalicen nada más.
+
+No nos salgamos mucho de qué tranza mi cuate.
+
+Yo en mi caso sí personalizo un poco, pero.
+
+Pero obviamente siempre manteniendo lo que es el estatus o los requerimientos de la marca.
+
+Y si lo hago por lo mismo que yo también estaba con Leslie, es que no todos están.
+
+Está bien como que hablarles en el mismo contexto, ¿No?
+
+Porque hay unas personas que no traen a lo mejor el tema en la mente y en su momento pues le preguntas poner el tema y se enojan o yo lo traía y se enoja y la verdad mejor si alguna vez perdona por las.
+
+Por la situación, escalarlo, no minimizar, pero sí que llegar a tranquilizarlo.
+
+De acuerdo.
+
+Y siento que también eso ayudaría mucho a el problema de WhatsApp, porque como son mensajes predeterminados que se supone que ya están todos iguales, creo que también el personalizarlo un poquito nos ayudaría a que no lo detecte tanto como spam, porque no es el mismo mensaje que se está.
+
+Sí, y también hace hacer sentir al consumidor pues que si realmente ya nos estamos preocupando, por eso nos contactamos, pero sí que se sienta más empatizado, que digas, ¿Sabes que?
+
+Sí, sí siento que estoy hablando con una persona y no son respuestas ya predeterminadas porque si la siento más personal.
+
+Que es más fluido la conversación.
+
+Exactamente.
+
+Un poco más orgánico.
+
+Ya no, o sea, a partir de ahorita modifiquemos eso sin desviarnos tanto, nada más.
+
+Ustedes creo que tienen el criterio como para poder hacer esa personalización, digo, beneficios de lo de comparativa con el soporte del Business as Usual.
+
+Nosotros estamos como contactándolos y probablemente el usuario esté un poco más calmado a diferencia del otro servicio que están súper enojados, ejemplo emojis.
+
+No pasa nada si agregamos emojis.
+
+A depender de los emojis,.
+
+Solo entendamos cuándo si ven al cliente también muy enojado, pues no le pongan.
+
+Eso nos pasa y por eso restringimos un poco en la parte de soporte porque anteriormente así era, están molestos y nosotros le enviamos el emoji, tómate esto en serio.
+
+Acá creo que hay más flexibilidad porque es algo más de nosotros de salida que de recepción.
+
+Como imputado.
+
+Igual si le podemos dar entonces un poquito más de contexto de que fue que nos pregunten, de que no recuerdo la situación y es como hace referente el día, no sé levanta un reporte.
+
+Sí, porque les comentaron que no habían.
+
+Dicho que no podíamos dar tanto detalle.
+
+Si, no te seguía.
+
+No, no tengo o no recuerdo que.
+
+Y por eso les, por ejemplo, yo en mi caso me pasaba eso y también por eso nomás les decía, ah, es que tuviste un video trasero y les comentaba el último pedido y a ver si se acordaban.
+
+Oralmente tenemos como permitido darle mucha información.
+
+Exactamente, tenemos un touchpoint como para poder revisar eso, o sea, no que no se pueda, pero tampoco no tanta porque tendríamos que revisar el tema de a detalle, el tema de términos y condiciones y usos de privacidad para ver si nos metemos en un tema.
+
+Luego hay veces que es ¿Por qué usan mis datos?
+
+¿Por qué me contactan nos pegan el término de privacidad, entonces algunos dirán qué chévere, pero algunos otros dirán tú cómo sabes tanto de mí?
+
+Si, yo por eso también les comento, finalizar tu último pedido para evitar ese rollo porque dices no sé qué pedido estoy viendo.
+
+Revisemos eso, revisemos eso, veamos como esos casos específicos y veamos cómo mejoramos porque tampoco no quisiera tanto detalle o no sé cómo ustedes lo ven, me dicen oye a lo mejor y como la hora y el pedido y de lo que se trató, pues bien, Liverpool lo hace, por ejemplo, te intentamos entregar a las 4.33 y no estabas, yo sé que me había llegado un pedido, pero si es este es el cuarto pedido que detectamos que ya es como wait, ya me están espiando, entonces si quieren veamos eso.
+
+Yo siento que en este caso lo podíamos plantear según el contexto, si la persona no recuerdo, creo que sí, ahí sí podríamos indicarle un poquito más que no te dice es que no recuerdo qué situación, creo que ahí sí se podría hacer.
+
+No, o sea, para no aplicarlo en todos y no sea como tanta espraya de información.
+
+Sí puede ser, no recuerdo, yo nunca he tenido problemas con eso, no sé qué me hablas, o sea.
+
+Ah ya, de darle más, un poquito más de.
+
+Yo pienso que nomás a esos y no a todos para que también no sea tanta carga de información, porque seamos sinceros, un usuario que no ve mucho texto, no todos lo terminan de leer, la verdad muchas veces les dan perezas que bye.
+
+Y eso nos ayudaría entonces en el tema de personalización para el.
+
+WhatsApp, que nomás en eso estaría bien aplicarlo en los que sabes que no recuerden el caso no recuerdo.
+
+¿OK, es en el pedido 123 que del 26 donde hiciste con la tienda Ánimas?
+
+Uy no, no, es que tuvimos muchos casos, le daban 250 y expirado.
+
+250 Y expirado, por eso fue el ruido que hice cuando revisé y les mandé a ellos, al fin y al cabo ya la apagaron porque el punto estaba desactivada desde hace dos semanas, pero no estaba apagada.
+
+Usted sería generando pedidos, Ahí está nuestro problema.
+
+¿Qué más?
+
+¿Qué creen que podemos tener de más insights de esas conversaciones que hoy en día no tenemos?
+
+¿Estás validando?
+
+Es que estoy viendo los casos.
+
+En realidad.
+
+¿Santos Pachuca dice la señora, yo siento.
+
+Nomás lo que comentamos de recordar un poquito, creo que en mi caso, creo que es lo que más pega, no?
+
+Pero yo digo para el business, o sea, qué insights podemos traer de esas conversaciones, o sea, qué estamos aprendiendo con eso, qué podemos mejorar en nuestro país, producto, en nuestra operación, porque hay cosas que son obvias, que no podemos cancelar, que no podemos enviar un producto que no sea el que el usuario compró, pero qué más, porque ustedes están en contacto con el consumidor y son pocas las personas que tienen ese contacto, o sea, tener ese espacio abierto con el usuario para saber qué no está funcionando para nosotros es de grande valor.
+
+Yo cosa que he detectado y más por ejemplo, cuando me dice no, todo bien, o sea, no tengo problemas, yo de todos modos les estoy mandando como el mensaje que teníamos de OK, entonces todo bien.
+
+¿Tienes alguna sugerencia, algún comentario?
+
+Y lo que la mayoría me está diciendo de comentario, sugerencia es por ejemplo, el producto que les está, que no les está apareciendo cierto producto que antes si les aparecía.
+
+Que puede ser un tema de stock.
+
+Que puede ser un tema de stock o que sí, que de repente dice no, pues es que yo siempre compro aquí, pero nunca veo que no se tengan este producto.
+
+Más que nada es en tema de producto lo que la mayoría me ha contestado de agregaran este producto también porque no lo tiene y tengo que ir personalmente, no sé, a la tiendita o al Oxxo a comprarlo porque esta tienda no lo tiene.
+
+¿Pero es un producto que tenemos en nuestro portafolio o son otros?
+
+Solo uno, me ha pasado que dijo de los cigarros, pero de ahí en más, de ahí en más todos son de producto que pues sí, que deberíamos tener, que debería de tener, a lo mejor creo que también pues va a abarcar de la zona, pero pues sí es como de ay, es que no tienen, ay, que me dijo, de hecho.
+
+Que tengo uno, creo, a mí también pasó uno, sí, sí me la pasó uno que decía que porque no tienen este producto, que porque lo había consumido creo que en Veracruz, porque ahí no lo tengo, fue producción,.
+
+Por ejemplo, este de ayer que me dijo que como sugerencia que ya no tienen coronas familiares,.
+
+Pero eso deberíamos tener y dice, es.
+
+Que antes los tenían y ya como uno o dos meses que ya no están, o sea, él puso descontinuaron, pero pues así dice que regresarán las coronas familiares porque por ejemplo ahí ya no las tienen, entonces son comentarios así de es que antes si los tenían y ahorita ya tiene dos, tres meses que, que ya no me aparece o que ya no la surten o cosas así, son detallitos que pues sí me ha pasado mucho de que su comentario es la falta de producto.
+
+Podemos tener, no sé Sergio, alguna cosa para como recopilar los insights que tenemos de los usuarios, o sea, en esta semana tuvimos usuarios contestando acerca de corona familiar, por ejemplo, para tener más insights que estamos teniendo con las conversaciones.
+
+Sí se me ocurre descargar las conversaciones de los WhatsApp y hacer como van a ser varias, 170 conversaciones, agruparlas con inteligencia artificial.
+
+Sí, sí, sí, porque podemos tener los insights y ahí pasamos al equipo, sería eso.
+
+Sí, estaría bueno.
+
+OK, como para poder tener una rutina, esos whatsapps que ustedes vayan cerrando, puedan descargar como la información y dejarla en un SharePoint y nosotros tomarla.
+
+Probablemente.
+
+Se me ocurre.
+
+Yo ahí tengo una pregunta, todos los modeloramas tienen un horario diferente, o sea, dependo de la zona o por ejemplo en Puebla ya es un estándar, porque me ha pasado y de hecho ahorita tengo un caso aquí que me dice, es que mi sugerencia sería ampliar el horario de servicio, porque a veces pido a las nueve de la tarde, un poquito más, no sé, nueve, cinco, nueve, diez y ya no hay servicio disponible,.
+
+Yo creo que cambio por POC,.
+
+Por reglamentaciones también de venta de licor, hay domingos que no sé si se han dado cuenta que hay domingos en los que también el horario es diferente.
+
+De acuerdo, entonces podríamos tener los horarios de los pugs de pueblo y compartir.
+
+Con ustedes como para que, ah mira, pues este tiene tal horario, no sé, comprar diez, quince minutos antes para que puedan alcanzar.
+
+En el loop de ustedes está la lista, hay una lista de pug de Puebla, entonces me ayudan revisándolo, ahí está la lista y están los horarios, les pedí que nos mandaran los horarios, si quieren me ayudan a revisar, pero eso.
+
+Está actualizado porque tenemos creo que cuatro nuevos box.
+
+Ah no, eso hace como un mes que me lo mandaron, solicitamos a Galindo que si me lo da con las horas, con los horarios y se lo monto a los chicos, yo le pido.
+
+A Ale más fácil, horario, no está.
+
+La información, el supervisor en la última.
+
+Columna,.
+
+Teléfono, en la última columna dice prioridad de tienda, nada más, pero no.
+
+Tiene horario,.
+
+Horario de funcionamiento, see, Listo, ya lo solicité.
+
+¿Qué más creen que estaría bueno tener?
+
+¿Cuestión de los usuarios, que son un poquito repetidos, porque me ha tocado que hay un usuario que lo que decíamos, el de Anima me pasó, que se le daban los cupones y luego al día siguiente ya le habían cancelado otra vez el pedido?
+
+De esa parte creo que la tengo muy clara por qué estaba pasando, pero mi duda es, y si nos llega a pasar que, no sé, hoy resolví un caso por pedido con demora y en una semana me llega el mismo usuario, pero ahora es un pedido nuevo con, no sé, cancelación o algo así, se va a seguir, se va a tratar como nuevo o porque ya se le dieron puntos por tal cuestión, aquí nada más lo vamos a marcar como ya entregado y ya no se contactó otra vez.
+
+Nuestra sugerencia era tener como una cuarentena para no molestar a los usuarios, porque hay usuarios que hacen tres, cuatro órdenes por semana y puede ser que fallemos con ellos dos, tres veces, Entonces imagínate, enviamos un mensaje, fallamos contigo, perdona, después de un día fallamos contigo, perdona.
+
+Entonces no sé, yo No sé si 30 días es mucho, no sé, o.
+
+Si podemos en esa cuestión, si seguimos nada más reportándole a Marce, oye, convence, me repito el usuario para que.
+
+Sí, sí, porque yo creo que una vez al mes contactar ya es sufic, no sé qué ustedes piensan lo mismo,.
+
+Es que es lo que estábamos haciendo y nos harían repetidos, por ejemplo, yo ya trabajé uno y ya lo había trabajado, Leslie, solamente llenamos el Excel y en comentarios se le pone, sabes que ya se contactó, si tienes la fecha, obviamente se la pones y no, ya fue contactado y ya.
+
+Bueno, esa es la indicación que tenemos.
+
+Pachuca,.
+
+Si no, en cada caso que tuviera un retraso estaría ganando cupones y cupones.
+
+Exactamente, y no es lo adecuado.
+
+Si me dice la supervisora que nos comparte los horarios y ahí les comparto.
+
+¿Es muy rápido, no?
+
+Muy efectiva.
+
+Bueno, tenemos más comentarios, más dudas, más preguntas.
+
+¿Cómo está la experiencia de ustedes con eso?
+
+¿Les gusta trabajar con eso?
+
+¿Se sienten motivados, frustrados porque los usuarios no contestan porque WhatsApp los bloquea.
+
+Más que nada va a ser como va a ser tema el WhatsApp,.
+
+Podemos probar con los mensajes personalizados y ahí vemos qué pasa?
+
+Sí,.
+
+Pues yo hasta ahorita me he sentido bien, a mí me gusta mucho en lo general como ayudar, soy un poquito más de, digo, he trabajado en bastantes call centers donde a lo mejor tienes limitada la opción de ayudar desde dar un poquito más de información y tener ahorita un poquito más de apertura.
+
+Ahorita que ya comentamos, ya podemos personalizar un poquito.
+
+Siento que sí, tanto para nosotros como agentes como para el usuario va a estar un poquito más fluido, que nos va a ayudar un poquito más a esa personalización, a ese contacto que se supone que quiere tener para los usuarios.
+
+Creo que sí.
+
+Bueno, entonces lo que necesiten pueden llamarme, escribirme por Teams, por correo, donde quieran y bueno, de mi lado yo creo que es eso.
+
+Súper contenta con el proyecto.
+
+Qué bueno, qué bonito este ajuste seguramente nos va a ir mucho mejor, ya.
+
+Va a ser un poquito menos repetitivo y tendría poder igual comunicarlos más con el cliente de una manera más fluida y también el que diga, bueno, pues me están dando una techa, no estoy con otro robot o así.
+
+Ahorita que ya nos dijeron, pueden no modificarla totalmente, pero ya personalizarla y dar un poquito más de contexto al cliente de qué estamos hablando, si va a ser un poquito más fácil.
+
+Qué bueno, muchísimas gracias.
+
+Y ya listo, ¿Verdad?
+
+Ya está lista la base para que trabajen.
+
+Sí, ya Los hice temprano.
+
+¿Te bloquearon?
+
+Ella ahorita, ahorita le estaba dando,.
+
+Se.
+
+Lo y me lo acaban de bloquear.
+
+Ahorita ya 24 horas, ¿Verdad?

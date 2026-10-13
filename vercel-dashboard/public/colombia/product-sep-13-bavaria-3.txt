@@ -1,0 +1,387 @@
+Minha sugerência é que na charla que vamos ter amanhã, por amanhã, platicamos sobre isso.
+
+Gostaria de ter uma visão de vocês, não sei se tem algum material sobre isso também, que estão fazendo, que temos hoje de personalização.
+
+A aplicação, mas nós temos, sim, do nosso lado, vamos poder ir ao New Plan, mesmo que esteja com a equipe de México, porque a nossa sugerência é que tenhamos uma equipe do nosso lado, ao menos para arrancar alguns...
+
+Porque se vamos esperar a equipe de México fazer as coisas, Não vamos ter a velocidade que precisamos, porque agora eles estão fazendo melhorias no que já temos e precisamos de coisas novas.
+
+Eu vou mostrar para vocês a experiência que temos agora, que platicamos há um tempo atrás, das estanterias, da navegação e da aplicação, de portavos, que temos um For You.
+
+E o nosso sonho é que este For You se queira completamente por algoritmos.
+
+Que não precisaria ter uma pessoa para fazer a organização do showcase.
+
+O algoritmo faz isso.
+
+Então...
+
+Sim,.
+
+Claro, claro.
+
+Claro, claro.
+
+Mas o algoritmo vai colocar aí a melhor maneira para o usuário.
+
+E não uma decisão, mas, olha, zeros.
+
+Mas o que é melhor para Canellas, este zero?
+
+O que é melhor para Vivian?
+
+Entende?
+
+Então, que hoje é um manual, para todos, a mesma coisa.
+
+Então...
+
+Sim, então, nós que nos damos.
+
+Conta, nós que na semana passada não estivemos aprendidos, então aí dizemos, ai sim, uma falha, ou seja, como, isso é difícil.
+
+Mas precisamos falar de algoritmos, gostaríamos de ter encontros de vocês, de ideias que tenham, de coisas...
+
+Sim,.
+
+Isso é um exemplo.
+
+Mas nós queríamos mudá-lo para que fosse com zero.
+
+Não se pode, porque está somente desenrolado para a bolsa.
+
+Sim, mas com o Sample pode fazer isso.
+
+Mas o tema é que não queremos deixar netamente o Sample, mas não queremos usar o recurso.
+
+Sim, há um tema que a bolsa, quando colocamos essa feature, funcionou muito bem.
+
+A bolsa, o que faz é que mandamos fazer bolsas como para cinco anos, então temos um problema grande com as bolsas.
+
+Então o que nós dissemos foi que depois de um mês e meio, todo mundo sabe que temos a bolsa.
+
+Não podemos continuar mostrando a bolsa indefinidamente.
+
+Então nós dissemos, vá rotando.
+
+Não, não se pode.
+
+E poderia ficar somente para os novos usuários, por exemplo.
+
+Ou não, nem sequer.
+
+Ou para todo mundo, mas vamos mudando os produtos.
+
+Isso é uma boa forma de dar visibilidade às coisas que temos na tela.
+
+Porque já terminou de abrir esse paisagem.
+
+Para o usuário, que já é usuário.
+
+Recorrente, já comprou, já deveria ficar por fora e poderíamos mostrar outros produtos diferentes.
+
+Mas esse é um exemplo de, olha, faz o mesmo que se faz diferente.
+
+Copiaram.
+
+Porque eu me conjurava e me disseram, não, não se pode porque os textos todos são iguais.
+
+Não, porque há uma...
+
+Em desenvolvimento, é este SQIU que só fica aí.
+
+Então, deveria ser...
+
+Olha, eu gostaria de fazer uma escolha de qual é o SQIU que ficaria aí, neste formato.
+
+Então, talvez poderemos fazer uma conversa, olha, qual é a melhor experiência para isto que vocês gostariam, não somente...
+
+Isto é SEMI?
+
+Não, não.
+
+Isto é somente bolsa térmica.
+
+A estrutura de desenvolvimento...
+
+Não é a mesma.
+
+Não é a mesma porque...
+
+Porque um.
+
+Sampling pode montar o que você quiser.
+
+Exatamente.
+
+E pôr o preço no que você quiser também.
+
+Sim, também.
+
+Nós não teríamos que deixar só a zero.
+
+Nós poderíamos deixar...
+
+A metade do preço.
+
+Exatamente.
+
+Em sampling já é possível a zero.
+
+Sim, no sampling não temos nenhum problema.
+
+A construção já funcionou.
+
+Arrancamos a descarga com as bolsas.
+
+Está funcionando agora o sampling?
+
+O que acontece é que o sampling a Paola não gosta de fazer assim.
+
+Ela gosta de fazer mais assim.
+
+Ele gosta tanto que a loja não entrega.
+
+Ou seja, não que o usuário o peda.
+
+Não, mas a feature de sampling...
+
+Nós.
+
+Temos um feature onde a pessoa pode dizer something, ou seja, a pessoa marca que ele lhe lheve a corona zero, a vida zero.
+
+Mas o Paulo não gosta porque é mais vazio.
+
+Não, mas o que eu quero dizer é que a feature de sampling, ela foi criada com o objetivo de, olha, pôr o preço zero.
+
+Mas já se pode pôr outro preço.
+
+Como um regalo para você, Porque é como um regalo, mas o regalo para você é 50% do desconto.
+
+Sim, você pode colocar em diferentes tipos de horários.
+
+Em horários específicos, por exemplo.
+
+Então, aí já pode platicar.
+
+Nós começamos provando o sampling com a bolsa termofia, e aí migramos a bolsa para o carrinho, e não voltamos a fazer o sampling, porque o sampling que estão fazendo é diretamente com as tiendas.
+
+Você compra aguardiente e lhe mandam um six-pack na compra.
+
+Mas o usuário nunca teve a experiência de adicionar esse sample no carrinho, e simplesmente ele recebeu a surpresa.
+
+O sample é bom para a execução.
+
+E.
+
+Hoje também o Nurses Day está em várias partes, em Showcase, E está no carrinho.
+
+Porque para a loja é como um...
+
+Não, para a loja é um escadouro.
+
+Um escadouro é muito melhor.
+
+Você não sabe que é um sampling para a loja.
+
+Não, a loja não sabe, mas o usuário sim sabe que é um sampling.
+
+Exatamente.
+
+E nós também.
+
+Porque a loja sabe que é baixo preço.
+
+Claro, o que acontece é que o tema é que não se pode fazer como eles dizem.
+
+Por favor, eu quero só o sampling quando chega ao aguardiente.
+
+Não, eu não posso mediar com esse caos.
+
+Por aí é o nosso jeito.
+
+Eu gosto mais que o usuário tenha a intencionalidade.
+
+E eu quando vou pedir, já não me sai no carneto.
+
+Exato.
+
+Te sai no carnetto e tu não quer dizer a verdade.
+
+Exato.
+
+Mas eu dizia que isso é o que queríamos usar para o sampling e não estar dando a gente que diz que não quer.
+
+Que é justamente o que o Brasil faz com produtos de inovação.
+
+Por exemplo, Dani Kashishi conhece a VP de Beyond Beer.
+
+Usa muito o delivery para fazer provas de novos produtos.
+
+Então, você regula o produto para uma região do Brasil, outra...
+
+O mesmo produto com sabor...
+
+Flying fish, por exemplo, foi em uma prova de...
+
+Só no sul,.
+
+Durante três meses, e depois foi sendo mais e mais...
+
+Não, tem scoops também.
+
+Conheces?
+
+Conheces?
+
+Bits.
+
+Bits.
+
+Carnaval do Brasil é muito famoso, então todo ano há um novo sabor para este produto.
+
+E esta Vice-President...
+
+Sempre faz enquestas por The Delivery para conhecer o sabor novo que lhes parece.
+
+Então...
+
+E depois que enviam, enviam uma enquesta para os usuários.
+
+Então, para as marcas da companhia, Tem um desafio para as lojas...
+
+É mais fácil do que o que fazemos hoje.
+
+Sim, muito mais.
+
+E tem a informação por contato.
+
+Sim, do outro lado eu não tenho a informação.
+
+Para compartilhar com a partnership.
+
+Por quê?
+
+Porque isso é justamente o que faz o Rapid.
+
+O Rapid só envia...
+
+Na minha casa, quando eu faço um pedido rápido, chega uma coisa que...
+
+Olha!
+
+E uma pergunta, esse feature de sampling, se por exemplo a tienda se acabou o coronacero, pode apagar o SK-1?
+
+Claro, quando apagas o SK-1, apagas o sampling.
+
+E não sai o cliente?
+
+Não, não, não.
+
+É o melhor esquema, nós dissemos, mas eu não sei porquê...
+
+Não, mas não pode usar como acordeente, mas deveríamos usar para...
+
+Sim, quando nós.
+
+Provamos, nós provamos com bolsas, e obviamente você pode provar com, não sei, Retro C, quer enviar um sample, quer enviar os tachos, por exemplo, esse marketplace para provar, esse cabo novo, aí também você pode fazer e é muito mais fácil, mas...
+
+Pronto?
+
+Então, as duas...
+
+Aí você pode compartilhar a apresentação com a gente, as coisas que você tem aí.
+
+E depois nos enviar.
+
+Porque Vivian e Canella vão compartilhar contigo as features que fizemos esse ano, conheço muitas delas, mas há como comunicação com as tendas.
+
+WhatsApp, comunicação...
+
+Por.
+
+Exemplo,.
+
+Temos uma feature de reimbursement agora.
+
+Para as tiendas.
+
+Como funciona?
+
+Põe a informação na ADMIN, na CSV, e aí aparece para a tienda semanal, e pode ser descarregada a informação e fica um histórico das coisas na plataforma da tienda.
+
+Então não sei se vai ser mais por e-mail ou por...
+
+Se fica tudo aí.
+
+Legal.
+
+A que hora vamos abrir essa coisa?
+
+Porque aí eu convido...
+
+Hoje?
+
+Hoje?
+
+Hoje à tarde.
+
+Hoje à tarde.
+
+Mas é somente para o México.
+
+Agora é somente para México.
+
+Mas podemos...
+
+E agora é somente um resumo.
+
+Então todos os descontos, tudo isso.
+
+A ideia é fazer por pedido.
+
+Nesse pedido temos esse cupom.
+
+Mas já temos.
+
+A ideia é sair de...
+
+Aqui estamos em Mas ou Sass, em Colômbia?
+
+Mas.
+
+Então JJ está aqui.
+
+Este é um pedido de JJ.
+
+De Angeles, sabe?
+
+Sim, sim.
+
+Uma feature que JJ nos pediu.
+
+Por compliance.
+
+Porque tivemos um problema em meio.
+
+Sim.
+
+Incrível.
+
+Então, ele está aí por um pedido do JJ.
+
+Então, eu acho que vai ficar bem.
+
+Pronto!
+
+Muito obrigado!
+
+Obrigada!
+
+Excelente!
+
+Duas perguntas...
+
+Não, eu amo a Colômbia!
+
+Sempre de estar aqui!

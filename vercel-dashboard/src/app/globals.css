@@ -36,3 +36,27 @@ body {
 a {
   color: inherit;
 }
+
+@media print {
+  @page {
+    size: A4;
+    margin: 12mm;
+  }
+
+  body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  .print-hide {
+    display: none !important;
+  }
+
+  button {
+    color: #000 !important;
+  }
+
+  [style*="position: fixed"] {
+    position: static !important;
+  }
+}

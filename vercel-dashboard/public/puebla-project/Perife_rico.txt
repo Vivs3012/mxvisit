@@ -1,0 +1,527 @@
+Es que si, hay varios de todito, pero también cómo mejorarlos, o sea también para que no se de, quieren estar.
+
+Claro,.
+
+Es que por ejemplo, no sé si lo habrán notado, pero ya de repente a los clientes algunas veces se les pide el bloqueo porque se ponen por ejemplo el tema de algunas veces entregamos pero.
+
+OK, bueno, parte no es tanto problema.
+
+¿OK, el tema de bloqueo de usuarios hoy cuando solicitas eso, cómo lo haces?
+
+¿Por paralelo y también directo?
+
+¿Pero por ejemplo, o directo con Alec.
+
+O un opción por ejemplo que sea.
+
+Esta semana, no?
+
+De plano,.
+
+¿A qué te refieres con el cliente?
+
+OK, ya, ya te entendí, o sea como que no pueda usar o hacer pedidos por una.
+
+Un.
+
+Llamémoslo bloqueo temporal.
+
+¿Ya, OK, con tarjeta, verdad?
+
+Ok, eso está bueno,.
+
+Lo que pasa es que ha sido la terminal ya.
+
+Las colecciono,.
+
+Dice transacción rechazada.
+
+Sesenta y tres,.
+
+I think for the profile,.
+
+Hasta luego.
+
+Ah, sabes que si está pero bien difícil el tema del peso de las mochilas.
+
+OK, el peso,.
+
+Si quieres para que más o menos te des una idea, ponemos dos cartones de cerveza en una mochila y te vas a dar cuenta que es difícil manejar y dos, la mochila no resiste, es como de las dificultades que tienen los chicos.
+
+OK,.
+
+Principalmente el peso, manejar con lo.
+
+Por ejemplo ahorita el 16 hubo una promoción, se mandaban dos pero con dos repartidores era como la mejor opción pero sí fue como difícil de repente para los chicos.
+
+Sí, en el tema de la dinámica.
+
+Por la cantidad de tributos.
+
+Sí, no sé, hablamos un poco de eso en la mañana, no, que salió, lanzamos una promoción pero habilitaron un SKU específico para esa promoción de 4 megas, pero como estaba mal configurado el peso les dejaba pedir hasta 24 k si no me equivoco.
+
+Entonces estaba bien, estaba correcta la delimitación del peso a como veníamos trabajando, pero la configuración del EZ.
+
+Entonces parte de la solución fue, bueno, no lo íbamos a.
+
+No tenemos respuesta en el momento por la parte que puede modificar eso, entonces fue mandemos dos repartidores y hacemos un pago adicional, pero el flujo general de las de la orden se vuelve un problema, ¿Por qué?
+
+Porque eran dos soluciones, o dar doble vuelta o mandar dos repartidores.
+
+¿Si da doble vuelta, en qué momento cerramos el pedido y en qué momento nos pagan?
+
+Esa es la primera fracción.
+
+Ahora mando dos repartidores.
+
+Sí, pero dos repartidores para una orden cuando es un día bien complicado, no termina por hacer sentido.
+
+Digo, a lo mejor para salir del paso la compro, pero no es algo sostenible operativamente.
+
+Entonces si, ahí tuvimos esa fricción en específico por esta parte.
+
+Entonces hoy tenemos la limitación de 30 kilogramos por orden, que en el papel son 16 megas de 1.2.
+
+18 De las de un litro, si no me equivoco.
+
+¿Dieciocho?
+
+Dieciséis.
+
+Si.
+
+No, de las de un litro.
+
+Un número ahí.
+
+Pero eso es lo que comenta, que.
+
+La bolsa no está cómoda para cargar todo justo ahora.
+
+Las mochilas que traíamos anteriormente por especificación del proveedor, venían en 25 kilos.
+
+Entonces no hacía sentido tener un límite de 30 kilos con una especificación de 25.
+
+No cuadra.
+
+Ahora sí que no cuadra.
+
+No, pero el punto es que las nuevas mochilas ya deberían venir con la especificación ya nueva.
+
+Puede soportar 30 kilos y obviamente con un margen de seguridad.
+
+Pero no sé si llegaron.
+
+No llegaron.
+
+Creo que tienes de las dos.
+
+En ese sentido, estaría bueno que pudiéramos darnos una vuelta, a lo mejor en una tienda en Ciudad de México, porque allá, pues literal, el tema de mochilas no nos da abasto.
+
+Entonces por ahí un empresario encontró un proveedor y es el que hemos estado Necesito mochilas.
+
+Ahí está el número.
+
+Y realmente lo tiene Ricardo.
+
+Quien lo tiene es Ricardo realmente.
+
+Esa no, la nueva.
+
+Si, esta es la nueva.
+
+Nueva.
+
+¿Cuánto tiene esta?
+
+No creo, no me duran tanto.
+
+Duran menos de tres meses.
+
+Sí, más o menos.
+
+Pero la primera generación.
+
+Duraban las primeras.
+
+No, esa sí te creo.
+
+Pero esa no me suena que sea de la nueva.
+
+No, esa es la anterior, porque venía más chiquita, pero está mejor.
+
+Pero se desgastan mucho por el tema de.
+
+Las nuevas.
+
+De hecho la que más ha resistido es esta.
+
+De hecho de esas todavía tengo,.
+
+Pero luego me.
+
+Mandamos a modificar.
+
+Sí, porque decí que la hicieron de modificación, le pusieron como más soporte abajo,.
+
+Pero de hecho estos no aguantan el.
+
+Peso y el rigidez.
+
+Es que quiero ver cómo la adecuaron justo para ver si la puedo.
+
+Si, ocupamos una caja para darle rigidez y por ejemplo, aunque esté rota esta, se le coloca una caja de cartón y se puede salir.
+
+Pero tiene un riesgo.
+
+Pero cuando tenemos baterías.
+
+O sea las nuevas no son malas, resisten más que las anteriores.
+
+Hemos ido mejorando pero no tanto.
+
+Pero todavía hay.
+
+Lo que tiene esa es que no cabe ni una Mega ni una Delica y.
+
+Y las de media entran muy a fuerza y las de acá pues están bastante bien y se van dadeando cada.
+
+Rato se va nadie.
+
+No tienes como la caja que te.
+
+Pueda mover el producto.
+
+Así es, está muy variada la ruta,.
+
+O sea no tienen.
+
+Un espacio justo para Mega.
+
+Donde suelen romperse normalmente los puntos son aquí, acá y estos que son de plástico son lo más común.
+
+Y el desgaste de este lado que.
+
+Es lo más peligroso.
+
+Pero si por ejemplo si vienen más se van desgastando.
+
+Y la otra cosa es que los repartidores no tienen como un modelo de moto, cada quien trae la que puede y entonces algunas motos son más largas, otras son más cortitas y es lo que pasa Exactamente.
+
+Y pues no hay manera de homologar qué moto vayan a traer.
+
+Ese es como el detalle.
+
+¿Algo más que le quieras comentar?
+
+¿Sugerencia?
+
+Yo siento que las mochilas no me las deberían de modificar a modo de por lo menos entre la negra que es la que más cuesta por ejemplo.
+
+No, esas fueron las anteriores.
+
+Como por ejemplo.
+
+No cabe, está muy gorda y en esta mucho menos no entra.
+
+De hecho la única que entra acá.
+
+Es la de Lico, la de modelo.
+
+Pero solo tenemos que estar cambiando las botellas, quitarlas de su caja original de Mega para pasarlas a la delito y eso es lo que quita tiempo a nosotros.
+
+Pero según ya no entran así.
+
+Sí, sí hacemos que entre, hacemos que.
+
+Funcione, tratamos de hacer lo más rápido posible en temas de entrega y llevarnos el producto lo más que se pueda.
+
+Por ejemplo yo en mi moto está allá afuera la negra y pues a veces tratamos de aventarle, ponerle en la moto, luego llevamos hasta 20 megas y tratamos de aventarle más cuando estamos corriendo.
+
+Pero lo que nos causa un poquito más de problema es que como por ejemplo en este tipo de mochilas o en esa no cabe la Mega y en esta luego nada más ocupa mucho volumen.
+
+Mucho.
+
+¿Y cómo hacen para entregar.
+
+Cuando llevas más de dos pedidos?
+
+Pues tratamos de acomodarla principalmente lo más que se pueda.
+
+Bueno, ya como tenemos tiempo tratamos de comenzar, conocer el producto que llevamos y cómo se acomoda, como por ejemplo aquí.
+
+Le digo que no cabe así la.
+
+Mega la ponemos así, así entran aquí otras y tratamos de ponerles otras, juegan Tetris, es básicamente tratar de jugar con la geometría y chisto, pero si llega.
+
+Bien el producto, con cuidado sobre todo, pero ya con acento.
+
+Carlitos lleva ya tiempo con nosotros y conoce las calles, no ocupa por ejemplo el mapa para llegar a casa del cliente, entonces la ventaja, pero si fuera un repartidor nuevo, la primera cae en un bache y eso se.
+
+Me hace también con los tiempos.
+
+Luego cuando estamos con los clientes, porque luego llegamos al punto con el cliente y tarda 10 minutos,.
+
+Pero es que al cliente le aparece que él sigue en la tienda, que el producto no ha salido.
+
+Algunas veces si llega a funcionar, el cliente va viendo al repartidor, llega el cliente ni responde la llamada porque ya está bajando la escalera, pero no siempre es así, a veces sí, a veces no y es cuestión de sueldo también depende la verdad.
+
+Luego hay clientes que ya están dormidos en señal y qué hace cuando el cliente pues toca el claxon, molestar a todos los vecinos.
+
+Cuando ya salen les avisamos que no se confíen tanto de la aplicación porque realmente pues nada más que estén pendientes y sobre todo que cuando piden, lo que hace mucho los clientes que son más cercanos no tienen listos en los envases, se equivocan con el método de pago, simplemente luego ni siquiera les entra las llamadas y peor porque cuando es fraccionamiento si tardamos mucho más y a nosotros nos afecta el tema de tiempo.
+
+La más próxima.
+
+Nosotros tratamos de, se podría decir como educarlos para en temas de entrega, porque.
+
+Porque decimos oye pues sabes que si ya pediste por lo menos porque al final de que de cuentas la aplicación lo hace, pero no.
+
+Pero nosotros tratamos de darle como que.
+
+Un repaso, si la aplicación no te marca, no te preocupes, si ya te aceptaron el pedido, listo, tus envases y nosotros nos encargamos de lo demás.
+
+Tratamos de que realmente la mayoría de los pedidos no pasen, de hecho hasta corremos más de lo que debió, pero si hay algunos clientes y hasta la.
+
+Mayoría de los clientes.
+
+Recibimos la orden y nos vamos y ya llegamos seis, siete minutos de hecho si no, casi la mayoría de los pedidos son en ese tiempo.
+
+Sí, con los turbo.
+
+Si, de hecho cuando tarda más es cuando llevamos tres o dos pedidos y eso porque están de punto a punto, pero.
+
+Qué bueno que tocas el punto de turbo.
+
+¿Cómo es su experiencia con turbo?
+
+¿Que han visto?
+
+¿Cambia algo operacionalmente hablando?
+
+¿Les cuesta más trabajo?
+
+Un poquitín más, pero nada extraordinario, más que nada siento que nos estamos acoplando, darle prioridad y si sale en un conjunto de pedidos que sea el primero que se entrega y después Sigue la secuencia.
+
+¿Has entregado algún pedido turbo?
+
+Tú te das cuenta cuando es.
+
+Turbo,.
+
+Pero realmente siempre le damos preferencia.
+
+Solo uno de los ocho que he repartido solo uno ha llegado en los quince, literal casi rozando los dieciséis.
+
+OK, pregunta, ¿Has agrupado alguna orden con algún turbo, o sea que te lleves dos órdenes?
+
+OK, ¿Tienes una restricción a la hora de acomodarlo, o sea dos turbos o un pedido normal, ¿Tienes alguna restricción a la hora de acomodarlos, es decir, que te mande luego luego que primero sea el turbo y después el otro o tienes la facilidad de cambiarlos como si fueran dos pedidos normales?
+
+De hecho no me da fuerza de.
+
+Que tienes,.
+
+Pero nosotros siempre nos vamos primero, o sea si podemos elegir qué pedido agarrar, pero si tenemos un turbo normal como.
+
+OK, estaría bueno ver ese tema porque parte de la restricción que nos había dicho Canelas era que automáticamente el turbo se lo iba a mandar primero y que no había opción como para agrupar.
+
+Agrupar sí, pero que no lo pudiera poner después de, o sea que no puede agrupar dos turbos, pero sí puede agrupar un turbo y un normal, siempre y cuando el turbo vaya primero, se supone que es la idea, pero por lo que me comenta si puede cambiarlos como de orden, o sea que entregar primero el normal y después el turbo, lo cual bueno, esa orientación, pero no debería dar como esa acción.
+
+Pero de hecho la chica, la que también está.
+
+Cuando llegan los pedidos se supone que debería de llegar turbo hasta arriba, o.
+
+Sea aunque lleguen más pedidos, eso según yo.
+
+Sí,.
+
+Eso sí está pasando.
+
+Y cuando hagan en teoría vayan asignando debería de.
+
+Caerle justamente, no dejar que lo cambie,.
+
+Debería quedar arriba y no debería.
+
+Cómo, cómo.
+
+A ver, otra vez que implica mucho el culpa del cliente, porque no, aunque no sean turbo, nosotros tratamos de que nuestro pedido Si marca en 20 llegamos en 6 minutos, tanto así corremos, o sea si le damos porque ya sabe que corremos, ganamos.
+
+Claro, aquí el tema con los turnos es que cuando nosotros llegamos y el cliente no nos da el código, sigue corriendo el tiempo ahí no en el.
+
+Normal o en el turbo, si ustedes.
+
+Llegan en 8 minutos, el turbo sea un kilómetro está.
+
+No tiene caso que uno corra si al final el cliente se va a tomar el tiempo y no nos va a dar el código porque luego nosotros somos muy insistentes de que demos el código de nuestro código.
+
+Se me olvidó ahorita no sé qué, no sé, ya cuando vimos ya cumplieron los 15.
+
+Que tiene que ver un poco la métrica que comentaba que se cierre al momento en el que llegó, no al momento en el que cerró.
+
+Creo que está correcta porque mira el tiempo promedio de esa ley de turbo de ellos está en 7 y 9 minutos, entonces debería.
+
+Es que pasan dos cosas, una parte viene como la métrica, la métrica donde debería estar cortando en el momento en el que tú dentro de tus opciones, dentro de los pasos que das, uno es el llegate, ahí debe cortar la métrica independientemente de si por ejemplo tardaste 8 minutos y tarda 7 en salir u otros 8 en salir, el tiempo que nosotros vamos a registrar de la entrega de ese pedido son los 8 minutos, pero eso es independiente a lo que ve aquí a que voy o a lo que incluso tú puedes llegar a ver.
+
+El pedido sigue abierto, el estatus va a ser el mismo hasta que tú le des cerrar o concluir, va a desaparecer de aquí y va a cerrar entre comillas con ese tiempo, pero ese es el tiempo de cierre más no la métrica como tal de tiempo, es tal cual el momento en el que tú le pones llegué, o sea si por ejemplo, ¿Qué pasa si haces todo ya hasta que baja?
+
+Ah bueno, ahí sí es más un error operativo, no sé si me explico ¿Por qué?
+
+Porque incluso cuando tú le pones llegué debería desplegar una notificación de tu repartidor ya llegó, entonces no despliegues la notificación y adicional haces todo en el momento, pues tampoco tenemos una métrica de cuánto tiempo está tardando el cliente en bajar, si tú le pones llegué y cerrar al mismo tiempo es como si casi casi ya te estaba esperando.
+
+Entonces es importante que vayamos haciendo estos pasos para que la métrica sea correcta, los tiempos de llegada sean correctos y nosotros tengamos mapeado cuánto el cliente está tardando en salir, que eso como dices, ya no es un tema inherente a ti.
+
+Tal cual, tú no tienes la tropa.
+
+Si el cliente se tarda cinco, diez,.
+
+Es complicado, como es constante.
+
+Claro, como ya conocemos a los clientes, lo que hacemos es que tarda, metemos código y ya, obviamente hasta que sale y sabemos sobre todo cuándo es lo que tiene que pagar, ya cerramos.
+
+Pero muchas veces.
+
+Hemos tenido clientes que son constantes, que piden de tres a cuatro veces a la semana y aún así.
+
+En tu polígono en una orden normal,.
+
+Bueno, regularmente cuando llevamos dos pedidos, porque cuando llevamos un pedido.
+
+¿OK, una pregunta dentro del área, como hay un dentro de mensajería, qué tanto lo ves?
+
+¿Lo has visto alguna vez?
+
+Perdóname, son una llamada.
+
+Ah, no, me explico.
+
+Hay un centro de notificaciones atercés como.
+
+Las partidas.
+
+Que nosotros desplegamos, un mensaje, por ejemplo, una encuesta ahí donde puedan comentar secas y algunos otros mensajes que hemos lanzado.
+
+¿Alguna vez lo has visto?
+
+No lo has visto.
+
+Para ver la aplicación, pero el flujo está muy rápido.
+
+OK, es que si es muy complicado y a veces es sencilla la aplicación, pero tan sencilla hay veces que también tiene ciertas fallas, a veces no entendemos y de hecho entre todos los remordedores tratamos de ayudarlos.
+
+Qué es lo que no conocemos, qué.
+
+Es lo que no conocemos,.
+
+Hasta con clientes y hay de hecho.
+
+Su código es tal, pero realmente tarda y cosas así, es lo que tratamos de hacer entre Pero sí, lo que sí he visto mucho que tiene la aplicación uno es que no des que siempre aparece con que estamos todavía en la código que usted un poco de conflicto que muchos clientes nos han dicho, ajá, pero es que nos va, nada más es para confirmar alusión.
+
+Bueno, es lo que nos dicen, pero.
+
+Nos causa mucho conflicto por el tema de tiempo.
+
+Yo creo que estaría bien por lo menos que le agregaran un tema de mensajes para platicar repartid a consumidor de abatimiento.
+
+Sabes que si la aplicación no conta, ponlo en los comentarios y ese es un ejemplo muy chido, porque si tuviera la opción de mensajes estaría bien para decir sabes que necesitaba cambio, pero si la necesito yo, porque si vemos todos.
+
+Los chicamos,.
+
+Porque hay clientes que hasta no les gusta, Ya sé, ya voy a bajar, pero ya estarían bien, por lo menos creo que nos ayudaría bastante.
+
+La entrega para ellos y para nosotros, porque cuando llevamos tres con un cliente, aunque nosotros corramos,.
+
+Reforzamos todo esto de este lado y ya cuando llegamos, ya llegaría carnetos al lobby o si se lo quieren dejar con el guardia junto con el código Galimero pues no pasa nada, siempre y cuando te salen con.
+
+La.
+
+Queja electrónico de conversaciones.
+
+El correo de conversaciones paralela está abierto.
+
+Bien pueda.
+
+Siga señor.
+
+También hay un tiempo perdido del repartidor.
+
+En calmar al consumidor por X.
+
+Si.
+
+Quiero pensar por algo que no entregaron a tiempo o porque no entre.
+
+Los repartidores no suben, entonces pues digamos que suben el consumidor pues hasta aquellas.
+
+Ah sí, tranquilo, es que no puede.
+
+Ese argumento pierde el tiempo, entonces ahorita.
+
+Yo estoy cayendo en cuenta que muchas veces probablemente los compartidores por eso son un poco groseros, están con similares de esto.
+
+Que fue grosero.
+
+Pasó con alguien interno,.
+
+Tal vez mandar algún mensajes, por ejemplo lo que comentan del código, recuerda que tu pedido tiene que retornar en base, o sea eso sí lo muestra la aplicación, pero yo creo que No tenemos esos dos push.
+
+¿Cuál es?
+
+No, no tiene.
+
+Por ejemplo el del mensaje del.
+
+No, no aparece en Bosch, aparece cuando lo vas a pactar,.
+
+Igual lo de peso, por ejemplo ahorita quise poner 17.
+
+Megas, pues me dice no, pero es que fue un SKU específico.
+
+¿Cuál?
+
+Este fue un SK, pero este no.
+
+Ah es que normal, o sea 17 no porque solo te permite una cantidad menos de 30.
+
+Sí, pero también hay ese tipo de.
+
+Disculpa.
+
+¿Por lo general tú contestas la encuesta?
+
+¿Pero tú has visto últimamente?
+
+Yo la última fue la que se.
+
+Te hizo más sencillo.
+
+Era una pregunta muy abierta, yo la traía hace rato.
+
+¿Ahora?
+
+¿Se te hace compleja ahorita la encuesta?
+
+¿La de este mes?
+
+No la.
+
+Pero la de junio por ejemplo.
+
+¿No, no, se me hace que mejoró,.
+
+O sea que los comentarios de ustedes.
+
+Se escuchan más con la nueva estructura.
+
+O igual?
+
+Porque si noto que de repente al cliente sí está un poquito más atento, que era como la queja que todavía trae carrito con los demás y lo demás repartimos la interacción a veces con el cliente y pues si se ve como esa parte de la atención ha ido mejorando y como siempre podemos ir puliendo más esta parte.
+
+Pero ¿Cuál es tu nombre?
+
+Jorge.
+
+Jorge.
+
+Ah creo que sí, ya habíamos hablado un par de veces.
+
+Yo no estaba.

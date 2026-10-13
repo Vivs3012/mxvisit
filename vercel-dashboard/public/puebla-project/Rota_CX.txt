@@ -1,0 +1,451 @@
+¿Yo soy del equipo de retención, pero estoy muy enfocada en Off CCX y todo que sea como desarrollo de producto, entonces cómo podemos mejorar las herramientas que tenemos, qué podemos tener de features o integraciones o que sea cómo ustedes pueden trabajar mejor y qué hace falta?
+
+¿Por eso vení para comprender un poco.
+
+Ahorita fíjate apenas este ticket y ya llevas muchos puntos de vista, verdad?
+
+Bueno, aquí pues nosotros lo escalamos y hasta que resp.
+
+¿Y escalan al equipo de Club Tada?
+
+Sí, aquí abrimos conversación para Lela.
+
+¿Y qué pasa por ejemplo en los fines de semana?
+
+Igual siempre, aunque haya mucho volumen de tickets, se escala todo igual, o sea igual a Clubtada y hasta que responda Club Tada, los tickets se quedan en espera de respuesta de ellos y ya está que reabra Club, nosotros avisamos al consumidor que ya están sus puntos.
+
+También muchas veces he notado que, no sé si sea el sistema, pero aunque Club Tada sí los reembolse, a ellos no les aparece de inmediato el reembolso y también por eso llegamos a tener calificaciones negativas, porque nosotros informamos que ya están reembolsados y a ellos no les aparece aunque actualicen la aplicación y así.
+
+No sé si esa falla de sistema de.
+
+¿Y con quién hablan de Plutadá?
+
+¿Es una persona en específico?
+
+Es un equipo, tú lo sabes, Para.
+
+El reembolso de puntos es con Briseida.
+
+Con Bri, o sea, por eso sí creo que sí está bien porque ella nos informa y así, entonces más bien siento como que ha de ser algo del sistema tema que no se envían los puntos.
+
+No sé, eso es lo que yo he notado últimamente.
+
+¿Y cuál es el tiempo en promedio que tenemos para solucionar un ticket como ese?
+
+En los fines de semana, o sea en un sábado un usuario tuvo una orden expirada y tenía puntos de Club Tadá y necesitamos hacer el reembolso.
+
+¿Cuánto tiempo nos tarda, o sea, Club Tada sí se tarda aproximadamente 24 horas como máximo en respondernos, pero nosotros con el usuario tenemos hasta dos días para brindarle el seguimiento?
+
+¿Y cuál es el Z de sus tickets de Kutada?
+
+El Z por lo regular si es positivo, la verdad como número ahorita no lo tengo, como un promedio sí, pero sí, sí es positivo por esto, y ya pues lo escalamos, Ponemos el número de.
+
+Aquí, buscamos en Biz el cupón para también mandarlo como evidencia Club Dada que sepan a cuál nos referimos.
+
+Sí, pero si estaría padre que ya se reembolsarán por automático.
+
+Porque ahí no necesitaríamos tener ese flujo.
+
+No, Si expiró la orden ya volverían los puntos de inmediato.
+
+Y ya que mandamos todo, pues le damos enviar y le contestó al consumidor que ya se ha solicitado.
+
+Si, en ocasiones si se desesperan los consumidores porque pues si ellos esperan así como expira un pedido luego luego quieren realizar con su.
+
+Y pues ahorita aquí pues yo le voy a indicar que.
+
+Porque si nos tienen como que eso es que especificamos cuánto se va a tardar para qué ellos lo puedan tener en cuenta y ya se deja en espera y hasta que responda.
+
+Pero no tenemos tantas órdenes expiradas sentada.
+
+Son pocas, no,.
+
+Los fines de semana sí tienden a expirarse bastante.
+
+Mira, por ejemplo aquí este ticket ya.
+
+Tiene 6 días y todavía no solucionamos.
+
+¿No, pero por qué?
+
+Porque no tenemos respuesta del punto de venta.
+
+Ya tiene seis días.
+
+¿Y cuál es el punto de venta.
+
+De Ciudad de México?
+
+Este consumidor no lo hemos podido tal resolver porque o sea, el producto pidió un producto muy grande y o sea, como que con cupones no podríamos solucionarlo, pues bueno, no se puede solucionar con cupón todo, ¿Verdad?
+
+Pero como que quedaría molesto todavía el consumidor.
+
+Mira, dice que son 12.
+
+12 Unidades de modelo especial de 710 y le llevaron de 473 mililitros y no le avisaron.
+
+Y aquí pues es lo que vamos a volver a responder y el punto de venta comenta que ya se comunicaron y pidieron dirección, pero ya después mira, desde ya nos contestó, no contesta el cliente.
+
+¿Y qué pasa en esos casos que el cliente no contesta?
+
+¿Qué hacemos aquí sí yo?
+
+Porque ya.
+
+Cuando tiene mucho tiempo así como este caso, hacemos llamada al consumidor para verificar.
+
+Si, sí, porque muchas veces también los modeloramas tienden a mentir, nos dicen si se lo solucionó y no es verdad, o sea, el cliente nos dice no hemos recibido llamadas, nos mandan hasta evidencias de que no tienen llamadas y así.
+
+Entonces aquí ya pues yo me comunicaría por teléfono con el consumidor para pedirle información si tiene algún otro número de contacto para poderle ya brindarle la solución.
+
+Esto también considero yo que sería una buena.
+
+Como que nosotros también pudiéramos ver la visual de él cuando son ganadores, por ejemplo aquí también lo tuve que escalar yo acluptada para verificar si es ganador y el cliente es desde ayer y el cliente ya hoy me está solicitando información nuevamente, pero pues como yo no tengo ese visual tengo que esperar a que me respondan y así.
+
+Pero Marce preguntan, Eso es lo que mencionaba ayer de los premios de los ganadores.
+
+Que ganó, ganó y él era.
+
+Ganó, que tienen que ingresar en los cards y sacar la información para saber.
+
+Y ellos por ejemplo, ellos no tienen acceso al cart, por ejemplo si ella quiere mirar ahorita ya no sabe, entonces tiene que escalarlo a Briseida, Briseida lo revisa en la base que descansa,.
+
+Entonces alguien tiene que sacarlo a la base para que revise para pasar a los agentes.
+
+Lo estamos haciendo así provisional porque Por varias razones, la primera es que todavía no tengo el equipo de Club Corona, se van a contratar varias personas para eso, entonces lo estamos haciendo internamente con lo que tenemos lo escalamos a Abri porque ella es Club Corona y entonces tiene como el manejo de esto y sabe la diferencia, por ejemplo ayer Subieta mandó WhatsApp de los ganadores de hieleras de las fiestas patrias, entonces la gente nos está comunicando, oiga es que me llegó este mensaje y aparte lo de Clip Corona cuando canjea, entonces para que ellos no se confundan se canaliza todo con Bri y tiene las dos, entonces ellos si ella se quiere meter a ver si ganó o no, no sabe, me van a decir sí, sí tiene acceso pero.
+
+Pero aquí con el VPN no cuenta, o sea ella tiene porque ella verificó desde su casa el día que le.
+
+Dimos acceso, pero desde la oficina no se puede.
+
+¿Pero por qué no?
+
+Porque es una.
+
+Primero porque la página esta tiene información sensible y entonces no la van a habilitar hasta que no supe bien el detalle, pero no nos habilita.
+
+Pero por qué puede acceder desde su pase, no desde una oficina y es.
+
+Más insegura la casa.
+
+Exactamente esa es mi pregunta, pero el detalle técnico no me lo sé, pero Sergio sí sabe.
+
+OK, gracias.
+
+Entonces para este usuario ¿Qué haces?
+
+Le contesta Como todavía no tengo la.
+
+Respuesta continuó solicitando información con el área de marketing o así, o con el área encargada.
+
+Bueno, este era el del cupón y ya Enrique es el del premio y también tengo este, el que te comentaba.
+
+Del usuario, lo atiende ahorita, déjame comunico por el.
+
+Y puedes llamar al usuario desde tu.
+
+Computadora sí tenemos una aplicación que se llama Valla y ya solo me pongo la diadema y le llamo.
+
+Igual todo lo hacemos desde aquí para también dejar evidencia de que se le llamó al consumidor y todo para si les llega a tener otro agente el mismo ticket, pues ya sepan el seguimiento que llevo.
+
+No, mira, me manda buzón el cliente a mí también.
+
+Igual aquí Marce me mandó otros tickets para que les diera seguimiento, que también tienen ya bastantes días.
+
+Si quieres por si surgen ahí duditas, Porque ahorita está muy lento.
+
+Also, no hay tickets.
+
+Mira por ejemplo este ticket tiene 60 días y todavía no recibimos, ya le llamamos al punto de venta y todo, y es un doble cobro, o sea le cobraron dos veces con la tarjeta 234 pesos.
+
+Como en ocasiones, como por la señal de la terminal de los como que no pasa bien, les aparece a ellos que no se cobró, pero si se les cobra.
+
+Y el de venta casi rarísima a la vez contestan mucho en contestar.
+
+¿Y qué hacen en esos casos cuando la tienda no contesta?
+
+Esto como que si los tomamos con más cuidado, porque como son cobros dobles, cuando nosotros podemos dar soluciones, damos con nuestros cupones o así, pero cuando son dobles cobros y tratamos de que responda y comunicarnos, ya después Marce se comunica con operaciones ya directamente o así, pero así nosotros.
+
+¿Hace cuántos días?
+
+60 Días.
+
+60 Días.
+
+Sí.
+
+Sí es mucho, pero casi por lo regular así los dobles cobros si se dan como, o sea lo más rápido que lo han hecho está en una semana, pero en una ocasión hasta tuve un conflicto con un empresario, con un dueño de un modelorama, porque me decía que no quería reembolsar toda la cantidad.
+
+¿Por qué?
+
+Porque a ellos le cobran comisión por el uso de tarjeta.
+
+Pero no es culpa del consumidor.
+
+¿Quién es el correo de este consumidor?
+
+Solo para que yo vea una cosa, desde los 60 días, sí un minuto que yo voy solo hacer un check,.
+
+Te lo paso por ti.
+
+No puede ser.
+
+Es J.
+
+Sánchez con Z.
+
+Sí, la última Z de la pena un arroba Jiménez.
+
+¿Esa fue la última compra que este usuario hizo?
+
+Sí, sí,.
+
+Dejó de comprar con nosotros hace 60 días.
+
+¿Su última compra?
+
+Sí es que no contestan.
+
+Mira, cuando en agosto compró mi Kellogg.
+
+Ultra 0 lata 355, que es de Monterrey, Fue la última orden, o sea perdimos ese usuario.
+
+Y es que por ejemplo sí me consta que Marce si se comunica con operaciones y así y no, mira, aquí hay llamadas que le hacemos al Modelorama y no,.
+
+Pero la última orden nos calificó con 5 stream,.
+
+Quizás porque no sabía si más tarde yo creo que se metió a su banca y es cuando.
+
+Perdimos ese usuario.
+
+Lo que también noto mucho de, o sea, mucho reportes son de este tipo de cupones, mira, que los tienen que canjear con Modeloramas y también no todos los Modeloramas aceptan el canje, aunque sí estén como, o sea que digan que si los canjean ahí no, ellos no.
+
+Canjean, ellos no quieren aceptar.
+
+Casi siempre muchos se molestan por este tipo de cupón o que muchas veces no viene bien especificado cuál es la cerveza, no el beneficio.
+
+Por ejemplo aquí sí dice gratis en modelo era, pero por ejemplo hay otro donde sí está muy reportado, donde por ejemplo justo en el de Club Corona hay uno que, déjame checo a ver.
+
+Si tengo aquí uno.
+
+El cupón se trata de que es el descuento de dos latones de Corona, pero ahí no viene especificado que es el descuento, ellos piensan que le va a llegar gratis y pues no y cuando nosotros le explicamos no, y es así, Me dicen mira es una estafa este me tocó atenderlo a mí y si le expliqué así como muchas veces que era por el descuento que no le iba a llegar el latón, pero sí siento que no viene especificado, así les aparece a ellos.
+
+¿Ese es de Club Corona?
+
+Sí, mira, hasta creo que es nuevo.
+
+Usuario y si haz clic en mostrar detalles.
+
+¿Que pasa?
+
+Si hace clic en mostrar detalles a él le aparece el mínimo de compra, o sea el mínimo de compra y.
+
+No hay como la explicación de qué es la promoción.
+
+¿A nosotros si nos aparece, mira, pero a ellos no?
+
+Mira, están hechos ni sola orden, es usuario nuevo, ¿Pero a nosotros si nos aparece el descuento de mira valor 85 pesos las latas, Esto veo que si lo reportan muy seguido y ahora con, con Club Corona,.
+
+Pero qué crees que podría mejorar?
+
+Que se le especifique al consumidor que es el descuento del valor de dos cervezas, o sea no que le va a llegar dos cervezas, como que con el simple hecho de que le pongan el descuento del valor de 2 porque no viene especificado,.
+
+¿Qué más?
+
+Checo a ver si tengo otro.
+
+¿Hay otros ejemplos de problemas con tiendas?
+
+Pues casi siempre todos son de eso, se podría decir, la gran mayoría.
+
+Mira, por ejemplo aquí el sábado le faltaron tres Aguas, Peñafiel y nosotros no respondió jamás.
+
+Mira, es de.
+
+Aquí, nosotros la 360, si la conoces, está donde nosotros vemos todos los datos del consumidor, esta es la orden,.
+
+El.
+
+Punto de venta, los datos del cliente, es de Yucatán y nunca contestó.
+
+Y nosotros bueno, yo le ofrecí un cupón, si lo aceptó y ya pues.
+
+Pero lo que decimos a Marce y nosotros es que no deberíamos, como si le faltaron, pues se le tienen que.
+
+Entregar porque las pagó y el cupón que le damos es el mismo valor que del producto.
+
+Sí, Marce nos autoriza que demos un poquito mayor por la experiencia, pero sí, por lo regular si costaron las aguas 60 pesos, le damos uno de 75, poquitito.
+
+¿Y ustedes intentan contactar las tiendas por las conversaciones paralelas?
+
+Cuando ya vemos que no contestaron nada en conversación paralela y ahora sí es cuando llamamos para ver si tenemos contacto.
+
+Déjale digo master, que si me pasa algunos de backlog para poderte enseñar los que tienen ya tiempo.
+
+Qué otros tipos de problemas tenemos, o sea, tenemos problemas con la tienda, que son problemas con la orden básicamente, o que se expiró o que entregó alguna cosa que no estaba bien.
+
+¿Qué otros problemas tenemos del cobro extra,.
+
+También atrasados los fines de semana siempre es eso, o que marcan las órdenes como entregadas y no las reciben los clientes, aunque ya está el código de?
+
+No, como que ya hasta ellos, los mismos repartidores ya se aprendieron el código, no sé, y los marcan como entregada.
+
+¿Y hay muchos casos así?
+
+Sí, sí disminuyó un poco de ahora que pusieron el código, pero de todas maneras siguen marcándolas como entregadas, aunque ya después ellos mismos se contradicen y dicen no, no la entregamos y así, pero la marcan como entregado.
+
+¿Pero cómo solo deberían marcarlo con el código?
+
+¿Y cómo saben el código?
+
+Bueno, tengo entendido que los códigos de los usuarios no cambian, ¿Verdad?
+
+No sé, no cambian, no es como, bueno, no sé, allá donde vives que el código es dinámico, o sea, se va cambiando constantemente.
+
+Yo creo que porque yo soy de Brasil, yo creo que en The Delivery es como mi fecha de nacimiento, el año, yo creo que el mío es el año de nacimiento, o sea, pero.
+
+Siempre pues haz de cuenta que los repartidores ya saben tu código, o sea, tú pides cada fin de semana y ya se lo saben y lo ponen, o sea, hacen esa mala práctica.
+
+Es lo que hemos notado nosotros como operación, porque tengo entendido que no tienen permitido marcarlas como entregadas, más que dos órdenes me parece los puntos de venta, pero si marcan seguido varias, pienso yo que es por eso, porque el código para de entregar no es dinámico, siempre es el mismo.
+
+¿Qué más?
+
+Eso de los cupones, siento lo que te comenté de los cupones que no está especificado eso siento que también es.
+
+Casi siempre se molestan y califican mal.
+
+¿Y cuando enviamos un producto incorrecto tenemos muchos casos así?
+
+Sí, también casi los fines de semana.
+
+Yo creo que un producto incorrecto es de 10 casos.
+
+4 Y marcados como entregados de 10.
+
+2 Un fin de semana y de cobro yo creo uno por fin de semana.
+
+Ah, no es tanto no cobrar.
+
+No, en lo que sí es producto incorrecto de que mandan, casi siempre mandan menos, no sé qué es lo que pasa, que piden 10 y les llegan solo 8, por ejemplo, les llega fabricante o que les llega de menor cantidad la cerveza de esos yo creo de diez, cuatro un fin de semana pesado.
+
+¿Y qué más?
+
+¿Y hay tickets acerca de los repartidores, o sea que el repartidor es grosero o no?
+
+Sí hay, sí hay, pero no tan frecuente yo creo como no cada 22 días.
+
+Ah, OK.
+
+Es poquito.
+
+Pero sí.
+
+Y de cuentas bloqueadas tenemos muchos.
+
+Hubo una temporada como en abril que sí hubieron bastante, pero ahorita como que ya se tranquilizó, pero todavía el mes pasado si caían tickets, yo creo que al día unos 6 ticket de cuenta bloque.
+
+No sé a qué se debía, pero en abril si hubo como una rachita de todos, o sea, todos como que bloquearon cuentas, no sé si hubo una modificación que hizo que bloqueara las cuentas ahorita no, no, normal así de que dos al día.
+
+Atrasados son los que.
+
+Sí, siempre cada fin de semana lo.
+
+Que más tenemos entonces son de órdenes atrasados.
+
+Atrasados,.
+
+Pero es atrasada porque ya pasaron los 40 minutos.
+
+Sí, ya los consumidores se comunican cuando ya tiene hora y media.
+
+Por lo regular ellos se comunican cuando ya tienen muchísimo pedido.
+
+Y hay muchos tickets también porque los usuarios no tienen como la visibilidad del repartidor en el mapa, o sea, yo no sé si mi pedido salió de la tienda sí o no, y por eso yo abro un ticket, pero puede que no esté demorado, solamente no actualizó en el mapa.
+
+Sí, pero no es más por entrega demorada, sí es más porque lo hicieron, o sea ahorita a las 11 y a las 12 y 40 todavía no les llega, ya tiene más de una hora.
+
+Eso sí, los fines de semana sí hay muchísimo más, cuando es festivo hay partido de fútbol o así también esto también hacen dinámicas de que van a haber premios, por ejemplo ahora del aniversario de Tada hubo una dinámica de de que tenían que poner el SKU con el premio y les llegaba y no les estaba llegando, entonces aquí nosotros también no tenemos como la autonomía de resolverlo con un cupón porque por lo regular lo que quieren ellos es su premio, es el regalo.
+
+Pues como tal como lo dice en la aplicación, esto también ¿Cuál es el ejemplo?
+
+¿A ver si entiendo,.
+
+No sé si llegaste a ver en la aplicación, por ejemplo?
+
+Déjenme checar, a ver si.
+
+Que les llegaba merch de salar.
+
+¿Ellos les aparecía así como para agregar el SKU, el destapador?
+
+No, esta vez del mes patrio les estaba llegando merch, les estaba llegando termos, chamarras, destapadores, así varias cosas y no les llega, o sea no la envían o no sé si por ahí se pierda con reparto y no llegue hasta el consumidor la entrega del premio porque como en realidad es gratis y no hay manera como de mire, y aquí el punto de venta dice que si se entregó, pero aquí el cliente aseguró que no y mira, hasta la calificó, más faltó el regalo que hizo unos tedios que iban a mandar.
+
+Esto también pasa muy frecuente cuando hay este tipo de promoción, si quedan regalos de destapadores,.
+
+Pero ¿Qué Crees que pasa?
+
+¿Crees que el Pug se queda con.
+
+O que el reparto?
+
+Yo sí creo que como es gratis y no tienen manera como de comprobar que si lo entregaron, siento que se queda con reparto.
+
+¿Qué más?
+
+Aquí dice que no le permite porque está fuera del área de compra.
+
+Come on.
+
+¿Y hay muchos tickets de la tienda para ustedes?
+
+Uno,.
+
+En fin.
+
+No tanto, o sea las tiendas para nosotros es como para avisarnos que se canceló un pedido o que desean bloquear a un usuario casi por lo regular yo creo.
+
+Sí, pero yo creo que como uno al día para avisarnos que cancelaron una orden.
+
+Y de órdenes canceladas.
+
+Tenemos muchos usuarios con tickets.
+
+Ya nos vemos.
+
+Vamos a.
+
+Ya te reservé una salita para que vayamos.
+
+Estuvo bien.
+
+¿Faltó algo?
+
+No, creo que no.
+
+Pasamos por muchos puntos, quería enseñarle de los que hay así atrasaditos porque no contesta el punto de venta.
+
+¿OK, entonces quieres que volvamos?
+
+Porque vamos ahorita a vivir con los niños de Puebla.
+
+¿Vas a volver con quieren?
+
+¿No ha llegado?
+
+No estoy por ustedes.
+
+Ya está para llegar dos personas.
+
+Puebla tiene cuatro No sabes pero una está incapacitada.
+
+¿Si sabías?
+
+Si, montando patín se quebró como la rodilla.
+
+Está hace una semana incapacitada, parece que son por lo menos 15 días de reposo total, entonces ya está llamando la incapacidad a la temporal, pero para que.
+
+Sepas que son tres.
+
+También para que estés enterada que como ellos son temporales las cuentas hay que pedir que les activen las cuentas cada mes y si no se activan no pueden trabajar.
+
+Antier no les habían activado sus cuentas y los mandé a descansar, entonces no trabajaron subido descanso se los unifique mientras arreglábamos el tema de las cuentas para que también estés enterada de que otra cosa para que también sepas por si te dicen es que ellos no pueden trabajar en casa porque las cuentas.

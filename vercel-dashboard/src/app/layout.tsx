@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Visita México CDMX",
+  title: "One year plan 2027",
   description: "Store visits, meetings and trip synthesis dashboard",
 };
 

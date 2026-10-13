@@ -1,0 +1,479 @@
+Te comentaba también qué es lo que veíamos de un tiempo para acá la operación mejoró mucho, Ahí me habías comentado, eran temas de repartidores, que nos ayuda mucho a agregar a nuevos repartidores, tema de inventario también, que ahí estuvimos reforzando esa parte.
+
+Recuerdo que me habías comentado el tema del seller, ahorita ya estás trabajando con.
+
+Labo, o sea no he desconectado la otra porque justo esta por ejemplo, tengo música y si me suena la bocinita.
+
+Sí, entonces era lo de la tablet, es que me comentaba que no sonaba.
+
+La alarma, pero ahora sí suena.
+
+Estoy probando con una la, apenas ayer la si me hizo ruido lo de que no se haya encendido las la prendí 9.57 de ayer cuando avisaste, yo es que no nos había quedado nada, entonces estaba yo precisamente bajando la aplicación acá en la la, digo, no sé si hubo un error de mi parte, pero justo cuando mandaste como que el mensaje, yo a las diez dos te respondí con una carita, entonces prácticamente tenía cinco minutos que la había encendido, entonces.
+
+¿Entonces se me hizo raro, Pues amanecimos.
+
+Al 89, es que ayer revisé, no recuerdo bien qué hora era, pero veía la tienda apagada, entonces nada, le mandé mensaje, oye, me ayudas a validar si está encendida?
+
+Pero entonces prendiste en tablet y luego prendiste en la la, no sé si ahí habrá habido algún tema, pero aparecía apagado.
+
+Ahí ya me valida que está encendida.
+
+Y si ya la, pero ahora sí está funcionando.
+
+Sí, justo la prendí 13 para las die y lo que me comentaba Oscar, que digo, para que no me confíe que vuelva a suceder que le dé como tres veces, ya la encendí, la vuelvo a apagar, la vuelvo a poner.
+
+Y se parte, pero no debería pasar, debería hacerlo solo una vez.
+
+Si nos ha pasado una vez que claro, en donde la tienda aparentemente enciende pero no refleja el encendido, actualizan la pantalla y les aparece apagado, ya tienen que volver a encender, actualizan y ya les sale encendido.
+
+Eso no es tan frecuente, pero eso.
+
+Se lleva unos 5 minutos, 6 minutos.
+
+Si nos damos cuenta.
+
+¿Y luego también yo lo que me he dado cuenta del de bis, por eso es que le digo validen, porque a mí me aparece apagada, pero ellos me mandan de está encendido, me mandan.
+
+La foto, en su momento yo reporté.
+
+Eso, ya tenía mucha, porque yo me daba justamente eso de refresh, yo les mandaba las capturas de pantallas apagadas y en unas tiendas nos dimos cuenta que estaban como encendidas, entonces había en su momento levantado el ticket, se los había pasado, pero ya tenía muchísimo que no,.
+
+Igual no es tan frecuente, pero pasa y yo por eso les digo validen, o sea, porque a veces era de oye tienes la tina apagada, encendida?
+
+Y me dicen, no, es que si.
+
+Está encendida y me mandaban, Tal vez a mí me está pareciendo atrasada la información, ustedes ayúdenme a confirmar que si está encendida y si está apagada.
+
+Entonces ahorita era lo que le comentaba, vamos a ver si con la laptop ya te suena o realmente eso pasaba.
+
+Antes de tener la laptop con la.
+
+Tablet, que realmente sí son varios pods que usan tablet, pero no, vimos que no acudió tanto a la operación, pero digo, un factor que él me comentaba, a veces yo estoy en bodega y pues si escucho la alarma, pues ya salgo y atiendo el pedido, pero si no suena puede, le digo, si tienes la posibilidad de intentar con una lap, veamos que realmente el detalle es que la tablet no lanza la alarma,.
+
+Pero debería sonar, o sea debería estar funcionando en todos dispositivos.
+
+OK, entonces ahorita, bueno con la laptop.
+
+Ya mejor, pero hicimos algún análisis para comprender si con tablet la operación es peor.
+
+Tenemos más órdenes expiradas.
+
+Con Javi, porque si me pidió que le mandara el dato de cuántas tiendas operaban con lag y cuántas con tablet y no hubo algo que disparara.
+
+Sí, es que el día de hoy el tema de expiradas al final aunque tengan tablet, pues es común que no se debe de apagar, pero igual tanto en computadora tienen que refrescar cada cierto tiempo porque si no, no les llegan las notificaciones.
+
+Ese error no solamente es contable, sino es en general con la plataforma CI.
+
+Y eso ya levantamos con el equipo.
+
+También, creo que de este no hemos subido video de ticket, tengamos que generarlo, si no lo revisó con 50 para hacer una evidencia.
+
+Se hizo la pirámide porque lo habíamos dicho en esas incidencias, ahora que vino canelas yo le pasé, pero ya no hemos levantado eso, el ticket ahorita no.
+
+OK.
+
+¿Algún otro detalle que veas en la aplicación en inventario?
+
+Pues no, en lo general todo bien, nada más ese era el ruido que nos hacía porque por ejemplo yo en las mañanas tengo un reparto, bueno tengo un reparto toda la jornada, horario completo y justo cuando él se sale a hacer alguna entrega, yo cuando estoy solo tengo un cliente que viene muy constante a comprarme cartones, quiero estos fríos y quiero saltir, entonces en lo que voy atendiendo voy surtiendo los cartones del cliente, pues está uno así, entonces no es de que yo esté aquí, entonces justo cuando de momento me vengo a la caja veo que ya está corriendo, o sea ya me llegó y no lo escucho, eso es lo que a mí me hacía ruido, entonces era sí o sí estar al pendiente, no confiarse de alerta y por ejemplo cuando empezamos a hacer ya la tarea, empezarnos a organizar con otro reparto, ya era más óptimo el tiempo en cuestión de ponerle atención al sistema.
+
+Entonces por ejemplo él es el que tengo fijo.
+
+Hola Fantasy, Álvaro,.
+
+En cuestión de acá de tienda yo ya me puedo apoyar, ya No estoy casi.
+
+¿Pero está solo en la tienda?
+
+Está solo en la tienda no, con él.
+
+Con él.
+
+OK, tengo el otro reparto.
+
+Francamente en tienda yo comparto lo que es el punto de venta con él, o sea me apoyo con él y en el reparto cuando obviamente van saliendo, digo esa es la idea, los tiempos y que no se nos lleguen a quemar los tiempos, entonces ya hacemos el quite con otro reparto y es como nivelamos la situación en cuanto a las entregas de tiempo justo es eso, anteriormente nada más éramos él y yo, entonces vimos las necesidades y bueno, si nos dimos a la tarea con el apoyo de Oscar de conseguir otro reparto más que por la moto, bueno nos empezó a funcionar, entonces fines de semana, que igual es cuando se nos sube la venta tanto en tienda como en la aplicación, ya nos apoyamos con otra persona aquí en TO, entonces ya con eso ya hemos estado como que dando el resultado.
+
+Sí, entonces aquí lo que hacía falta era manos.
+
+Y con tema de órdenes.
+
+¿Crees que la demanda que ustedes tienen hoy en día es suficiente para el equipo que tienen ahorita?
+
+Sí, porque digo, ahí se ve el resultado.
+
+Hemos hecho mucha labor en cuanto a invitación a clientes, invitarlos a que descarguen la aplicación, obviamente hacemos el sondeo que vienen a lo mejor muy constante, no por cartón, que vienen ahí por las promos y eso les decimos que son de la zona que si ya conocen de la aplicación.
+
+Entonces por ejemplo él que se sale a a surtir botaneros, restaurantes por ejemplo aquí hay mucho antrito, mucho botanerito en lo que es la zona de la pirámide como que hay mucha área verde, ponen como casetitas, entonces por ejemplo te surto a ti y ya no falta que el vecinito de por ahí oye cómo te suten, vamos por la aplicación.
+
+Entonces se va regando, entonces justo ahí que teníamos un cliente, bueno ya tenemos varios y es labor de él pues así finalmente hemos estado creciendo con más clientes, entonces se va como que regando la información, el mismo que recomendamos al primo, a la tía, al tío y ya como que se les hace padre porque ven el beneficio.
+
+Entonces digo, se ha estado como que trabajando, no ha sido nada fácil porque tú lo sabes qué tiempo había costado trabajo al final del día está logrando algo, lo más difícil ya es mantener entonces bueno, pero vimos el área de oportunidad y pues justo es eso, el reparto que nos hacía falta y fines de semana tener alguien más aquí en tienda.
+
+Y con el tema de surtido hicieron algún cambio el portafolio o no, la.
+
+Misma cosa más que nada pues aquí en cuestión de la activación de portafolio en la aplicación hay cosillas que luego de momento tenemos desabasto como ahorita quisimos pedir victoria media y está en desabasto.
+
+Ajá, les iba a preguntar porque he visto que tienen mucho familiar media y cuartitos en desabasto, varios box, en la mañana revisé algunos pero desde la semana pasada vi que familiar estaba agotada en varios, no sé porque yo revisé inventarios y me aparece.
+
+Sí pues de hecho el pedido que hicimos para que ahorita nos hurtan está en desahogo hasta la victoria media, entonces es algo que bueno, en mi caso ya tendría que reportar, yo se lo reportaba Oscar desperta que ya estoy en el grupo, no sé si se tengan que reportar ahí para poder desactivarla.
+
+Pues como tal no para desactivarla, pero si me ayuda a mí también como para tener ese mapeo y ya preguntar también en almacén de fecha probable de llegada y ya cuando lleguen ya yo les mando mensajito mañana a las 12 ya vamos a tener para que estén al pendiente porque luego sí pasa que como compartimos con Canal Tradicional el almacén, pues un cliente se puede jalar los 500 cartones que que ingresaron, entonces así ya si yo les aviso ya pueden estar como más atentos y en ese momento entran y pacto, o sea me ayudaría para.
+
+Y otra pregunta, ¿Cómo estamos con el tema de fríos?
+
+Veo que tienes la bolsa, ¿Cómo funciona?
+
+La verdad funciona cuando la ponen gratis, o sea a lo mejor podemos estar aquí tranquilos.
+
+Ajá, sí, todo bien padre, pero pues no hay nada y de momento pum, vemos que está de promoción gratis, entonces empieza si levanta no, pero solamente cuando es a gratis.
+
+Sí, o sea obviamente sí han salido unas que otras, o sea no es mucho la demanda, le ponen precio de 30 pesos, pero cuando empezamos a ver que empiezan a pedir la bolsa es porque está gratis y quieras o no, o sea digo es un gancho ¿No?
+
+Tú le regalas algo al cliente, la pido y como son clientes que sí ya han visto la bolsa se les hace bien y es como si nos llega a incrementar un poco más los.
+
+Pedidos, entonces podría ser una acción para traer más órdenes para ustedes.
+
+¿Crees que eso puede funcionar?
+
+Sí, pues justo cuando por ejemplo es el cliente de primera orden le damos un destapador, entonces les hace súper padre, vamos a estar pidiendo ahí porque también hay clientes que han pedido por medio de la competencia y como van heladas, van súper frías.
+
+¿Van con hielo?
+
+No, o sea de acá del frío de nosotros.
+
+¿Pero cuando tenemos la bolsa ponemos hielo o no?
+
+No.
+
+OK, va solamente la bolsa.
+
+Si, obviamente pues se le dice al cliente que es para usarla como tipo hielera, ya si tiene algún evento tenga para llevar, tiene la opción de echarle hielitos pero que lo hielo se hielo.
+
+No,.
+
+Como tal aquí no tiene máquina de hielo y también hicimos un sondeo con las cos de quién tendría espacio,.
+
+No, y justo ahorita que comentas eso, la verdad es que ya no cabemos, o sea ahorita que fue lo de fiestas patrias me iba a meter la cerveza, jalamos el exhibidor de Barcel, pues hay tres estivas de negra modelo acá en esta esquina que normalmente es nuestro vacío, o sea en base aquí afuera, acá atrás de los empleadores tenemos, tenemos producto, ¿Por qué?
+
+¿Porque nuestra bodeguita hay departamentos arriba y son escaleras, entonces no es un cuarto como tal, es una U y es el pasillito, entonces nos surtimos y o sea, donde metemos 50 megas, 30 medianas?
+
+Entonces es constantemente la rotación del producto porque no tenemos esta.
+
+Bueno, por lo menos tenemos buenas noticias.
+
+Vamos a empezar con el kit de bienvenido.
+
+Sí se ayuda esa parte, atraer más a usuarios nuevos.
+
+La idea es tener una bolsa, un destapador y una carta para las primeras bolsas de los usuarios.
+
+Está bueno si ya tienes como la experiencia que el destapador ya es suficiente con una bolsa, creo que puede ser mejor.
+
+¿Eres tú con la nueva Turbo, no estás en turbo, ¿Verdad?
+
+¿Has recibido órdenes?
+
+Una.
+
+¿Y tuviste algún problema?
+
+No, todo está funcionando súper bien.
+
+De hecho yo la verdad, yo veía como que una debilidad porque digo, comparando Cuautlancingo es algo total allá, pero pues digo, es un municipio, finalmente es un municipio y no hay como que una ley en cuanto a vialidad.
+
+Tú puedes tomar cualquier calle en doble sentido y llegas súper rápido acá yo vi esa debilidad.
+
+¿Por qué?
+
+Porque tenemos una respetar uno a uno.
+
+Tienes que parar sí o sí en la esquina y dejar que pase el otro y tú pasas y uno.
+
+Esa es una.
+
+La otra, que si tenemos reglas viales, es un sentido y si yo tengo que dejar a lo mejor aquí a la vuelta, le tengo que dar toda la vuelta, toda la vuelta a la manzana, no puedo agarrar doble sentido y llego en dos minutos.
+
+Pero bueno, hicimos así como que una prueba piloto entre nosotros con él.
+
+Pero sabes qué vamos a poner un cronómetro como si llegara un pedido y vimos más o menos nuestro diámetro de lo que es el kilómetro, pero sabes que te vas a ir como si fueras en sentido contrario para tomar, si fuera real, para realmente tomar el tiempo y ver si realmente en ese kilómetro si Llegamos a los 15 minutos, llegando a lo exagerado, a ver dónde está el kilómetro para allá, sale, tienes que llegar a tal y tal calle, sale.
+
+Pusimos el cronómetro, yo como que poniendo el pedido, él ya aceptándolo fuga.
+
+Entonces cuando él me dijo ya llegué, eran seis minutos.
+
+Nos apegamos a la realidad porque yo sí dije no, va a ser imposible.
+
+Es que de verdad lo que nos.
+
+Lo que te decía de irnos hacia allá, hay un centro comercial y es un trafiquerío, no te digo en horas pico, o sea, aunque vaya en moto.
+
+Entonces aunque vaya en moto, normalmente tenemos el chance de ir pegado a la guarnición y te brincas el tráfico, pero aún así llega el momento en que te detienes por el tráfico que hay, entonces eso es lo que no nos favorece, pero sin en cambio les vimos lo que les platicamos hace rato de que por ejemplo tengo Tonancintla y de momento me cae el de por allá, cómo le hago, o sea de verdad ahí sí quemó el tiempo por mucho que él vuele, pero en el kilómetro que tienes no en cuestión de los turbos, porque no brinco la 2 que.
+
+Es el trafiquerío, o sea aquí no.
+
+Hay problema porque digo, hicimos la prueba y ayer fue que me legué primero, entonces pues obviamente checamos todo, lo cerramos al minuto 11 porque el cliente no sabía, de hecho ya iba yo a mandar evidencia, pero me dice ya salió, ya subí que se subió en tiempo y forma y era el primer turbo que nos había pedido.
+
+¿Aquí cuántos has tenido?
+
+Uno, saqué uno nada más antier, es.
+
+Lo que le iba a comentar, porque en la data que me había estado compartiendo no salía, entonces justamente allá platicaba yo con alguien de que no había.
+
+Tenido orden, era el único según yo aparecía con la.
+
+Tema de comunicación, mucho gusto, ¿Cómo se.
+
+Le ha hecho la comunicación?
+
+Nosotros somos los que enviamos los correos.
+
+Electrónicos de por favor ayuda, un cliente reporta X situación, pues en cuestión de ese tema, bueno aquí Ale sabe que apenas me ingresaron al grupo yo todo se lo reportaba a Oscar que es el que está en Forjadores y apenas antier lunes, no, bueno fue el fin de semana que me ingresaron al grupo o lunes entonces no, sí fue fin de semana porque creo estaba Jorge, entonces ya es como yo me empiezo ya como que a involucrar en cuanto a tener comunicación como lo que me comentas.
+
+Por correo electrónico, no.
+
+Porque le llega.
+
+A Oscar, es que Oscar es el empresario y tiene dos modeloras y este no, si son dos correos diferentes, pero Oscar es el que gestiona esa parte de la complicación para ley, pero no está aquí, no está en el otro.
+
+Modelo y si yo tengo dificultades o algún consumidor tiene una dificultad con este le va a llegar a Oscar en.
+
+Forjadores, porque yo anteriormente yo toda la comunicación la mantenía con Oscar, entonces cuando a mí me llegaban los reportes, luego luego le mandaba ya sea el de aquí o el de portadores, me decía ayúdame a revisar este ticket.
+
+Lo que hay que reforzar es que.
+
+En las tiendas independientemente tenemos muchos casos.
+
+En donde el empresario debería tenerlo.
+
+A ver si entiendo, por ejemplo, la comunicación que tú me dices si el consumidor tiene algún detalle y tú mandas el reporte que sabes que Ayúdame a checar este cliente que tuvo alguna.
+
+Sí, de hecho apenas lo tuvimos y nos comunicamos con él y lo resolvimos por llamada, no con el cliente.
+
+Un líquido, Lo contactamos,.
+
+Te explica el flujo.
+
+Creo que eso es OK, yo genero un pedido 2 megas y una coca por X o por Y situación, les falta sacar la coca.
+
+Hay consumidores que ustedes ya conocen que se contactan directamente con una vez con las tiendas, etc.
+
+Pero en otros casos también, o en muchos otros casos hay consumidores.
+
+Este por cajetilla.
+
+No, no, ten.
+
+El truco es yo como cliente me comunico al área de ayuda de la aplicación que va con el equipo de Mars, ellos a su vez, tú tienes un correo con el cual inicias sesión en nuestra plataforma adicional hay que tenerlo abierto también como correo el Gmail.
+
+¿Vale para qué?
+
+Para que ahí los reportes que le llegan al equipo de ellos, ellos hacen el contacto de ah mira, Luis se comunicó y les quisieron número de orden que le hizo falta una copia y este corresponde lo de ah OK, sí, sí le hizo falta se le entrega en 10 minutos o darle soluciones a ese tipo de casos.
+
+Entonces.
+
+Nosotros los consumidores, los que les compran a ustedes, si tienen alguna dificultad, pues algunos los conocen y vienen hasta aquí hoy dame pasto.
+
+Pero hay algunos que a través de la aplicación.
+
+Se meten a la aplicación algo más 25.
+
+Por eso es que ya no está copado, ya no lleves todas Gmail.
+
+Para que ellos tengan acceso a lo.
+
+Que vamos a hacer es enviar el ticket y forma central de notificaciones, pero ellos necesitan tener el acceso al correo sí o sí.
+
+Y ustedes no tienen aquí acceso al.
+
+DMA porque lo tiene un punto también.
+
+Bueno, yo se los digo en broma al cliente, pero luego a veces llego y me dice oye, es que no me llegó la notificación de que ya estamos acá, estoy toca y toca y toca.
+
+El usuario se contacta por teléfono, que.
+
+No llegue el mensaje que el repartidor.
+
+Ya le ganamos a la aplicación.
+
+¿Hay que sugerirles que tengan activadas las.
+
+Notificaciones en su celular, de hecho un cliente hasta me dice mira dice lo que pasa es de que no se actualiza rápido,.
+
+Algo más amigo, porque luego.
+
+Me pasó también otro de aquí abajo, yo llegué y le marqué, me contestó y me dice joven espera, me dices que fui a la tienda porque me aparecía que todavía no salías y pues sí y llevaba yo otro,.
+
+Pasa que a veces hay que estarle saliendo y entrando y que avance para que los usuarios vean, pero a veces tampoco aunque salgan y entren no sé visualizar, no va apareciendo como entonces llegan?
+
+Porque incluso a mí me ha pasado que de repente es como de ya me llegó el mensaje de ya llegué, yo dije ah caray y ni siquiera mi mapa todavía no lo veo que.
+
+Avanza apenas de todo o sin también bueno otro punto también que digo bueno ya es también de cada cliente pero sale y ah espérame los envases regresan, ay es que te pedí con tarjeta, o sea pues si uno así de ya me volé como 5 altos para llegar acá son otros 10 con el otro.
+
+También allí Me gustaría también hacer una aclaración, creo que es importante en el tema de la métrica de los 35 minutos.
+
+Primero me gustaría hacerte una pregunta, ¿Sabes en qué momento digamos cómo medimos esos 35 minutos?
+
+Pues no a cierta ciencia pero yo tengo que llegar de los 35 más todo lo que de acá.
+
+Correcto, mira, nuestra métrica parte a partir de que el cliente genera el pedido por obvias razones, pero como tal nosotros no medimos hasta que cierras la orden, sino más bien hasta exactamente hasta que tú le indicas llegué, vamos a decir que te hiciste de traslado 20 minutos homopolo o vamos en el minuto 20 o 25, OK, en el momento en el que tú dentro de tus opciones como repartidor le pones lleg y está dentro del rango de entrega, ahí corta la métrica, aquí va a seguir avanzando el tiempo, ¿Por qué?
+
+¿Porque el pedido no ha sido concluido pero la métrica como tal cierra en ese punto, para qué?
+
+Para evitar ese tipo de también con el consumidor de oye es que ya lo tengo que cerrar porque se me va a acabar el tiempo, etc, o evitar el que lo cerremos antes por este tipo de cosas.
+
+El punto aquí es que también ya tenemos este cambio en la métrica para que sea más fácil esa interacción que si el consumidor no vio su app y también en contactar los cinco minutos.
+
+Ah bueno, no sea tiempo que realmente cuente dentro de la teca, porque al final ustedes como repartidor o como repartidor ustedes ya están en el punto, es un tema más del consumidor y nos ayuda también a nosotros llevemos el proceso correcto a medir, ah bueno, el consumidor en promedio se tarda en salir 10 minutos, ah bueno también nosotros ver cómo podemos mejorar F tipo de cosas que tú mencionas.
+
+Bueno, ¿Por qué tarda 10 minutos?
+
+Porque entra y sale por el envase, por la tarjeta o porque no escucha la notificación o nos dan herramientas también para que nosotros podamos analizar estos casos.
+
+Sí, agilizarlo.
+
+Exacto.
+
+De hecho.
+
+La palabra técnica.
+
+¿Por qué?
+
+Porque de hecho lo que nosotros hacemos es desde el minuto 20 que ya empieza el grupo, por ejemplo Álvaro julio tiempo llevas 20 minutos del 5 domicilio, entonces como ellos van manejando, pero si llevan el celular, entonces dicen Pues voy a 5, Pero como les digo y lo saben, aunque sepan que ya está a los 35, mientras tú le pongas ya llegué lo sabes porque ese es el.
+
+Claro, vamos controlando la comunicación porque vamos controlando nuestros tiempos para que no se nos quede muchísimo, ya cuando el cliente no sale ya le tocaste, ya.
+
+No.
+
+Podemos hacer nada a conservir la evidencia y bueno ahí está que no son, Que es ya raro últimamente por el tema que.
+
+De hecho tienen buen servicio también porque nosotros hacemos las métricas de bosque, cuántos consumidores nos contactan poniendo algún requerimiento de ustedes y en estos últimos tres meses solo fueron nueve tickets, o sea me parece poco comparado con otros, me parece que con el tema de sus indicadores tiene muy buen servicio.
+
+Sí, hace sentido porque tienen buen servicio.
+
+El tema es que tenemos pendiente es que ustedes puedan abrir el correo y puedan contestarnos a nosotros, siempre la vamos a escribir ahí, cualquier cosa.
+
+Interacción.
+
+Bueno, yo tengo una duda, por decirse, llevo dos pedidos y en este caso yo ya llegué a los 20, llegué, ya se paró el primer pedido, el otro pedido a su ¿Hasta cuándo corre o cómo tiene su tiempo?
+
+El segundo pedido es exactamente igual.
+
+Te pongo un ejemplo práctico.
+
+Son las 12 y 20, digamos que hace 10 minutos, hace 20 minutos nos cayó un primer pedido, Te decía doce a las doce y el otro te llegó doce, diez, vale por poner número.
+
+Tú estás llegando ahorita doce y veinte al primero, ahí será tu tiempo.
+
+El otro ya lleva 11 minutos o 10 minutos de las 12 y 10, que fue cuando cayó a las 12 y 20 que son ahorita.
+
+El tiempo sigue avanzando de manera normal o regular hasta que tú le pones llegué.
+
+Ya que estás en la ubicación del siguiente consumidor, vamos a decir que como está en tu ruta, vas A tardar otros 10 minutos en llegar, por decirte algo.
+
+OK, entonces tú.
+
+Tú le vas a poner llegue a las 12 30, entonces uno lleva sus 20, los dos cierran a sus 20 minutos, pero es a partir de que llegó el impedimento, o sea, siempre sobre la hora en la que se generó el pedido.
+
+No sé si te respondí tu pregunta.
+
+Más o menos.
+
+Casi 40.
+
+Así lo hice para el segundo pedido, que si llevas un agrupado se tarda mucho.
+
+Es donde tienes.
+
+Mira, la teoría nos dice, primero va una pregunta en esos casos, ¿Qué haces.
+
+Tú hoy cuando llevo dos?
+
+Cuando llevas dos, vamos a decir, yo genero un pedido y ya voy de 5 a 10 minutos.
+
+¿Que te estoy haciendo esperar?
+
+¿Cuál es tu?
+
+¿Qué es lo que tú haces?
+
+¿Cuánto tiempo yo?
+
+¿Cuánto tiempos esperas?
+
+Aquí viene una pregunta, Carol, antes de que yo conteste algo, ¿Cuál crees tú que es el deber ser?
+
+Deberíamos tener un tiempo máximo que el repartidor debería.
+
+Está bien cancelado.
+
+En eso Sabía que yo me había dicho.
+
+En ese punto al cancelar No, nos.
+
+Van dos puntos diferentes.
+
+El primero, ¿Cuál es?
+
+El primer deber ser es que tengamos un tiempo.
+
+¿Cuál es este tiempo exactamente?
+
+Máximo 10 minutos.
+
+Eso considerando que tienes una operación, digamos fluida, es decir, estás bien en tiempo, si te empiezas a cortar, lo máximo son cinco minutos.
+
+¿A qué voy?
+
+Por ejemplo, un sábado que se vuelve más caótico para ustedes, usualmente los estamos manejando de 5 a 10 minutos.
+
+Ahora ahí cancelamos.
+
+Eso es como los pasos que debemos tener.
+
+Ahora tú vas con la parte de métricas.
+
+Si, la métrica va a estar afectada, pero vamos a hablar de dos cosas diferentes.
+
+La primera, vuelvo a lo que te comentaba antes, cuando cal con el motivo correcto o le pulsamos el motivo que es, nosotros podemos realmente analizar lo que está pasando.
+
+Vuelvo al punto, nos dan herramientas a nosotros.
+
+¿Va a afectar una métrica?
+
+Sí, probablemente, pero yo prefiero que se haga así para que ustedes nos para poder limpiar qué es lo que está pasando y decir, ah bueno, en estos casos hay que hacer esto, porque a lo mejor incluso también nosotros se podemos decir, ah bueno, 5 a 10 minutos, pero no es lo ideal, pero cómo lo vamos a saber hasta que generemos una correcta ejecución de los procesos.
+
+Ahora eso como por la parte de métrica, si lo vemos desde el lado de oye, a lo mejor no vamos a llegar a ciertas métricas que nos están pidiendo para temas incentivos, bla, bla, bla.
+
+OK, esos casos particulares, por eso es la comunicación mucho con Alex para qué, para que nos llega a pasar, si nos llega a pasar dos veces por semana, son casos muy específicos que realmente no impactan real en una meta.
+
+Ya si me dices, oye, es que si nos pasa al menos dos veces diario, bueno, ya es diferente y ahí se que tener mucha comunicación con AL para sacar estos de métrica para un tema de incentivos, al final es un número real en el que nosotros podemos accionar y ver qué es lo que está pasando.
+
+Porque si al contrario, por querer digamos, no sé cómo.
+
+O simula, por así decirlo, un problema de fondo que tenemos y que no podemos ver por esa parte.
+
+Alguna situación, ustedes lo tengan que cancelar.
+
+Siempre coloquen ambos ciertos pregunta para los dos desde tienda y desde la vista de repartidor pueden cancelar sin poner un motivo, O sea, obligatoriamente tienes que poner.
+
+Una opción, pero puedes poner como otro.
+
+¿Ah bueno, ese sí, pero en teoría puede?
+
+¿Pero en el tema de otro, en teoría les deja poner un comentario, pero.
+
+Es obligatorio el comentario o no?
+
+Eso no sé, cuando se pone cualquiera de las opciones.
+
+Ya te permite cerrar automáticamente.
+
+Le pones opción y te pone negro.
+
+OK, pero si tú le pones otro te habilita una de un comentario, pero es obligatorio el comentario.
+
+Eso es lo que pasa, porque vimos que muchas de las opciones son otro.
+
+Hay mucho, hemos ido mitigando, pero siento que hay que robustecer las opciones.
+
+¿Están viendo algo allá?

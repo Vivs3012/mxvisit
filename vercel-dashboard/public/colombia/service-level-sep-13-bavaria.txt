@@ -1,0 +1,1597 @@
+Vamos a hablar portugués ahora.
+
+Entonces amigos, para compartir con ustedes rápidamente lo que hicimos en los últimos meses año Nosotros ya tuvimos la última vez que tuvimos acá la charla de estrategia de producto para ser celebr Entonces vamos a dar un champi Si esto los otros países nunca teníamos hablado sobre eso.
+
+Importante para ellos, pero para ustedes ya conocen la idea.
+
+Yo creo, si no quiere que pase nuevamente, no hay ningún problema.
+
+Yo creo que esto ya con los pilares recuerda, tuvimos esta charla la última vez que tuvimos acá.
+
+Entonces lo primero es de 2025.
+
+Yo creo que hacemos ese desarrollo un mes después que tuvimos acá como un resumen de lo pedido.
+
+Tenemos los impactos de esto acá tenemos un impacto ahora en tener, entonces llevamos 10% a menos de break de tener para que nos hace este tipo de data flow.
+
+Aceptó de aceptación de todos los pedidos.
+
+Esta es la primera versión.
+
+Yo creo que también podemos evoluir sobre esto.
+
+Vemos una charla ahora casi automática.
+
+Ellos quieren, entonces es como un atelo,.
+
+Hay un atogo arriba de new Order,.
+
+Pero nosotros si tuvimos un momento que te permitía aceptar, pero tú lo puedes.
+
+Aceptar todas, tiene que hacer un clic, ahí está.
+
+Pero hay un togo que libre tiene que siempre se queda todo, Entonces no hay necesidad de hacer.
+
+Hay solamente la impresión de las.
+
+Opcional esa fe porque Ñora Pico es turn off, porque es mejor tener un.
+
+Control más durante reducción de 1.34 de los pedidos esperados y incremento de 0.08 para el free rate.
+
+Con esto.
+
+Lo mato de acompañamiento tanto de repartir, no es repartido, Pero común, lo más normal domiciliar y domiciliario.
+
+Entonces la idea de un domiciliario indo para el consumidor, evolvendo para la tienda.
+
+Tenemos OIT de ida y de vuelta también tenemos varios tipos de evolución para esto, de alertas para esto.
+
+Hay muchos bugs, Hay muchos bugs, llevamos muchas declaraciones de bugs en Perú, México, también en Ecuador yo creo que tenemos también lo riesgo.
+
+Ya estamos.
+
+Es más difícil tener todos los impactos, pero es algo para la experiencia de sel muy importante esto.
+
+Yo creo que la segunda pantalla más vista.
+
+La segunda pantalla más vista de todo sellos directamente.
+
+Debo ser directamente para los domiciliarios.
+
+Entonces ahora los pedidos, toca, toca, yo puedo hablar, toca, toca los pedidos.
+
+Llegan los pedidos inmediatamente en también podemos hacer algunos incrementos.
+
+Yo pienso que los algoritmos es algo importante.
+
+Para eso también nosotros podemos direccionar o subir.
+
+Esto debería ser automático.
+
+No, no, automáticamente llega al repartidor, hace.
+
+La distribución automática.
+
+Que no lo ha reportado varias veces.
+
+No solamente porque obviamente no han borrado domiciliarios que ya no están en la tienda, sino también porque no encuentran.
+
+En Perú la ruta que hicimos no está llegando a aplicación de.
+
+Entonces iBuds acá.
+
+Y eso pasa mucho también con los celulares chino, con los ojos vivos y eso que a veces se le crachea mucho la aplicación de repartido.
+
+La misma cosa que está pasando en la aplicación de consumer, esos celulares molesta.
+
+Hay un drop un poco más grande de onboarding para esos lugares.
+
+Entonces creo que hay una oportunidad ahí general de tecnología, porque no es solamente un producto.
+
+Ahora estamos hablando de dos productos.
+
+Una mejoría futura que queremos hacer acá es como hoy las tiendas pueden tener solamente una orden.
+
+Entonces lo repartidor acepta una por una.
+
+Queremos que acepte como dos o tres órdenes de una vez.
+
+Eso me lo pidieron la última salida.
+
+Entonces yo hago.
+
+Queremos como combón en un mapa.
+
+Puede ser como la ruta del partidor y.
+
+Pero el ideal es que se quede automático por un algoritmo.
+
+Por eso que nosotros gustaríamos mucho de platicar.
+
+Hoy lo tiene así sede libre.
+
+No, no, no.
+
+Justamente esto que es el libre mapa.
+
+Esto no tiene mapa tampoco.
+
+Cómo ahí.
+
+No, este no es nada domiciliario.
+
+Hay cupones, hay un care code.
+
+Hace la lectura del care code y ahí tiene.
+
+Porque ahora pico es terrible también porque se no tiene un algoritmo haciendo las mejores decisiones.
+
+Humanamente imposible.
+
+Pero las decisiones de asignaciones de ruta también.
+
+Porque hoy la ruta es manual.
+
+Entonces el algoritmo.
+
+El RAPI no es manual.
+
+No, no es rapi.
+
+Hay food.
+
+No es manual.
+
+Entonces el algoritmo hace la mejor ruta para el repartidor.
+
+Entonces tú tienes dos pedidos.
+
+Este el primer, este el segundo.
+
+Toma como referencia que la cercanía o el tiempo.
+
+Muchas cosas, muchas variables.
+
+Pero yo creo que por ejemplo tenemos un SLA de Tiago.
+
+Es más lejos, pero sla es de 35 para primero y después para otro que tiene más tiempo hacer después.
+
+Ah, pero eso es más tiempo.
+
+No importa.
+
+Esto es inmunamente posible hacer.
+
+Entonces en hora pico.
+
+Si tenemos esto automatizado.
+
+Hoy algoritmo de seres humanos tenemos como líder de repartidores.
+
+Exactamente.
+
+Se queda en la tienda.
+
+Este para tú, este para tú.
+
+Acá poco de vivian en el último año.
+
+Entonces acá tenemos la primera visualización de todos los KPIs de los selectores no es lo ideal.
+
+Yo creo que tenemos otros tipos de evolución acá, como de ayer, de los últimos 15 días, como yo puedo comparar último sábado con penúltimo sábado, pero la estructura de información es más o menos.
+
+¿Nosotros creemos que todos los gpais que enviar, haces cobranzas en todas las tiendas, este toca, entonces cómo hacemos para dar visibilidad de complemento de pedidos que nada más rápidamente para usar?
+
+Cómo hacemos el cumplimiento de productos en stock, que es nuestro cart directamente para las tiendas y abajo el resumen de los pedidos y los proveedores.
+
+La primera versión lo prognóstico no está correcto.
+
+Sí, sí tenemos algunas evoluciones como un componente de AI principalmente para que sabemos que no son todos quien integra como SLA, entonces queremos algo como Box hablando, mira, ayer tu SLA no fue bueno, entonces puede virar más para esto, ¿Cómo hago así?
+
+Porque nosotros eso lo estamos mandando por correo electrónico, o sea, nosotros al Community Box y le decimos como, hola, tus.
+
+Indicadores van mal, ¿Qué te recomendamos?
+
+¿Tienes novedades en el SLI?
+
+Entonces estaría buenísimo porque te les llegaría justo SL.
+
+¿Hay muchas motivaciones, parece quedar bien o no?
+
+Entonces.
+
+Tengamos más cualidad en la información individualmente, porque hoy creo que envían mucho general.
+
+Entonces una cosa que nosotros gustaríamos con esto en futuro es poner las cosas en órdenes.
+
+Mira, creces como dos puntos porcentuales en SLAY, ganas más ex órdenes, porque ahí el idioma se queda mal.
+
+Ah, mira eso, yo gano más órdenes, yo gano más incentivo operacional.
+
+Entonces solamente, ah, mira, no está bien este indicador.
+
+¿Por qué?
+
+Porque tengo que hacer esto.
+
+¿Que tanto la usan?
+
+Esta es la homepage, entonces todos pasan por esto.
+
+Los comentarios de las visitas.
+
+Sí es como ya no podemos ver la data por días, ya podemos ver la data solamente los últimos siete días.
+
+Quisiéramos tener comparativos, que fue lo que nos dijeron en la última visita.
+
+Sí parece que la revisan por lo menos y que si quieren ver cómo vas.
+
+Y aquí no cambiar acá de 7 para.
+
+Podemos usar y cambiar ese ranking como algo operativo también.
+
+Lo primero, hoy no hacemos ATA el GOM, la mejor walkie de Bogotá, pero no veo nada.
+
+Tienes más pedidos y todo más.
+
+Pero yo creo que podemos usar esto como.
+
+Los mejores partnerships de BIS, restaurantes, cosas así llegaron a placa como, mira, como YouTube llegaste a 100.000 suscripciones, creo que es eso.
+
+La tienda del mes, por ejemplo.
+
+Y ganar una cosa que la tienda ponga.
+
+Esto es para prendas.
+
+Antes de tener como desarrollo.
+
+Queremos hacer una prueba sobre esto, pero puede hablar más después cuando vamos a hablar sobre.
+
+Acá otra parte, hablando más de Google, cómo damos un flip manager directamente para los seller.
+
+Entonces después de adicionar los domiciliarios, ahora pueden remover.
+
+Está importante porque antes tienen que abrir un ticket, entender cómo hacemos domiciliario y ahora podría ser por esto.
+
+Eso es muy importante porque colgamos un límite y eso variable.
+
+Pero cuanto menos domiciliarios, más fácil, más visualización.
+
+En OMA tenemos unos ejemplos de 500 domiciliarios.
+
+No,.
+
+Pero se supone que nosotros teníamos una restricción que solo levantamos en el mundial, que pasamos como de 50 a 70.
+
+80.
+
+Pero no se puede más de 80.
+
+No, porque si pasaba de 50, que fue cuando dijimos que íbamos a tener.
+
+Más de 50 homicidiarios, no conocía.
+
+No tenemos un límite por tienda.
+
+Pues eso no fue problema porque una tienda como en un partido de Colombia llegó, no podemos meter más domiciliarios.
+
+Pero convocamos un límite solamente para este tipo de ejemplo de 500.
+
+No, no, no.
+
+Igual con esto, pues ya lo que les decíamos a ellos era cuestión.
+
+No eran 50 al mismo tiempo.
+
+No era al mismo tiempo.
+
+Lo que pasa es que como hay tan alta rotación, pues lo que pasa es que les van metiendo.
+
+Hay tiendas que tienen 30 domiciliarios normalmente, pero si tienes 30 domiciliar, fácilmente puede tener 50 o 60 registrados.
+
+Porque.
+
+Podemos colocar máximo que llegó una tienda a tener el mismo tiempo de autoridades.
+
+Un día puede ser 30, pero un.
+
+Día al mismo tiempo.
+
+No, No, por ahí 20, 25.
+
+Pero tengo que revisar.
+
+No es común que tenga un evento que su.
+
+Dark store ahora pico tiene como 80.
+
+Sí.
+
+Hoy tienda en la frente de la tienda.
+
+Sí, tranquil, muy tranquilo.
+
+Vite mil órdenes en la semana, en hora pico, un sábado como seis de la tarde.
+
+Ochenta personas.
+
+Sí, cincuenta.
+
+Y hace.
+
+El que está hablando sobre la evolución, cómo hacemos los cambios por KPIs y cómo damos más información por KPI para cada uno de las tiendas.
+
+Entonces como tenemos oportunidad, presumo el tipo de comunicación sobrado.
+
+Entonces una parte específica para stock, otra para órdenes, otra para con más profundidad en las cosas arriba.
+
+¿Quieres.
+
+Componente de ya?
+
+Este es componente de ya que está como está hablando antes que tenemos como un resumen para la tienda, como leer y tinguero, cómo están las métricas del día.
+
+Nosotros pensamos como más facilitación de todos los supervisores, cómo hacemos parte de otra parte de supervisores, tú tienes a mucha madre porque tienes pocos repartidores.
+
+Como tenemos todo este tipo de información, la propia ya hace ese tipo de comunicación directamente a la plataforma.
+
+Ahí esto no está en producción, cuando queda en producción.
+
+Podemos.
+
+No, no sobre todos los CPIs podemos, pero podemos hacer porque es una.
+
+IR va a ser un tipo de comunicación para diferentes comunicaciones, porque después ya hacemos todas las informaciones para cada uno directamente.
+
+Es capacidad domiciliaria es más útil porque normalmente nosotros sabemos que los indicadores están atados a tener una cantidad domiciliaria horas pico, que según la cantidad de órdenes y eso lo dividimos entre 1.8, 2 por coberturas grandes y entre 3 por coberturas pequeñas.
+
+Entonces si ya de una iglesia a la tienda que te quedaste corto de capacidad domiciliaria, obviamente ya viene SLA, ya ven firme, ya saben que estuvo mal, pero que si tú mal por capacidad dominante.
+
+Ese es el trabajo principal del supervisor.
+
+Cuando los visitan, capacitar como.
+
+Los tiempos de entrega y el FILR se afectan cuando no tiene la cantidad domiciliaria suficiente para la cantidad de obras.
+
+Si te dice por capacidad, cantidad de domiciliarios adecuados.
+
+De B, no.
+
+Intentamos hacer algo para que puedan trabajar con B, pero tan distinto a lo que está diseñado, que teníamos que hacer un desarrollo muy para hacer preguntas, que empezamos a hacerlo, pero después era complejo porque no se podía cruzar.
+
+Por ejemplo, no puedes tener la visita de Community POG porque ya lo tiene un VDR en una visita también.
+
+Entonces comercial si ya tenía el código asociado, entonces no podíamos.
+
+Entonces lo podíamos hacer con punto propio, pero no lo podíamos hacer con Community.
+
+Ponemos una serie de restricciones para poder hacer nuestras preguntas, porque si no.
+
+Entonces hicieron todos los cambios que necesitaba.
+
+Mira, ahora tenemos estas BDR, son especialistas en The Delivery y tienen tareas en esports para obviamente ayudar la operación de Sería chévere.
+
+Lo dejamos porque era como algo muy específico para 100 box nada más.
+
+Ahorita que estaban hablando de los domiciliarios, se me pasó preguntarles hacia atrás, yo vi el tema de pronóstico, de órdenes de pronóstico, se me algún anfitrión como.
+
+Dice pronóstico no está bien.
+
+Porque a ellos les funciona muchísimo, o sea en las visitas cuando hemos tenido.
+
+Me funcionaría bastante.
+
+Porque con esto el Community Co ya.
+
+Se puede proyectar de con podemos hacer.
+
+La prueba que quiero hacer.
+
+Es como enviar en la caja de mensaje cuántos impartidores precisa tener en la semana.
+
+Ellos pueden hacer también después porque tiene acceso al Braze.
+
+Sí, pero la intención es hacer la prueba para tener los componentes de Ya, pero queremos estar cuántos repartidores necesiten en la semana.
+
+En Perú, ellos hacer una plataforma paralela con este tipo de información.
+
+Tiene un calendario con las principales datas, juegos de fútbol.
+
+Específico para que lo hacemos.
+
+Entonces acá yo pienso que aquí es importante que 15.
+
+Yo no tengo más porque no son Fernando.
+
+Pero es como un calendario.
+
+Es algo que hablamos.
+
+Esto es como un resumen de todos los pedidos que hacen la última semana y cuánto va recibir en su compra bancaria.
+
+Resumido por material de órdenes, cuánto que tienes que servir, por cupones, por marca.
+
+Y eso lo carga con CSV.
+
+Único con todas las tiendas.
+
+Cada tienda.
+
+Se mantiene histórico, pero las últimas cuatro semanas.
+
+Pero.
+
+Esto es resumido una línea por cada boom.
+
+La idea es de una línea por cada.
+
+Uso.
+
+Podemos entender eso cómo hacemos la expansión.
+
+Pero ya está en lugar de México.
+
+Pero hoy podemos probar esto, ver cómo funciona la estructura del CSV para tener feedback.
+
+Tenemos unas reglas de Excel, pero puede subir todo de una vez.
+
+Una línea por cada.
+
+Tienda.
+
+Pero es un peso.
+
+Hay una idea de evolución por correo también a los 100 aliados.
+
+Entonces ahí estaría bueno para que ellos la puedan descargar desde ahí.
+
+Exacto, Exactamente.
+
+Acá estamos.
+
+Ahora tenemos la idea de tener una comunicación entre todos los actores de Life Mar.
+
+Entonces creamos un tipo de comunicación entre Seller y consumer.
+
+Ahora vamos a desarrollar un entre Kugel y consumer.
+
+No es un chat llamar de chat, pero es muy parecido a un chat.
+
+Vamos a desarrollar en la próxima semana.
+
+Ya tenemos una parte de esta feature, que es la feature de server para consumer.
+
+Tenemos un decrease.
+
+Cómo puedo hablar.
+
+Los sellers que utilizan esta feature.
+
+Entonces si hay cualquier problema entre en contacto con Consumer.
+
+15 De los lanzamientos son editados.
+
+La próxima es para con consumer.
+
+Puede hablar en la frente que llegue.
+
+Tenemos una duda sobre intereses, sobre migración.
+
+Pertenemos hacer un regreso de 20 a 30 por ciento del cancelamiento de fútbol.
+
+Esto es gigante porque es una.
+
+Primera.
+
+Versión, porque son muchas cosas como son entre todas las personas del ecosistema.
+
+Entonces es muy grande.
+
+Entonces la idea de comenzar a arrancar con mensajes, listas, el repartidor para hablar con el consumidor.
+
+No sé si la tiene o va a tener mensajes listas.
+
+Mira, estoy en tu puerta, estoy en.
+
+No va a escribir.
+
+Pero las principales cosas están ahí.
+
+Si no están, pongamos.
+
+Porque entonces la idea para evitar.
+
+El equipo de LIGO tiene muchas restricciones con esto.
+
+Y hoy el principal problema de CX es que muchos clientes se abren tickets para entender dónde los repartidores están.
+
+Y acá, como tenemos una opción para los clientes de ¿Dónde estás ahora?
+
+El repartidor puede poner como llego en 5 minutos, 10 minutos, estoy en la puerta.
+
+Respuestas rápidas.
+
+Y él va a tener acceso al celular de la persona.
+
+El número.
+
+No, pero esto es por la aplicación.
+
+Le llega un push al cliente.
+
+Es como un WhatsApp interno.
+
+No sé si ya está, pero el timer para la respuesta.
+
+Entonces acá, si un repartidor pide una ayuda para las direcciones, damos 10 minutos de respuesta.
+
+Si no, hay cualquier tipo de respuesta.
+
+Pero consumidor avisamos o sel comentado de este pedido.
+
+Tiene también la comunicación directamente con un consumidor.
+
+Entonces no tenemos 100% de confianza en los timers.
+
+Pero la idea de los timers es justo para crear una sensación.
+
+Mira, hay una limitación de que vamos a estar esperando una respuesta.
+
+¿Por qué entonces con este hook entre los actores, creo que va a ayudar mucho como una reducción de cancelamiento?
+
+Esa es una locura.
+
+Esta parte de QG consume final del mes de sel ya tengo.
+
+Y ahí está la tenemos los sel.
+
+Tenemos más flexibilidad.
+
+Entonces tenemos un botón de.
+
+Directamente para WhatsApp.
+
+¿Pero por qué estás haciendo la comunicación?
+
+Nosotros estamos midiendo.
+
+Lo principal es quiero cambiar lo pedido.
+
+Yo no tengo todos las piezas.
+
+Exactamente.
+
+Caliente al tiempo.
+
+Pero se va a poder cambiar la orden.
+
+No podemos pensar en cómo después de esto hacemos un cambio de agua.
+
+Hoy Z Libri acaba de poner esto.
+
+La tienda puede hacer cambio de la orden, pero solamente para órdenes que no son de pago en línea.
+
+Solamente offline.
+
+Pagos offline.
+
+Claro.
+
+Porque online pues el tipo ya le cobraron.
+
+No, no solamente eso, porque online necesita mucho más desarrollo.
+
+Tiene que devolver una parte.
+
+Exactamente.
+
+No, por eso le cobran 100 dólares.
+
+Entonces no devuélvale 50.
+
+Exactamente.
+
+Entonces es más costoso.
+
+Pero ahí está el futuro, porque es basic esto en la aplicación de delivery.
+
+Hay una cosa que no me está quedando clara.
+
+¿Cómo se ve la aplicación del consumidor?
+
+¿Hay un chat en la aplicación, como si fuera un chat también con opciones de respuestas listas?
+
+No, no, en la pantalla de post purchase hay una AMIRA ayuda con entrega contact Entonces ahí se abre acá este bot exactamente como un bot este del consumidor.
+
+¿Entonces cómo podemos ayudar?
+
+Quiero saber cuánto falta llegar, necesito enviar instrucciones de envío y ahí va abriendo las opciones.
+
+Esto llega al repartidor o la tienda dependiendo de la escuela, dependiendo de la necesidad.
+
+Entonces eso first version, porque con esto principalmente vamos a tener mapeado los motivos, se queda mucho más claro porque hoy es muy.
+
+Ah mira, es más fácil poner en métricas, ahí podemos hacer la priorización porque es muy grande esta iniciativa, muy muy muy grande.
+
+Creo que hay trabajo acá para un año para tener 100% listo.
+
+Es mucha oportunidad de cómo podemos hacer los cambios de pedidos.
+
+Necesitamos hacer cambios de pedidos Si tenemos todas las informaciones en el mapa de un cliente, que eso también puede hacer menos contactos directamente con Pugnet.
+
+La idea es poner más fuerza para la tienda porque al final la tienda, el primer CX del pedido no es Aguascalientes, es la tienda donde está la resolución de los problemas.
+
+Bueno, yo y Vivian hacemos algo parecido en ZE años atrás y hacemos una declaración del 30% de cancelamiento de CU y más 10% de cancelamiento de consumo.
+
+Este más de 1.5.
+
+Son órdenes que perdemos en esto.
+
+¿Cuándo estaría?
+
+¿Lo próximo?
+
+Este es una forma de comunicación interna directamente de ta da para con todos los seres.
+
+Entonces acá la primera iniciativa para termos, envío de IPs, comunicación de nuevos features, algunas pruebas que viven quería hacer.
+
+Yo pienso que la evolución es este tipo de comunicación que queremos hacer.
+
+Tenemos una promo en fin de semana, tenemos como dica informativos de teores de cómo cualquier otro tipo de equipaje y por acá será cómo haceremos la prueba de envío de ya.
+
+Es cómo hacemos una versión de ya directamente por acá.
+
+Eso la estamos utilizando para nuevos features y para envío de IPs de algunos países.
+
+Entonces si piensas que es mejor hacemos los envíos de PSD por acá podemos hacer inmediatamente.
+
+Sí quiero hablar un poco más sobre esta prueba que vamos a hacer, vamos a hacer acá en Bogotá y vamos como dividir las tiendas en dos grupos con 38 tiendas en cada grupo.
+
+Entonces para 38 tiendas enviaremos una comunicación con los productos más vendidos de la última semana de la tienda como eventos, eventos importantes en la próxima semana Entonces vamos a tener un soccer game importante, importante cuántos repartidores necesitan tener en la próxima semana y como.
+
+Resumen de comentarios de todos los clientes de la última semana sobre esta tienda.
+
+Y vamos a hacerlo en vivo todo como todos los lunes y vamos a hacer esto por un mes mies y vamos a comparar estos dos grupos, 38 tiendas van a recibir esta comunicación, 38 tiendas no van a recibir esta comunicación y vamos a mirar las métricas grupo A versus grupo B cómo está funcionando.
+
+¿Después de eso esta prueba vamos a entender qué podemos hacer en la home Tiendas de mejorías si funciona podemos tener esto esto dentro de la plataforma y.
+
+La idea aquí hacemos comunicaciones personalizadas por seller, entonces podemos hacer una comunicación directamente para los seller de enviar y después otra comunicación para los sellers de t.
+
+Eso cómo va a funcionar esa información?
+
+Interacción de las comunicaciones es un envío.
+
+Por Braze, Entonces tenemos todas las comunicaciones, Vamos a hacer manual de primero, pero si tenemos problemas de s con estos grupos vamos a hacer solamente para esos grupos, mensajes para esos grupos SDA.
+
+Si tenemos problemas de freer con s, vamos a hacer este tipo de comunicación.
+
+Envío del texto imagen y de liga.
+
+Vamos a mencionar todos los impactos directamente para que vistemos.
+
+Podemos hacer de un tema soft, podemos hacer de dos temas, podemos hacer general en un general para un grupo, pero podemos hacer una personalización muy clara porque usamos Braze, entonces tenemos los mismos como como eventos, los mismos eventos que consumen.
+
+Entonces si esta tienda no tiene ni un pedido en las últimas tres horas, podemos usar esto para hacer un tipo de comunicación.
+
+Este tipo de comunicación.
+
+Tengo una duda acá qué más considero importante como que la tienda pueda visualizar acá en esta caja.
+
+Nosotros habíamos pensado en algún momento como los community pops hablando puntualmente sobre el plan comercial, las cosas que van a pasar porque nosotros tenemos muchos cambios o eventos comerciales que ocurren y nos toca mandarle comunicaciones directamente a los aliados.
+
+Entonces se vuelve un WhatsApp donde tenemos grupos de difusión y lo hacemos, pero si está en exceder y ellos pueden volverlo a abrir, o sea como revisar el mensaje previo.
+
+Y el otro también puede ser que me parece útil presionarlo con el tema del horario, por ejemplo tu Bob Sours cumpliste con un tanto por ciento.
+
+Hay algunos que lo hacemos después, pero si también menciona cumplimiento horario, Cumplimiento de horario también nos presiona un poco.
+
+Bueno y felicitaciones también la vez pasadamos que era como solamente cuando van mal nos mandan mensaje pero también está bueno.
+
+Es para esto, porque las personas que trabajan en las tiendas, esta es una motivación.
+
+¿Yo el resultado es el día anterior o cuántos días?
+
+Siete días antes.
+
+Los últimos siete días.
+
+¿Podría consultar hoy lo que pasó ayer?
+
+No, pero consolidado, lo que pasa es que no se ve ahí, pero arriba donde está el 7.2 en la parte derecha donde hay una cosa amarilla y dice últimos siete días.
+
+La idea es que sea customizable, pero pues eso es lo que están trabajando.
+
+¿Pero cuando uno mira últimos siete días,.
+
+Cuenta desde el día de ayer hacia atrás?
+
+Si, el.
+
+Últimos siete días, los últimos.
+
+SietE días de hoy, porque esto ya se queda mejor que hacer un análisis semanal, porque ahí necesito cerrar la semana para recibir el análisis.
+
+Entonces los últimos seis días se queda mejor.
+
+Ahora necesitamos al día anterior ahí, porque ahí se queda más fácil hacer cambios rápidos en las cosas.
+
+Acá tenemos todas las comparaciones cuando hablamos de AIR, quiero saber todos los números de AIR, hacemos esa comparación de aire con.
+
+O hacemos una comparación de el último sábado con lo penúltimo sábado.
+
+Qué piensas que hace mal sentido,.
+
+Por ejemplo, se compara ayer versus el jueves.
+
+El jueves hay bajo volumen, pero el viernes versus el viernes anterior.
+
+Dentro de esos KPIs, creo que solamente nosotros vemos mucho Perfeccorter y creo que nuestro foco con ellos siempre ha sido.
+
+Hablarles de perpetua muchísimo.
+
+¿Se puede agregar?
+
+Pues sí, perfecto.
+
+Se les habla a toda hora y no se les o sea, están las.
+
+Cosas porque yo estoy acá revisando.
+
+Entonces está el tiempo de promedio, entrega, tiempo de preparación, cumplimiento de pedidos, productos en stock, disponibilidad, entregas en lugar correcto y calificación del cliente.
+
+Entonces creo que sí sería bueno poder tener la medición de perder, porque es lo que nosotros todo el día le estamos comunicando.
+
+Este yo creo que no está como.
+
+Qué tan largos pueden ser las comunicaciones en el centro de notificaciones, ¿Qué tan largas pueden ser las comunicaciones?
+
+Yo creo que un poco lo mismo también del tweet, pero podemos hacer un envío de un.
+
+PDF, entonces podemos hacer longboard como envío de PDF, de imágenes en PDF, clica y abre una.
+
+Ayuda, lo que estamos.
+
+Platicando antes de incentivos adicionales para momentos específicos.
+
+También visual con la imagen también ayuda en la comprensión.
+
+Yo creo que lo futuro no es puntual, es un calendario con más previsibilidad.
+
+Sí, claro, tenemos en semana con principales eventos, pero necesitamos tener ese tipo de input tenemos millonarios mañana nosotros no vamos a hacer.
+
+¿Cómo van ustedes.
+
+Con un calendario después pueden hacer un planeamiento mensual?
+
+Moments no sé si las tiene.
+
+No, no, sí, pero en el procurador.
+
+Porque la idea acá que están solamente haciendo la validación de si esto para tienda hace diferencia o no.
+
+Porque se hace la idea de poner esto un calendario en el producto que la tienda puede hacer el clic.
+
+Mira, para este día la previsibilidad es esta por cuenta, una promoción.
+
+Lo que pasa es que va a ser algo como que acuerda de que por ejemplo el festivo.
+
+Entonces recuerda que domingo.
+
+Exacto.
+
+Pero con un calendario ahí las notificaciones solamente son un recuerdo de las cosas que están en calendario, no la fuente de las cosas que así que está.
+
+Hoy.
+
+Hacemos el toda semana de vocabulario.
+
+Toda la semana.
+
+Se puede hacer una planeación mensual que se atraía más al tema comercial.
+
+Pero hoy no hacemos ese tipo de comunicación.
+
+Nosotros lo hacemos con las tiendas.
+
+Se abaja un plan del mes, que va a pasar durante el mes, pero se hace más con el equipo de operaciones y los equipos.
+
+Un ejemplo Perú.
+
+Semanal.
+
+Semanal me manda a cada 15 días.
+
+Que es la que tienen semanal.
+
+Con el equipo de comercial hay una.
+
+Semana en donde se refuerzan las cosas que se van a hacer esa semana.
+
+Y aquí Miguel, el challenge está para Community Box, ¿No?
+
+Sí, porque es donde la tenemos en.
+
+Control, así.
+
+Abastecimiento, cosas así.
+
+Queda bien si cerramos en seis minutos esta parte porque ahí ellos tienen que hablar, nosotros también.
+
+Acá dentro de la conexión de todos pilares estratégicos de todas las fichas que hacemos, entonces de territorio, de inventario, pedidos y fotos, cada uno tiene un impacto multiplicado diferente.
+
+Los próximos pasos afloja la comunicación que tenemos en reembolso, ¿Cómo llamas?
+
+¿El pago aliado?
+
+Solamente el pago, la propina.
+
+Insurance, Seguro.
+
+Este es un punto importante.
+
+Esto llegó por Shu, por México, pero no sé porque eso es un beneficio que las aplicaciones para repartidores tiene.
+
+Entonces Rapi probablemente tiene, Didi tiene.
+
+Porque es como competidores.
+
+A ver, yo soy mejor que esta aplicación, trabajo con nosotros.
+
+Acá por ejemplo, Inside Libri, nosotros tenemos hace cuatro años ya.
+
+¿Pero cómo se maneja esa parte de curiosidad?
+
+Tiene que hacer un contrato.
+
+Entonces el repartidor está con la ruta activa, pasa algo con ello, está cubierto por insurance, entonces por accidentes, por muerte también.
+
+Entonces la familia recibe si pasa algo.
+
+Entonces es buena, una cosa buena porque es bueno para la compañía una integración.
+
+Con el partnership, porque nosotros trabajando está reportando.
+
+Exactamente.
+
+Hay una API haciendo la conexión directamente de las rutas que se abrieron y cerraron y quién es la persona que está ahí.
+
+Entonces cuando la persona pasa algo, llama a partnership y mira, me quedo mal, tuve un accidente.
+
+Ah, mira, me envían tus informaciones.
+
+Ah, mira, ahí está.
+
+Esta cubierto.
+
+Entonces aquí tu plata.
+
+¿Entonces tenemos que averiguar, porque si eso está en plan de desarrollo?
+
+¿En planeamiento, porque como salió ahora necesitamos qué va a pasar?
+
+Pero está ahí.
+
+Y creo que sería bueno para el próximo año platicarnos de esta posibilidad acá también, porque esto es muy importante para la compañía.
+
+Principalmente la primera cosa y la segunda clave para las personas, pero la reputación de la compañía se queda más segura.
+
+Lo que vamos a hacer es ir averiguando también, porque no hemos hecho la diligencia de ver quiénes aquí pueden tener ese servicio.
+
+¿Cuánto cuesta?
+
+¿Quién es la partnership de Rafi, por ejemplo?
+
+No sé.
+
+Entonces yo no sé si los domiciliarios tienen eso.
+
+Yo creo que en Colombia no lo tiene.
+
+No, pero o sea, hoy eso no es una ventaja completa.
+
+Puede ser para nosotros si lo tenemos, pero que yo sepa no le ofrecen eso a los domiciliarios.
+
+En ninguna.
+
+Pero está chévere tenerlo.
+
+Hay que, como no hay, el costo es por ruta.
+
+¿Y quién asume ese costo?
+
+Nosotros.
+
+Por eso hay que evaluar cuánto vale.
+
+Cuánto vale, cómo ponga en quién, Pero también el costo, el variable, depender de cuántas personas tuvieron policy.
+
+Sí, sí, sí.
+
+Un accidente.
+
+Un accidente.
+
+Entonces es alto.
+
+¿Cuál será nuestra tasa?
+
+¿Cuál será Nuestra tasa de siniestralidad?
+
+Siniestralidad se reporta porque son terceros.
+
+¿Son operadores logísticos o son terceros?
+
+No hay un sitio donde nosotros reportemos.
+
+Nosotros nos damos cuenta por los grupos, porque necesitamos un cambio de piloto.
+
+Igual no es alta, pero en ZDE.
+
+Libre hicimos por cuenta porque estaba creciendo, había reclamaciones públicas de la familia.
+
+Entonces muy ridiculoso para la compañía.
+
+Entonces un punto, ¿Como están creciendo?
+
+Esto debería estar en la charla.
+
+Quizás para próximo año, tal vez no, pero 28.
+
+Creo que eso es importante.
+
+Listo.
+
+Nosotros son impactos, individuos, entonces híbridos, radios.
+
+Cómo hacemos los cambios de los polígonos de los de acuerdo con oportunidad.
+
+Entonces si hay algun cancelamiento de una manera que no ten un overlay, hacemos los cambios automáticos y hacemos un overlay durante el cancelamiento y hacemos la transferencia para segundo tienda vemos porque es un vídeo cancelado.
+
+Comunicación ¿Que vamos a hacer ahora?
+
+El Turbo.
+
+Turbo estamos enseñando en Puebla tenemos 92% de sal, 5% de shed, de Pidillos.
+
+Con esto mismo yo vi con un fleet justo de entrega 50 mayor.
+
+El consumidor paga más por el turno y tienes la opción de activarlo o no según el sello que tú quieras.
+
+Es un polígono diferente como el polígono de 500 metros.
+
+Porque con eso nosotros ya sabemos las coberturas que nos dan SLA 15, ya sabemos qué es lo que hay que hacer.
+
+Pero entonces ahora seguimos hablándole al POC de SLA, pero con la opción de Turbo, si el consumidor paga más, le podemos pagar más también al POC.
+
+¿Y con eso, recuerdas que ustedes hicieron una prueba con G?
+
+El problema que no tenía la visión del consumidor.
+
+El cliente no sabe.
+
+La visión completa.
+
+Turbo es una herramienta para nosotros como empresa.
+
+Tenemos más dinero porque en Brasil cobramos 15 15 re.
+
+No le pasamos 15 reales.
+
+Si se quedan con una parte.
+
+Pero también te sirve para pagarle un poco más al punto para que se incentive.
+
+No crece órdenes.
+
+Como la operación no es tan buena de Turbo, la retención es mala.
+
+Entonces Turbo es una puerta de salida Si la operación está bien, pero como.
+
+Acá la operación está bien,.
+
+Está mucho mejor que de libre.
+
+Para mí ese por ejemplo, si tú tienes la opción de Turbo como cliente y no te llegan Turbo, pues se le da un beneficio al cliente adicional por algún motivo.
+
+Pero nosotros hoy ya tenemos una funcionalidad enclutada que es prioriza tu pedido pero.
+
+Sin la herramienta, sin la cobertura.
+
+No, no, no, pero ahí sí no hay gente que paga por eso y.
+
+Pues entrega sus puntos por eso.
+
+Pero obviamente no se prioriza el pedido porque no tenemos.
+
+No, o sea, pues en la tienda lo que ellos dicen es, me imagino.
+
+Si tiene lo puedes medio priorizar pero no le puedes garantizar al cliente.
+
+Sí, pero nosotros no garantizamos 15 minutos,.
+
+Pero con coberturas y con la opción de prenderlo con el consumidor sabiendo, te llega un pedido que es Turbo.
+
+Ahí sí podemos ejecutarlo bien porque cuando hicimos el piloto en la tienda donde lo hicimos llegó a 90% de CL y eso era muy manual, no teníamos herramientas, no teníamos nada.
+
+Todos los coxonistas tienen la cobertura Turbo.
+
+Y podemos hacer los cambios de 15 minutos para vez para 12 tenemos cambiar se vaya.
+
+¿Piensas que tiene oportunidad?
+
+Con 10 minutos podemos hacer.
+
+10 Minutos.
+
+Es una oportunidad.
+
+Es una oportunidad.
+
+Ahora.
+
+Entonces vamos a abrir para ustedes.
+
+Ahora sí.
+
+Nosotros teníamos ahí.
+
+Bueno, para que sepan, el equipo control nos pidió también para mencionar el tema de la integración.
+
+Y creo que ellos iban a.
+
+No sé si alcanzan a ir ahorita, pero queríamos mostrarles nuevamente la parte de.
+
+Entonces vamos a mostrarles eso.
+
+Necesitamos definir un roadmap para eso definitivamente.
+
+Porque yo entiendo que la integración depende de otras personas.
+
+Necesitamos como que seamos como 100% transparentes y decirles a ellos, márcame un momentico para como oiga, mire esto sí lo podemos hacer o qué digamos scoop está.
+
+Porque lo que ha pasado es que el tema se escaló.
+
+Nosotros hicimos una integración acá local, que en su momento lo hablamos contigo, pero después eso llegó a ávidos de el vicepresidente de tecnología y que ese proveedor no era compliance con los proveedores de ellos.
+
+Entonces que no se puede utilizar ese proveedor.
+
+Nos pusieron a hacer un estudio y entonces el estudio dice que ahora tenemos que pagar la misma plata que costó todo ese desarrollo para que hagan el finding o el discovery de qué es lo que toca hacer.
+
+Y ahora lo último que dijeron de Tec Zona es que eso no está en manos de ellos, sino está en manos del equipo de BIS porque ellos No pueden tocar Visa 1, donde ya hemos hablado con ustedes y nos toca buscar otro proveedor o no sé cuál sea el camino.
+
+Adelante, adelante, adelante.
+
+Hola.
+
+Si.
+
+¿Te funcionó?
+
+¿Se llamó?
+
+¿Te llegó?
+
+No, pero no se conecta.
+
+Listo.
+
+Entonces hay un poquito contexto de nuestro lado.
+
+Nosotros también aquí en Colombia antes teníamos nuestro equipo ZX, Ventus tenía su equipo digamos de IT.
+
+Era como un mundo aparte del COR.
+
+Nosotros hicimos toda la integración.
+
+Hoy en día estamos con el equipo de IT de la B Colombia.
+
+Y obviamente empezaron a saltar temas también desde control de cosas que no estamos cumpliendo.
+
+Entonces ahí desde que hicimos eso, ellos empezaron fue ¿Pero qué necesitamos para hacer la integración?
+
+Entonces tuvimos inclusive una reunión con el equipo de Global, quienes están llevando desde el lado de IT de Global.
+
+Y siempre queda como necesitamos priorizar en Colombia para poder conectarnos con algo que nos permita hacer la integración.
+
+Integración se hace local, pero hoy no podemos integrarnos con el sistema.
+
+Entonces en una reunión inclusive nos dijeron pero si BIS está conectado con SAP, porque BIS nos puede abrir la opción de que se pueda conectar, el ERP se pueda conectar con BIS.
+
+Entonces esto simplemente es un contexto de pues un negocio ya está facturando 40 millones de dólares.
+
+Ha crecido, viene creciendo ahorita aún le dije tú también versus Boche y lo que cambió en Colombia en el i es que toda la facturación tiene que ser electrónica, que eso no pasaba antes, eso ya lo vieron la vez pasada, pero cada vez los plazos son más grandes porque el negocio está facturando más y el 80% de este negocio se factura por puntos propios.
+
+Dale ahí a la otra.
+
+Entonces obviamente ahí por incumplimiento de esto, no solo hay temas desde nosotros desde Biyú que no estamos cumpliendo su.
+
+De no cumplimiento ante el consumidor, consumidor que diga no me llegó mi factura, etcétera, riesgo de multa para nosotros de no cumplir.
+
+Entonces esto es un poco lo que nosotros hacemos.
+
+¿Nosotros sin la integración, nosotros qué tenemos que hacer?
+
+Tenemos que ver cantidad de tickets que entran por BEES, cantidad de tickets que nosotros facturamos, siempre hay diferencia, es muy difícil que eso se hable con lo que realmente pasó por.
+
+Entonces son parte de los controles que nosotros no cumplimos.
+
+Que ahí cuando ven ustedes la facturación, un punto de venta, tú puedes facturar, hay como siete listas de precios, de las cuales en cada zona hay dos o tres y tú tienes que elegir una para poder facturar.
+
+Pero luego tenemos también, no sólo eso, sino que tenemos casos que nos pasan, por ejemplo que la facturación total que entra por BIS no se habla con lo que está en Cieza, eso puede ser porque facturan por otra lista de precios, pero y ahí no estamos cumpliendo.
+
+Pero adicional a eso tenemos que abrir los descuentos para las tiendas, porque cada vez esto está más complejo a nivel de descuentos y esa facturación tampoco se habla con los descuentos que hacen en la facturación de CIESA con lo que entra por BEES.
+
+También un riesgo para nosotros facturaciones que no hacen correctamente por descuento, porque tenemos que abrirles esa opción a las tiendas.
+
+Entonces hoy en día ese proceso muy manual, le das play ahí, bueno, ustedes ya lo han visto, pero todo el proceso de facturación en un punto de venta y todo lo que demora hacer una facturación y nosotros lo que estamos haciendo es un proceso manual y posterior a la facturación de ver por regional, por tiendas qué facturaron y que no y luego tenemos que cruzar eso por producto que manualmente al final eso es muy difícil de que eso cuadre y cuando vemos los ecuaciones pues obviamente vemos que hay oportunidad de descuentos, que no han debido facturar por CIESA y que le facturan porque tienen la puerta abierta, lo vemos después y luego es que aplicamos nosotros los controles con las tiendas.
+
+Entonces es el problema principal que tenemos de facturación.
+
+Dale a la siguiente.
+
+La complejidad que tenemos ahorita, que esto también así como ha crecido el negocio, también ha crecido los tipos de descuentos, antes eran quince, veinte, treinta por ciento de descuento, ahora tenemos descuentos cupones, tenemos descuentos nominales, tenemos frustra y tenemos descuento hasta de 100 mil pesos que no podemos activar la tienda, sino que lo hacemos después con una facturación remota para poder activar eso después.
+
+Que está muy bien de cara al consumidor.
+
+A nosotros nos complejizó la fracción anual.
+
+Entonces por esto es tan importante para nosotros una posible integración.
+
+Todo lo que hemos avanzado a nivel de cómo integrarnos se queda en que necesitamos que nos den el acceso para poder integrar.
+
+Eso básicamente es.
+
+Dale la otra.
+
+Hoy tenemos algunas alarmas que hacemos automáticas con Power BI que nos mandan alarmas de cosas.
+
+Dale a la otra para ver los ejemplos de las alarmas que nos dice por ejemplo qué tienda facturaron más descuento, que han debido cruza como alguna información de BIS con CIESA, pero nuevamente eso es después de que ya lo hicieron, no lo podemos controlar en el momento.
+
+Y tenemos otro tema que es controles de inventario.
+
+Entonces el 40%, 46% de la.
+
+Nosotros tenemos un proceso en Cieza que es la acumulación de ventas.
+
+La acumulación de ventas es todo lo.
+
+Que tú facturaste, tiene que tener el.
+
+Producto obviamente, porque sino tiene que haber cargado factura.
+
+El 80% de esto es porque se equivocan facturando, error en marché.
+
+Entonces en vez de facturar el águila 330, facturó el águila pequeña, facturó el otro, que cruzan de repente un aguardiente con otro.
+
+Entonces genera problemas de acumulación.
+
+El 46 de los productos no acumula por errores en facturación, por eso para nosotros es uno de los problemas también importantes.
+
+Y finalmente, pues obviamente la ley de la otra es los controles que no estamos cumpliendo, que para eso nos acompañan Jonathan y Andrés.
+
+Entonces todos estos controles obviamente ya están pesando algo importante para la V y pues también nos están levantando la mano diciendo pues ya no puede seguir haciendo eso de esa forma.
+
+Entonces nosotros, solo para que ustedes tengan perspectiva, dentro del total 1000 score V Colombia DC es una entidad que pesa casi ocho puntos porcentuales dentro del total del miles score de la B, que pareciera no ser mucho, pero hemos ganado, perdido mix score por uno o dos puntos porcentuales.
+
+D sí está digamos que dentro de nuestra prioridad.
+
+Segundo, a partir de este año nosotros empezamos a hacer visitas presenciales a los puntos físicos, así como lo hacemos en cervecerías, así como lo hacemos en centros de distribución, para ver cómo está performando el proceso de conteo inventarios.
+
+¿Qué nos encontramos en Carrera 91?
+
+Carrera 91 hace un par de meses que fuimos dos cosas, hicimos un muestreo de cuatro SKUs y los cuatro SKUs salieron con diferencias.
+
+¿Cuáles son los root causes de eso?
+
+Uno, pues como estamos mostrando en la imagen, pues que el marcheo es manual, la persona que está registrando cuando tiene por ejemplo rompien pedidos, pero no está facturando.
+
+Entonces ¿Qué pasa?
+
+Que tengo varios riesgos.
+
+Hay uno revenue recognition, ¿Por qué?
+
+¿Porque por política de control global de transferencia, propiedad del producto, pues ya el producto que sale de la tienda yo se lo entrego, lo va a entregar a un cliente final, pues ya en teoría yo transferí la responsabilidad, ese es el hipoterm que yo tengo en Dc, y la realidad es que no está ocurriendo, porque qué pasa?
+
+Que yo estoy entregando el producto al domiciliario, el domiciliario va y entrega y después con ese cruce que dice Migue, yo hago el reconocimiento del ingreso, la facturación, pero operativamente pues yo puedo dejar de hacerlo.
+
+Entonces ese fue el primer impacto que dimos.
+
+El segundo impacto que dimos adicional al tema revision fue los controles de conteo de inventarios.
+
+Hasta hoy hemos logrado que a nivel SOCS que sea revisado por Bélica, solo tenemos cervecerías y centros de distribución, pero pues al ser Colombia una B, sox, yo les diría junto con México y Perú, que estamos más cerca que lejos de que los controles de conteo de inventarios de E pues caigan dentro de la región del auditor externo.
+
+¿Y eso qué implica?
+
+Que pues obviamente cuando nosotros vamos al CI a revisar cuál es el inventario teórico contra las existencias físicas, pues hay una diferencia, insisto, no lo hicimos para el 100% señores, que es hipertransparente, pero encontramos esa diferencia.
+
+Cuando preguntamos cómo se igualan esas diferencias, pues hay dos razones.
+
+Uno, o no han generado los pedidos y ni siquiera eso es de horas.
+
+Yo me acuerdo que para el caso de Carrera Montaña fuimos un lunes y estaban pedidos pendientes por marchar del viernes anterior, del jueves anterior si han recibido.
+
+Entonces tienes un producto desde la perspectiva física financiera, tienes un producto que ya no tienes en tu inventario, ya salió de tu inventario, pero que tampoco tienes el reconocimiento y que en la realidad se facturó tres días antes de jueves, de jueves para lunes, tres o cuatro días.
+
+Y ahí no sólo a nivel de reconocimiento, fíjense que tengo otros controles impactados, cupones con lo que ya explicó Miguel, conteo de inventarios 0.12.
+
+La integración de las órdenes del EDP versus el BC es un control del EC, perdón, es un control súper crítico que nos monitorea hoy en el cor.
+
+¿Qué ocurre hoy en el COR?
+
+Cualquier orden que yo haga en BIS tiene que bajar a SAP de manera limpia, no debería tener ninguna modificación.
+
+Entonces el mismo principio aplicaría para cada cualquier orden que yo agantada debería bajar de manera transparente a sin intervención manual.
+
+Y eso digamos que también le quita un score importante dentro de la.
+
+Y después otro tema de precisión de órdenes de venta.
+
+Bueno, resultado es que fíjense que ahí tengo casi entre los dos, cuatro, seis, siete controles más o menos que tengo en este momento Facebook, por temas de integración entero entre el BC y cieza, tengo casi un punto 50 dentro del 847 que me está afectando y que tengo como no remedial.
+
+Adicional a eso, ahí no se alcanza a ver el número completo, pero logramos comprobar que son 326 mil, 300 mil, 326 mil dólares, que obviamente para el P seguramente el Core no es grande, pero para el PITU tiene un impacto súper grande porque esto evita directamente impacto, evita donde yo estoy quedando pendiente de dar digamos que una razonabilidad del ingreso que está ahí porque no encuentro congruencia entre el momento en el que yo facturo o en el momento que debo de tener el inventario, perdón, y el momento que reconozco el es un impacto grande.
+
+Y el último ya para terminar mi intervención larga, disculpen, esto se está escalando porque entonces ahora no es sólo con el negocio tradicional de TADA Cieza, sino que también vienen otras iniciativas que está haciendo el equipo de Growth de que tienes que tener.
+
+Entonces ejemplo tenemos ADIDI, tenemos Mercado Pago, Mercado Libre, donde queremos como control interno ayudar a que se haga la expansión, por supuesto que sí, capturar mayor número de clientes, todo lo que ustedes quieran, pero sigo teniendo manualmente una conciliación para ver que lo que me llegó a TADA esté llegando a CIESA y no tenga discrepancias y esos son FTS pues que el equipo de Sale Finance en el caso con.
+
+¿Entonces para hacerles el resumen, el riesgo número uno que yo tengo en D como control interno es al no tener esa integración pues writing recognition, todo lo que ya les expliqué dos, fíjense que tengo casi puntos en 40 de impacto dentro de los controles y si ustedes se dan cuenta los K son los claves, entonces son casi seis de los siete controles claves que me están fallando y tengo un value at risk en el EBITDA de TC por inventario por discrepancias que tengo entre el momento que.
+
+Facturo y entonces ahí qué pasa?
+
+Nosotros desde ya tenemos el acceso para poder hacer eso, pero entonces pues espere que no se prioriza, entonces no tenemos claridad de qué debemos hacer porque por eso tuvimos la reunión los tres también con Melanie, ¿Qué hacemos nosotros?
+
+Porque si Colombia necesita priorizar esto y tanto por los controles como por un tema de las vulnerabilidades que tenemos nosotros en esa facturación, pero no queda claro es si en algún momento puede pasar, pero dónde se queda eso y qué.
+
+Hay que hacer, ¿Quién es el responsable?
+
+Porque la conexión la hacemos nosotros, el tema es dónde podemos, qué hay que hacer para poder.
+
+La última vez.
+
+Eso lo hicimos, lo que pasa es que la empresa no era como compliance para IT, entonces no se quedan con.
+
+Ellos, no pueden trabajar, pero la solución.
+
+Que vimos era buena, sí funcionó, hicimos dos pilotos, en el primero la orden Semor o en Bajardí como cinco minutos y ahí dijimos no nos sirve porque en ROS no podemos hacer eso.
+
+Entonces hicieron unos ajustes y en el segundo se demoró 15 segundos.
+
+Entonces dijimos ya estamos listos, está la solución, vamos.
+
+Pero ocurrió.
+
+La solución era como un print, es.
+
+Un marcador que toma la información del script de la URL y lee los nombres y tiene como una IA que adapta el lenguaje de BIS.
+
+Así es.
+
+Entonces claro, lo que pasa es que hay un tema que era la preocupación de tecnología que está mandando información del cliente de un lado hasta los servidores de Cieza donde va a almacenar esa información.
+
+Entonces ahí es donde empieza la vulnerabilidad.
+
+Entiendo.
+
+Pero pues al final es.
+
+Y además que si esa solo para complementar, la otra barrera que tuvimos en ese momento es que si esa es un ERP que es no compliance para IT, entonces con SAP digamos que todo bien, porque SAP tiene todos los safewards de IT.
+
+Sí.
+
+Y TEG está haciendo la implementación.
+
+TEC tiene dos camisas, cómo me lo han vendido.
+
+¿Y ojo, porque yo no soy técnico, pero que me han dicho?
+
+Por un lado estamos mirando si puede subirse a cloud.
+
+Subiéndose a cloud podría hacerse la validación de si puede ser Sox.
+
+Y el segundo camino es que hay 14, no les puedo estar dando el número exacto, pero creo que son 14 controles IT que tiene que tener Cieza para considerarse evaluación sox, porque entiendo que hasta Global es el que determina si es sox o no.
+
+Entonces están en ese camino para decirnos.
+
+Creo que la primera cosa está en compliance, Entonces una API de nuestro lado podría ayudar en esto.
+
+Necesitamos la documentación de ciencia para el.
+
+Almacenamiento de la información.
+
+Podría quedar en nuestro valor que dónde está la protección de los datos del consumidor.
+
+Entonces, Porque este que estamos platicando con AI es que toma los datos.
+
+Toma los datos, ese es el problema.
+
+Claro, lo que pasa es que como los toma de una fuente pública, porque.
+
+Por ejemplo, si el consumidor.
+
+Por ejemplo, si el consumidor quiere borrar sus datos, nosotros somos obligados a borrar de todos los sistemas.
+
+Entonces estamos borrando la cuenta del consumidor desde nuestro lado de BEES.
+
+Si no hay una integración cómo hacerlo, vamos a estar creando un nuevo problema, creo que más grande.
+
+De hecho ya pasa.
+
+Si yo voy a eliminar mi cuenta.
+
+Se queda en cies.
+
+Entonces con la API quizás podría tener algo así también para ayudar a borrar dado de Cieza.
+
+El punto es, no es solamente una integración de pedido, es también una conexión de estas cosas de decisiones que son compliance para las cosas.
+
+Pero.
+
+Luis, ¿Cuáles fueron las informaciones que Luis pasó para usted?
+
+No, no concluimos, le mostramos fue la necesidad, dijimos que era precisamente esto que ya lo habíamos hablado en un momento y que lo que necesitemos, lo que ahorita no está un tema de desarrollar la integración es que no tenemos a qué conectarnos o no tenemos el acceso a la información.
+
+Entonces.
+
+No es como dice,.
+
+Hay que solicitarle la documentación a Cieza, que fue lo mismo que hicieron estos personajes para conectarnos al lado de ellos y pues con esa documentación alguien que desarrolle la toma de la información no desde el marcador sino desde la base de datos.
+
+Pero eso lo hacemos nosotros con equipo IT.
+
+El problema es que no tenemos a qué conectarnos y ahí es donde necesitamos la respuesta, que nos digan y toda.
+
+La documentación de SISA tienes para compartir.
+
+Y que está priorizado, porque entiendo que también es un tema de priorización dentro de un back.
+
+¿Pero es que ese desarrollo lo ACIT o lo AC?
+
+Porque yo lo cultivó.
+
+Lo último que entendí en la última reunión es que como era un tema de BIS ellos no podían tocar, o.
+
+Sea ustedes tienen que ir porque ahorita lo que nos dicen ellos es no tenemos a qué conectarnos, no tenemos de dónde sacar información.
+
+No, pues hay disponibilidad y eso depende de.
+
+Importante todas las informaciones para desarrollar eso.
+
+Invisible yo no tiene este tipo de información.
+
+Si es invisible pero necesitamos.
+
+Claro, lo que pasa es que.
+
+Pero ya no sé si es seller, porque si es conectarse a la base de datos ya no es seller.
+
+No, no, es muy difícil hacer todas las organizaciones, pero más las cosas de seller son con los otros, las cosas de órdenes son con plataforma y plataforma es en BIS.
+
+Claro que ese es el problema.
+
+Claro, tocar BISB es lo que es complicado.
+
+Exacto.
+
+Pero la fuente.
+
+Entonces nosotros tenemos que poner la prioridad con ellos y ahí hacer una presión para que ellos con las informaciones necesarias.
+
+Necesitamos de ese tipo de información.
+
+Es lo mismo en los otros.
+
+La mejor cosa hacer comprendiendo los caminos es hacer una API no solamente para Si, es hacer una API white label para todos los proveedores que gustarían, porque ahora tenemos Cieza en las propietarios que son nosotros las tiendas, pero estamos creciendo en Community Park.
+
+Community Park no tiene CIS,.
+
+Necesitamos saber si tenemos informaciones para acá o si tenemos esta conexión.
+
+Yo no sé si eso lo ideal.
+
+Luis, necesitamos platicar más internamente.
+
+Tenemos todas las informaciones así, porque no es los otros que vamos a desarrollar.
+
+Necesitamos tener todas las informaciones para cobrarlos después.
+
+Este tipo de API necesaria.
+
+Vamos a platicar con ellos.
+
+Envía la dimensión de 7.
+
+Yo ya tengo la documentación.
+
+Podemos platicar un poco con Veraqué, Veraqué que es Engineer Manager del equipo de Sailor y también un equipo de integraciones.
+
+Con ello que están dónde no viene mañana.
+
+Podemos hacer una charla con Elu, poner una persona técnica para decir mira esto realmente con nosotros con el equipo de plataformas y ahí ponemos de pie una idea de ejecución para llegar ahí.
+
+A partir de ahí una idea de priorización.
+
+Colombia esto es eso es lo que nos está hoy en día con complicando todo el negocio y entonces pues queremos crecer.
+
+Entonces no puedes crecer obviamente con este contexto de puntos propios facturando así el riesgo entonces y la falta de claridad nosotros de porque desde el equipo interno dicen yo lo que no tengo es a dónde pegar.
+
+Entonces con quién hay que hablar.
+
+Entonces lo que necesitamos tener el panorama claro y post y el boyo working,.
+
+Porque ellos dicen no tengo a qué conectarme class, me tienen que priorizar para poder hacer ese arroyo.
+
+Pero no está claro quién prioriza, cómo prioriza como para tener un timeline de oye, ahorita tenemos este riesgo, pero hacia cualquier cosa optimista.
+
+Febrero del 2027 pudieses empezar a dejar de ya el resto de cosas dentro del control interno de IT.
+
+Pero este es uno sobre todo porque yo siempre le digo al equipo, es como si yo fuera aquí al OXXO, me comprara una botella de agua y me saliera del OXXO sin pagar.
+
+Ese es el nivel de riesgo que tengo.
+
+Cómo veré que estará con vosotros mañana.
+
+Vamos tener la como podemos mostrar cómo funciona.
+
+También se tiene ya una idea de, yo no sé los cinco principales ERP que las tiendas de Community Box averiguamos eso,.
+
+La verdad que la mayoría de.
+
+Los community no harían una integración, pero ya estamos teniendo tiendas que hacen 2.000, 2.500 órdenes que pueden pensar en una integración.
+
+Pero cómo.
+
+Hacen lo mismo manualmente pasar la información a su sistema.
+
+Pero en la medida que nosotros hagamos eso y por ejemplo mañana queremos cerrar algunas tiendas propias y darle esas órdenes, necesitamos tener que ellos se puedan integrar.
+
+Porque por ejemplo, Delivery hizo un trabajo con Infox, Mira estos son los rps que nosotros tenemos soportados, disponibles, soportados, algo así, mira, hay todos los precios, pero tú eliges de este, elige aquí está API, ellos ya conocen la integración y listo.
+
+Este es el punto, deberíamos tener un poco más, yo sé que necesitamos ansias ahora, pero es importante ahora ser un poco más amplio porque si no en 8 meses vamos acá dentro.
+
+Mira las community pop, mi amigo quiere poner a policía, entonces sería bueno tener la charla correcta ahora, porque el esfuerzo es lo mismo creo para hacer APIs correctamente para todos, no solamente para CS.
+
+¿Tengo un ejemplo en Brasil, hacemos una conexión con BoxD, que es como operativo de disco, pero hacemos una conexión exclusiva para box lv, hacemos una expansión.
+
+Utilizando,.
+
+Tenemos que hacer todo una conexión totalmente diferente ahora para, yo pienso que una conexión para Q?
+
+¿Ya vinimos acá sabiendo que este treasure sería nuestro problema, es prioridad siempre, entonces, pero ahora desde nuestro lado creo que se queda la responsabilidad también de hacer una API que se queda amplia para todos los fornecedores, que igual es una.
+
+API para fulfillment, no es un API para que se inventario, no es un IPI, datos básicos emocionales y por eso eso debería ser estándar para todas, pero.
+
+Buscamos los primeros y es complejo, por qué?
+
+Porque estamos hablando de todos, prácticamente todos los estatus de la orden, porque cuando salir de la tienda no significa entrega, entonces si no entrega necesita llegar a.
+
+Información.
+
+Hoy ya tenemos, pero la comunicación con ciezas, entonces todos los estatus necesitan.
+
+Ligar, tiene que pasar es cuando la orden se cierre.
+
+Exactamente.
+
+Estatus, insteradores casaditos, o.
+
+Sea platicamos mañana con ver aquel, obviamente debemos tener ETA, perdón, pero creo que esto ayuda ya avanzar más la disc por una perspectiva un poco más técnica de quién es la responsabilidad, porque el 100 puede nos decir no, no, esto es con el equipo de plataforma de B y ahí necesitamos poner, hacer un discovery con la información de.
+
+¿Pero nosotros hacemos la conexión con equipo de B?
+
+¿Con nosotros, nosotros vamos a hacer,.
+
+Tenemos alguna oportunidad de experiencia de server de ku, Malas experiencias?
+
+No, yo creo que eso lo que estamos hablando de que los features a veces no los bajamos correctamente a la operación, lo soltamos y está, pero desde yo empecé a usar uno,.
+
+Eso lo vemos con María, pero eso se ve con María.
+
+Sí, pero reforzarlo nosotros en la operación, como usar el pinchu, ver cómo funciona tal, pero es más como para bajárselo a los jefes.
+
+OK.
+
+Y para que lo empiecen a usar, pero no de resto, pues todos esos fichus que vimos también están ayudando.
+
+¿Tú vas a estar en jueves de mañana entonces?
+
+Creo que en jueves gustaremos de platicar.
+
+Mira si esa ya está, no llamarían en de sueño.
+
+Entonces en jueves gustaría platicar más las cosas que no están ahí.
+
+Mira, entonces cuáles son las nuevas oportunidades que podríamos hacer para las tiendas, los repartidores, entonces propina.
+
+¿Cómo se quedaría la dinámica de hacer el pago de propina para los partidores?
+
+Porque en sede libre la misma cosa, es fácil poner propina en sede libre, el problema está en la tienda ser el pago para la partido.
+
+Entonces, porque cuando hicimos en sale libre, cómo se habla con las personas, personas paro de trabajar en conjunto, entonces pasó en el libre todo, mira, hay propina y no está ligada a mí.
+
+¿Qué pasa?
+
+¿No, no, no, no voy a hacer nada, no, no, entonces sacamos la propina porque entonces cómo podemos hacer esto mejor?
+
+No sé si hicieron una prueba ahí con esto, pero cosas así, cosas que no tenemos no estar tan acá en la discusión porque ahí podemos poner en la mesa el tema de service fee.
+
+Y propina, eso ayuda, pero cuando uno hace temas de propina tiene que estar también la experiencia.
+
+Por ejemplo, hicimos una propuesta para libre, nosotros trabajamos ahí, es que la propina también podría quedar con un acuerdo con.
+
+20% Es para la tienda y 80% para ti.
+
+Gracias.
+
+Ahí miren las cuentas.
+
+Entonces, porque así se pasa mucho, porque la tienda comprende que deciden presidencia del libre, mira, OK, la propina para, pero el servicio no es solamente del repartidor, entonces es justo que yo queda con una parte de la propina también, porque por todo el repartidor trabaja conmigo, entonces hay un acuerdo ahí también.
+
+Entonces cosas así, no sé, cosas de portafolio que se quedaría bien, cosas de adquisición de repartidor.
+
+Para mí por ahora también el tema del stockout, el del portafolio mínimo, pero el de portafolio total.
+
+Si, eso ya lo.
+
+Sobre todo con los, por ejemplo, hacen.
+
+Muchas cosas manuales todas las semanas de enviar las tiendas.
+
+Quizás ahí hay oportunidad de hacer automatizaciones con eso también.
+
+Vamos a revisarlo con el equipo, la verdad que no lo trajimos porque.
+
+Pero lo revisamos con el equipo.
+
+Ese tema de portafolio, por ejemplo, mira, cosas que nos ha pasado cuando vamos a la ruta con los community box, ellos se fijan solo en la barrita si ya están en mar por encima del 90-91% pueden tener categorías donde no hayan vendido productos, pero como ya están ahí, ya no le para.
+
+Entonces el global portafolio ayuda a que obviamente se mantengan en ese 90% pero mejoren también.
+
+¿Y que le estamos dando ahorita?
+
+La corte.
+
+Entonces en jueves dos cosas que vamos a platicar, Pain Points y después una dinámica para ideas para estos Pain Point.
+
+Entonces dos puntos y no solamente para.
+
+Las tiendas, pero para.
+
+Google Admin que es perfecto porque hay muchas cosas en admin, desde batio, operaciones, creación de cupón,.
+
+Todo,.
+
+Promociones, no sé, cosas que hoy hacen Power BI se quedaría bien en admin la información porque ahí CX podría tener acceso más fácil a la información, no sé.
+
+Listo, chévere.
+
+Es como.
+
+Vamos a estar por cuenta de.
+
+La dinámica de web.
+
+¿Está para como las 8 de la mañana es esto?
+
+No, pues yo la puse desde las 8 pero ni siquiera como centro de farmacia.
+
+Creo que 9 de la mañana está bien.
+
+Mañana ya tenemos los datos de las tiendas que vamos a hacer la visita.
+
+¿Los nombres?
+
+¿Solamente los nombres?
+
+Sí, los nombres.
+
+Yeah,.
+
+No.
+
+¿Instead of picnic?
+
+¿What's this one to me?
+
+I know.
